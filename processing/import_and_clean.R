@@ -6,7 +6,7 @@ library(readxl)
 l1_24 = read_excel("data/raw/eu_lang_survey_2024.xlsx", sheet = "L1", skip = 7)
 l2_24 = read_excel("data/raw/eu_lang_survey_2024.xlsx", sheet = "L2", skip = 7)
 l3_24 = read_excel("data/raw/eu_lang_survey_2024.xlsx", sheet = "L3", skip = 7)
-l4_24 = read_excel("data/raw/eu_lang_survey_2024.xlsx", sheet = "L3", skip = 7)
+l4_24 = read_excel("data/raw/eu_lang_survey_2024.xlsx", sheet = "L4", skip = 7)
 
 clean_and_long_2024 = function(df, speaker_type = "L1"){
   
