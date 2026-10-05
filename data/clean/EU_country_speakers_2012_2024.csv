@@ -18,7 +18,7 @@ IE,Ireland,ara,Arabic,L1_speakers,4,2012
 IE,Ireland,ara,Arabic,L2_speakers,3,2012
 IE,Ireland,ara,Arabic,L3_speakers,1,2012
 IE,Ireland,ara,Arabic,L4_speakers,1,2012
-EL,Greece,ara,Arabic,L2_speakers,1,2012
+GR,Greece,ara,Arabic,L2_speakers,1,2012
 ES,Spain,ara,Arabic,L1_speakers,6,2012
 ES,Spain,ara,Arabic,L2_speakers,1,2012
 ES,Spain,ara,Arabic,L3_speakers,1,2012
@@ -57,11 +57,11 @@ FI,Finland,ara,Arabic,L1_speakers,4,2012
 FI,Finland,ara,Arabic,L4_speakers,1,2012
 SE,Sweden,ara,Arabic,L1_speakers,8,2012
 SE,Sweden,ara,Arabic,L3_speakers,4,2012
-UK,United Kingdom,ara,Arabic,L1_speakers,6,2012
-UK,United Kingdom,ara,Arabic,L2_speakers,4,2012
-UK,United Kingdom,ara,Arabic,L3_speakers,9,2012
-UK,United Kingdom,ara,Arabic,L4_speakers,4,2012
-EL,Greece,eus,Basque,L1_speakers,1,2012
+GB,United Kingdom,ara,Arabic,L1_speakers,6,2012
+GB,United Kingdom,ara,Arabic,L2_speakers,4,2012
+GB,United Kingdom,ara,Arabic,L3_speakers,9,2012
+GB,United Kingdom,ara,Arabic,L4_speakers,4,2012
+GR,Greece,eus,Basque,L1_speakers,1,2012
 ES,Spain,eus,Basque,L1_speakers,9,2012
 ES,Spain,eus,Basque,L2_speakers,7,2012
 ES,Spain,eus,Basque,L3_speakers,1,2012
@@ -82,10 +82,10 @@ DE,Germany,bul,Bulgarian,L3_speakers,1,2012
 EE,Estonia,bul,Bulgarian,L1_speakers,1,2012
 EE,Estonia,bul,Bulgarian,L2_speakers,1,2012
 IE,Ireland,bul,Bulgarian,L3_speakers,1,2012
-EL,Greece,bul,Bulgarian,L1_speakers,5,2012
-EL,Greece,bul,Bulgarian,L2_speakers,6,2012
-EL,Greece,bul,Bulgarian,L3_speakers,2,2012
-EL,Greece,bul,Bulgarian,L4_speakers,1,2012
+GR,Greece,bul,Bulgarian,L1_speakers,5,2012
+GR,Greece,bul,Bulgarian,L2_speakers,6,2012
+GR,Greece,bul,Bulgarian,L3_speakers,2,2012
+GR,Greece,bul,Bulgarian,L4_speakers,1,2012
 ES,Spain,bul,Bulgarian,L1_speakers,2,2012
 IT,Italy,bul,Bulgarian,L2_speakers,2,2012
 IT,Italy,bul,Bulgarian,L3_speakers,1,2012
@@ -104,7 +104,7 @@ PL,Poland,bul,Bulgarian,L3_speakers,1,2012
 PT,Portugal,bul,Bulgarian,L2_speakers,1,2012
 RO,Romania,bul,Bulgarian,L3_speakers,1,2012
 SK,Slovakia,bul,Bulgarian,L1_speakers,1,2012
-UK,United Kingdom,bul,Bulgarian,L1_speakers,2,2012
+GB,United Kingdom,bul,Bulgarian,L1_speakers,2,2012
 IE,Ireland,cat,Catalan,L1_speakers,1,2012
 ES,Spain,cat,Catalan,L1_speakers,85,2012
 ES,Spain,cat,Catalan,L2_speakers,95,2012
@@ -123,8 +123,8 @@ PT,Portugal,cat,Catalan,L1_speakers,1,2012
 PT,Portugal,cat,Catalan,L3_speakers,1,2012
 PT,Portugal,cat,Catalan,L4_speakers,2,2012
 FI,Finland,cat,Catalan,L1_speakers,3,2012
-UK,United Kingdom,cat,Catalan,L1_speakers,1,2012
-UK,United Kingdom,cat,Catalan,L2_speakers,3,2012
+GB,United Kingdom,cat,Catalan,L1_speakers,1,2012
+GB,United Kingdom,cat,Catalan,L2_speakers,3,2012
 BE,Belgium,zho,Chinese,L1_speakers,2,2012
 BE,Belgium,zho,Chinese,L3_speakers,2,2012
 BG,Bulgaria,zho,Chinese,L4_speakers,1,2012
@@ -135,8 +135,8 @@ DE,Germany,zho,Chinese,L4_speakers,1,2012
 EE,Estonia,zho,Chinese,L1_speakers,1,2012
 IE,Ireland,zho,Chinese,L1_speakers,1,2012
 IE,Ireland,zho,Chinese,L2_speakers,1,2012
-EL,Greece,zho,Chinese,L3_speakers,1,2012
-EL,Greece,zho,Chinese,L4_speakers,1,2012
+GR,Greece,zho,Chinese,L3_speakers,1,2012
+GR,Greece,zho,Chinese,L4_speakers,1,2012
 ES,Spain,zho,Chinese,L1_speakers,1,2012
 FR,France,zho,Chinese,L1_speakers,1,2012
 FR,France,zho,Chinese,L2_speakers,1,2012
@@ -155,9 +155,9 @@ AT,Austria,zho,Chinese,L3_speakers,3,2012
 PT,Portugal,zho,Chinese,L1_speakers,2,2012
 PT,Portugal,zho,Chinese,L4_speakers,1,2012
 SE,Sweden,zho,Chinese,L4_speakers,1,2012
-UK,United Kingdom,zho,Chinese,L1_speakers,3,2012
-UK,United Kingdom,zho,Chinese,L2_speakers,2,2012
-UK,United Kingdom,zho,Chinese,L3_speakers,4,2012
+GB,United Kingdom,zho,Chinese,L1_speakers,3,2012
+GB,United Kingdom,zho,Chinese,L2_speakers,2,2012
+GB,United Kingdom,zho,Chinese,L3_speakers,4,2012
 BE,Belgium,hrv,Croatian,L1_speakers,3,2012
 BE,Belgium,hrv,Croatian,L2_speakers,1,2012
 BG,Bulgaria,hrv,Croatian,L1_speakers,1,2012
@@ -168,8 +168,8 @@ DE,Germany,hrv,Croatian,L3_speakers,2,2012
 DE,Germany,hrv,Croatian,L4_speakers,2,2012
 EE,Estonia,hrv,Croatian,L1_speakers,3,2012
 IE,Ireland,hrv,Croatian,L1_speakers,1,2012
-EL,Greece,hrv,Croatian,L1_speakers,1,2012
-EL,Greece,hrv,Croatian,L2_speakers,1,2012
+GR,Greece,hrv,Croatian,L1_speakers,1,2012
+GR,Greece,hrv,Croatian,L2_speakers,1,2012
 FR,France,hrv,Croatian,L1_speakers,1,2012
 FR,France,hrv,Croatian,L2_speakers,1,2012
 IT,Italy,hrv,Croatian,L3_speakers,1,2012
@@ -196,14 +196,14 @@ SK,Slovakia,hrv,Croatian,L3_speakers,1,2012
 SK,Slovakia,hrv,Croatian,L4_speakers,3,2012
 SE,Sweden,hrv,Croatian,L1_speakers,1,2012
 SE,Sweden,hrv,Croatian,L3_speakers,1,2012
-UK,United Kingdom,hrv,Croatian,L1_speakers,2,2012
-UK,United Kingdom,hrv,Croatian,L3_speakers,1,2012
-UK,United Kingdom,hrv,Croatian,L4_speakers,2,2012
+GB,United Kingdom,hrv,Croatian,L1_speakers,2,2012
+GB,United Kingdom,hrv,Croatian,L3_speakers,1,2012
+GB,United Kingdom,hrv,Croatian,L4_speakers,2,2012
 BE,Belgium,ces,Czech,L3_speakers,1,2012
 BE,Belgium,ces,Czech,L4_speakers,1,2012
-CZ,Czech Republic,ces,Czech,L1_speakers,978,2012
-CZ,Czech Republic,ces,Czech,L2_speakers,15,2012
-CZ,Czech Republic,ces,Czech,L3_speakers,1,2012
+CZ,Czechia,ces,Czech,L1_speakers,978,2012
+CZ,Czechia,ces,Czech,L2_speakers,15,2012
+CZ,Czechia,ces,Czech,L3_speakers,1,2012
 DK,Denmark,ces,Czech,L4_speakers,1,2012
 DE,Germany,ces,Czech,L1_speakers,2,2012
 DE,Germany,ces,Czech,L2_speakers,1,2012
@@ -211,7 +211,7 @@ DE,Germany,ces,Czech,L3_speakers,1,2012
 DE,Germany,ces,Czech,L4_speakers,5,2012
 EE,Estonia,ces,Czech,L1_speakers,1,2012
 IE,Ireland,ces,Czech,L4_speakers,1,2012
-EL,Greece,ces,Czech,L1_speakers,1,2012
+GR,Greece,ces,Czech,L1_speakers,1,2012
 ES,Spain,ces,Czech,L4_speakers,2,2012
 CY,Cyprus,ces,Czech,L2_speakers,1,2012
 CY,Cyprus,ces,Czech,L3_speakers,2,2012
@@ -237,7 +237,7 @@ SK,Slovakia,ces,Czech,L2_speakers,322,2012
 SK,Slovakia,ces,Czech,L3_speakers,105,2012
 SK,Slovakia,ces,Czech,L4_speakers,47,2012
 SE,Sweden,ces,Czech,L1_speakers,2,2012
-UK,United Kingdom,ces,Czech,L1_speakers,4,2012
+GB,United Kingdom,ces,Czech,L1_speakers,4,2012
 BE,Belgium,dan,Danish,L1_speakers,4,2012
 BE,Belgium,dan,Danish,L4_speakers,1,2012
 DK,Denmark,dan,Danish,L1_speakers,983,2012
@@ -266,8 +266,8 @@ SE,Sweden,dan,Danish,L1_speakers,3,2012
 SE,Sweden,dan,Danish,L2_speakers,5,2012
 SE,Sweden,dan,Danish,L3_speakers,29,2012
 SE,Sweden,dan,Danish,L4_speakers,25,2012
-UK,United Kingdom,dan,Danish,L1_speakers,3,2012
-UK,United Kingdom,dan,Danish,L2_speakers,1,2012
+GB,United Kingdom,dan,Danish,L1_speakers,3,2012
+GB,United Kingdom,dan,Danish,L2_speakers,1,2012
 BE,Belgium,nld,Dutch,L1_speakers,576,2012
 BE,Belgium,nld,Dutch,L2_speakers,96,2012
 BE,Belgium,nld,Dutch,L3_speakers,34,2012
@@ -285,7 +285,7 @@ IE,Ireland,nld,Dutch,L1_speakers,2,2012
 IE,Ireland,nld,Dutch,L2_speakers,2,2012
 IE,Ireland,nld,Dutch,L3_speakers,1,2012
 IE,Ireland,nld,Dutch,L4_speakers,2,2012
-EL,Greece,nld,Dutch,L4_speakers,1,2012
+GR,Greece,nld,Dutch,L4_speakers,1,2012
 ES,Spain,nld,Dutch,L2_speakers,1,2012
 ES,Spain,nld,Dutch,L4_speakers,1,2012
 FR,France,nld,Dutch,L2_speakers,4,2012
@@ -317,9 +317,9 @@ SI,Slovenia,nld,Dutch,L2_speakers,1,2012
 FI,Finland,nld,Dutch,L4_speakers,2,2012
 SE,Sweden,nld,Dutch,L1_speakers,3,2012
 SE,Sweden,nld,Dutch,L3_speakers,4,2012
-UK,United Kingdom,nld,Dutch,L1_speakers,5,2012
-UK,United Kingdom,nld,Dutch,L2_speakers,2,2012
-UK,United Kingdom,nld,Dutch,L3_speakers,1,2012
+GB,United Kingdom,nld,Dutch,L1_speakers,5,2012
+GB,United Kingdom,nld,Dutch,L2_speakers,2,2012
+GB,United Kingdom,nld,Dutch,L3_speakers,1,2012
 BE,Belgium,eng,English,L1_speakers,5,2012
 BE,Belgium,eng,English,L2_speakers,318,2012
 BE,Belgium,eng,English,L3_speakers,195,2012
@@ -328,10 +328,10 @@ BG,Bulgaria,eng,English,L1_speakers,3,2012
 BG,Bulgaria,eng,English,L2_speakers,193,2012
 BG,Bulgaria,eng,English,L3_speakers,53,2012
 BG,Bulgaria,eng,English,L4_speakers,5,2012
-CZ,Czech Republic,eng,English,L1_speakers,7,2012
-CZ,Czech Republic,eng,English,L2_speakers,231,2012
-CZ,Czech Republic,eng,English,L3_speakers,33,2012
-CZ,Czech Republic,eng,English,L4_speakers,4,2012
+CZ,Czechia,eng,English,L1_speakers,7,2012
+CZ,Czechia,eng,English,L2_speakers,231,2012
+CZ,Czechia,eng,English,L3_speakers,33,2012
+CZ,Czechia,eng,English,L4_speakers,4,2012
 DK,Denmark,eng,English,L1_speakers,8,2012
 DK,Denmark,eng,English,L2_speakers,802,2012
 DK,Denmark,eng,English,L3_speakers,67,2012
@@ -348,10 +348,10 @@ IE,Ireland,eng,English,L1_speakers,938,2012
 IE,Ireland,eng,English,L2_speakers,48,2012
 IE,Ireland,eng,English,L3_speakers,8,2012
 IE,Ireland,eng,English,L4_speakers,2,2012
-EL,Greece,eng,English,L1_speakers,10,2012
-EL,Greece,eng,English,L2_speakers,481,2012
-EL,Greece,eng,English,L3_speakers,28,2012
-EL,Greece,eng,English,L4_speakers,1,2012
+GR,Greece,eng,English,L1_speakers,10,2012
+GR,Greece,eng,English,L2_speakers,481,2012
+GR,Greece,eng,English,L3_speakers,28,2012
+GR,Greece,eng,English,L4_speakers,1,2012
 ES,Spain,eng,English,L1_speakers,4,2012
 ES,Spain,eng,English,L2_speakers,144,2012
 ES,Spain,eng,English,L3_speakers,66,2012
@@ -420,29 +420,29 @@ SE,Sweden,eng,English,L1_speakers,15,2012
 SE,Sweden,eng,English,L2_speakers,828,2012
 SE,Sweden,eng,English,L3_speakers,43,2012
 SE,Sweden,eng,English,L4_speakers,6,2012
-UK,United Kingdom,eng,English,L1_speakers,1165,2012
-UK,United Kingdom,eng,English,L2_speakers,120,2012
-UK,United Kingdom,eng,English,L3_speakers,14,2012
-UK,United Kingdom,eng,English,L4_speakers,5,2012
-DE,Germany,est,Estonian,L2_speakers,2,2012
-EE,Estonia,est,Estonian,L1_speakers,796,2012
-EE,Estonia,est,Estonian,L2_speakers,90,2012
-EE,Estonia,est,Estonian,L3_speakers,29,2012
-EE,Estonia,est,Estonian,L4_speakers,5,2012
-IE,Ireland,est,Estonian,L2_speakers,2,2012
-EL,Greece,est,Estonian,L1_speakers,1,2012
-LV,Latvia,est,Estonian,L1_speakers,1,2012
-LV,Latvia,est,Estonian,L3_speakers,2,2012
-LV,Latvia,est,Estonian,L4_speakers,1,2012
-LT,Lithuania,est,Estonian,L1_speakers,2,2012
-LT,Lithuania,est,Estonian,L4_speakers,2,2012
-PT,Portugal,est,Estonian,L1_speakers,19,2012
-FI,Finland,est,Estonian,L1_speakers,8,2012
-FI,Finland,est,Estonian,L2_speakers,2,2012
-FI,Finland,est,Estonian,L3_speakers,2,2012
-FI,Finland,est,Estonian,L4_speakers,3,2012
-SE,Sweden,est,Estonian,L3_speakers,2,2012
-UK,United Kingdom,est,Estonian,L1_speakers,3,2012
+GB,United Kingdom,eng,English,L1_speakers,1165,2012
+GB,United Kingdom,eng,English,L2_speakers,120,2012
+GB,United Kingdom,eng,English,L3_speakers,14,2012
+GB,United Kingdom,eng,English,L4_speakers,5,2012
+DE,Germany,ekk,Estonian,L2_speakers,2,2012
+EE,Estonia,ekk,Estonian,L1_speakers,796,2012
+EE,Estonia,ekk,Estonian,L2_speakers,90,2012
+EE,Estonia,ekk,Estonian,L3_speakers,29,2012
+EE,Estonia,ekk,Estonian,L4_speakers,5,2012
+IE,Ireland,ekk,Estonian,L2_speakers,2,2012
+GR,Greece,ekk,Estonian,L1_speakers,1,2012
+LV,Latvia,ekk,Estonian,L1_speakers,1,2012
+LV,Latvia,ekk,Estonian,L3_speakers,2,2012
+LV,Latvia,ekk,Estonian,L4_speakers,1,2012
+LT,Lithuania,ekk,Estonian,L1_speakers,2,2012
+LT,Lithuania,ekk,Estonian,L4_speakers,2,2012
+PT,Portugal,ekk,Estonian,L1_speakers,19,2012
+FI,Finland,ekk,Estonian,L1_speakers,8,2012
+FI,Finland,ekk,Estonian,L2_speakers,2,2012
+FI,Finland,ekk,Estonian,L3_speakers,2,2012
+FI,Finland,ekk,Estonian,L4_speakers,3,2012
+SE,Sweden,ekk,Estonian,L3_speakers,2,2012
+GB,United Kingdom,ekk,Estonian,L1_speakers,3,2012
 BE,Belgium,fin,Finnish,L2_speakers,2,2012
 DK,Denmark,fin,Finnish,L1_speakers,1,2012
 DK,Denmark,fin,Finnish,L3_speakers,1,2012
@@ -467,7 +467,7 @@ SE,Sweden,fin,Finnish,L1_speakers,11,2012
 SE,Sweden,fin,Finnish,L2_speakers,4,2012
 SE,Sweden,fin,Finnish,L3_speakers,4,2012
 SE,Sweden,fin,Finnish,L4_speakers,2,2012
-UK,United Kingdom,fin,Finnish,L1_speakers,3,2012
+GB,United Kingdom,fin,Finnish,L1_speakers,3,2012
 BE,Belgium,fra,French,L1_speakers,374,2012
 BE,Belgium,fra,French,L2_speakers,254,2012
 BE,Belgium,fra,French,L3_speakers,193,2012
@@ -476,10 +476,10 @@ BG,Bulgaria,fra,French,L1_speakers,1,2012
 BG,Bulgaria,fra,French,L2_speakers,7,2012
 BG,Bulgaria,fra,French,L3_speakers,9,2012
 BG,Bulgaria,fra,French,L4_speakers,3,2012
-CZ,Czech Republic,fra,French,L1_speakers,1,2012
-CZ,Czech Republic,fra,French,L2_speakers,2,2012
-CZ,Czech Republic,fra,French,L3_speakers,7,2012
-CZ,Czech Republic,fra,French,L4_speakers,4,2012
+CZ,Czechia,fra,French,L1_speakers,1,2012
+CZ,Czechia,fra,French,L2_speakers,2,2012
+CZ,Czechia,fra,French,L3_speakers,7,2012
+CZ,Czechia,fra,French,L4_speakers,4,2012
 DK,Denmark,fra,French,L1_speakers,2,2012
 DK,Denmark,fra,French,L2_speakers,5,2012
 DK,Denmark,fra,French,L3_speakers,38,2012
@@ -494,10 +494,10 @@ IE,Ireland,fra,French,L1_speakers,1,2012
 IE,Ireland,fra,French,L2_speakers,98,2012
 IE,Ireland,fra,French,L3_speakers,65,2012
 IE,Ireland,fra,French,L4_speakers,6,2012
-EL,Greece,fra,French,L1_speakers,4,2012
-EL,Greece,fra,French,L2_speakers,13,2012
-EL,Greece,fra,French,L3_speakers,65,2012
-EL,Greece,fra,French,L4_speakers,8,2012
+GR,Greece,fra,French,L1_speakers,4,2012
+GR,Greece,fra,French,L2_speakers,13,2012
+GR,Greece,fra,French,L3_speakers,65,2012
+GR,Greece,fra,French,L4_speakers,8,2012
 ES,Spain,fra,French,L1_speakers,14,2012
 ES,Spain,fra,French,L2_speakers,35,2012
 ES,Spain,fra,French,L3_speakers,41,2012
@@ -558,10 +558,10 @@ FI,Finland,fra,French,L4_speakers,33,2012
 SE,Sweden,fra,French,L2_speakers,2,2012
 SE,Sweden,fra,French,L3_speakers,53,2012
 SE,Sweden,fra,French,L4_speakers,40,2012
-UK,United Kingdom,fra,French,L1_speakers,13,2012
-UK,United Kingdom,fra,French,L2_speakers,214,2012
-UK,United Kingdom,fra,French,L3_speakers,33,2012
-UK,United Kingdom,fra,French,L4_speakers,7,2012
+GB,United Kingdom,fra,French,L1_speakers,13,2012
+GB,United Kingdom,fra,French,L2_speakers,214,2012
+GB,United Kingdom,fra,French,L3_speakers,33,2012
+GB,United Kingdom,fra,French,L4_speakers,7,2012
 IE,Ireland,glg,Galician,L2_speakers,2,2012
 ES,Spain,glg,Galician,L1_speakers,51,2012
 ES,Spain,glg,Galician,L2_speakers,7,2012
@@ -570,7 +570,7 @@ FR,France,glg,Galician,L2_speakers,1,2012
 AT,Austria,glg,Galician,L1_speakers,1,2012
 PT,Portugal,glg,Galician,L1_speakers,1,2012
 SE,Sweden,glg,Galician,L1_speakers,1,2012
-UK,United Kingdom,glg,Galician,L1_speakers,1,2012
+GB,United Kingdom,glg,Galician,L1_speakers,1,2012
 BE,Belgium,deu,German,L1_speakers,4,2012
 BE,Belgium,deu,German,L2_speakers,30,2012
 BE,Belgium,deu,German,L3_speakers,59,2012
@@ -578,10 +578,10 @@ BE,Belgium,deu,German,L4_speakers,139,2012
 BG,Bulgaria,deu,German,L2_speakers,23,2012
 BG,Bulgaria,deu,German,L3_speakers,47,2012
 BG,Bulgaria,deu,German,L4_speakers,5,2012
-CZ,Czech Republic,deu,German,L1_speakers,6,2012
-CZ,Czech Republic,deu,German,L2_speakers,77,2012
-CZ,Czech Republic,deu,German,L3_speakers,69,2012
-CZ,Czech Republic,deu,German,L4_speakers,8,2012
+CZ,Czechia,deu,German,L1_speakers,6,2012
+CZ,Czechia,deu,German,L2_speakers,77,2012
+CZ,Czechia,deu,German,L3_speakers,69,2012
+CZ,Czechia,deu,German,L4_speakers,8,2012
 DK,Denmark,deu,German,L1_speakers,7,2012
 DK,Denmark,deu,German,L2_speakers,58,2012
 DK,Denmark,deu,German,L3_speakers,379,2012
@@ -597,10 +597,10 @@ IE,Ireland,deu,German,L1_speakers,2,2012
 IE,Ireland,deu,German,L2_speakers,27,2012
 IE,Ireland,deu,German,L3_speakers,31,2012
 IE,Ireland,deu,German,L4_speakers,6,2012
-EL,Greece,deu,German,L1_speakers,3,2012
-EL,Greece,deu,German,L2_speakers,19,2012
-EL,Greece,deu,German,L3_speakers,22,2012
-EL,Greece,deu,German,L4_speakers,9,2012
+GR,Greece,deu,German,L1_speakers,3,2012
+GR,Greece,deu,German,L2_speakers,19,2012
+GR,Greece,deu,German,L3_speakers,22,2012
+GR,Greece,deu,German,L4_speakers,9,2012
 ES,Spain,deu,German,L1_speakers,1,2012
 ES,Spain,deu,German,L2_speakers,8,2012
 ES,Spain,deu,German,L3_speakers,9,2012
@@ -667,10 +667,10 @@ SE,Sweden,deu,German,L1_speakers,7,2012
 SE,Sweden,deu,German,L2_speakers,24,2012
 SE,Sweden,deu,German,L3_speakers,213,2012
 SE,Sweden,deu,German,L4_speakers,28,2012
-UK,United Kingdom,deu,German,L1_speakers,9,2012
-UK,United Kingdom,deu,German,L2_speakers,43,2012
-UK,United Kingdom,deu,German,L3_speakers,30,2012
-UK,United Kingdom,deu,German,L4_speakers,7,2012
+GB,United Kingdom,deu,German,L1_speakers,9,2012
+GB,United Kingdom,deu,German,L2_speakers,43,2012
+GB,United Kingdom,deu,German,L3_speakers,30,2012
+GB,United Kingdom,deu,German,L4_speakers,7,2012
 BG,Bulgaria,ell,Greek,L2_speakers,16,2012
 BG,Bulgaria,ell,Greek,L3_speakers,6,2012
 BG,Bulgaria,ell,Greek,L4_speakers,6,2012
@@ -681,10 +681,10 @@ DE,Germany,ell,Greek,L4_speakers,1,2012
 EE,Estonia,ell,Greek,L3_speakers,2,2012
 IE,Ireland,ell,Greek,L3_speakers,1,2012
 IE,Ireland,ell,Greek,L4_speakers,1,2012
-EL,Greece,ell,Greek,L1_speakers,967,2012
-EL,Greece,ell,Greek,L2_speakers,20,2012
-EL,Greece,ell,Greek,L3_speakers,3,2012
-EL,Greece,ell,Greek,L4_speakers,2,2012
+GR,Greece,ell,Greek,L1_speakers,967,2012
+GR,Greece,ell,Greek,L2_speakers,20,2012
+GR,Greece,ell,Greek,L3_speakers,3,2012
+GR,Greece,ell,Greek,L4_speakers,2,2012
 ES,Spain,ell,Greek,L3_speakers,1,2012
 FR,France,ell,Greek,L2_speakers,1,2012
 IT,Italy,ell,Greek,L4_speakers,3,2012
@@ -707,10 +707,10 @@ RO,Romania,ell,Greek,L3_speakers,1,2012
 SI,Slovenia,ell,Greek,L3_speakers,1,2012
 SE,Sweden,ell,Greek,L1_speakers,1,2012
 SE,Sweden,ell,Greek,L4_speakers,1,2012
-UK,United Kingdom,ell,Greek,L1_speakers,2,2012
-UK,United Kingdom,ell,Greek,L2_speakers,3,2012
+GB,United Kingdom,ell,Greek,L1_speakers,2,2012
+GB,United Kingdom,ell,Greek,L2_speakers,3,2012
 IE,Ireland,hin,Hindi,L1_speakers,1,2012
-EL,Greece,hin,Hindi,L2_speakers,1,2012
+GR,Greece,hin,Hindi,L2_speakers,1,2012
 IT,Italy,hin,Hindi,L3_speakers,1,2012
 NL,Netherlands,hin,Hindi,L1_speakers,1,2012
 NL,Netherlands,hin,Hindi,L3_speakers,1,2012
@@ -718,12 +718,12 @@ NL,Netherlands,hin,Hindi,L4_speakers,1,2012
 AT,Austria,hin,Hindi,L1_speakers,2,2012
 PT,Portugal,hin,Hindi,L1_speakers,4,2012
 SE,Sweden,hin,Hindi,L4_speakers,2,2012
-UK,United Kingdom,hin,Hindi,L1_speakers,5,2012
-UK,United Kingdom,hin,Hindi,L2_speakers,12,2012
-UK,United Kingdom,hin,Hindi,L3_speakers,9,2012
-UK,United Kingdom,hin,Hindi,L4_speakers,2,2012
+GB,United Kingdom,hin,Hindi,L1_speakers,5,2012
+GB,United Kingdom,hin,Hindi,L2_speakers,12,2012
+GB,United Kingdom,hin,Hindi,L3_speakers,9,2012
+GB,United Kingdom,hin,Hindi,L4_speakers,2,2012
 BE,Belgium,hun,Hungarian,L1_speakers,3,2012
-CZ,Czech Republic,hun,Hungarian,L3_speakers,1,2012
+CZ,Czechia,hun,Hungarian,L3_speakers,1,2012
 DE,Germany,hun,Hungarian,L1_speakers,2,2012
 DE,Germany,hun,Hungarian,L2_speakers,1,2012
 IE,Ireland,hun,Hungarian,L2_speakers,1,2012
@@ -754,16 +754,16 @@ SK,Slovakia,hun,Hungarian,L2_speakers,48,2012
 SK,Slovakia,hun,Hungarian,L3_speakers,14,2012
 SK,Slovakia,hun,Hungarian,L4_speakers,4,2012
 SE,Sweden,hun,Hungarian,L1_speakers,5,2012
-UK,United Kingdom,hun,Hungarian,L1_speakers,1,2012
-UK,United Kingdom,hun,Hungarian,L3_speakers,2,2012
-BG,Bulgaria,gle,Irish Gaelic,L2_speakers,1,2012
-IE,Ireland,gle,Irish Gaelic,L1_speakers,25,2012
-IE,Ireland,gle,Irish Gaelic,L2_speakers,182,2012
-IE,Ireland,gle,Irish Gaelic,L3_speakers,39,2012
-IE,Ireland,gle,Irish Gaelic,L4_speakers,5,2012
-RO,Romania,gle,Irish Gaelic,L2_speakers,2,2012
-UK,United Kingdom,gle,Irish Gaelic,L1_speakers,5,2012
-UK,United Kingdom,gle,Irish Gaelic,L2_speakers,3,2012
+GB,United Kingdom,hun,Hungarian,L1_speakers,1,2012
+GB,United Kingdom,hun,Hungarian,L3_speakers,2,2012
+BG,Bulgaria,gle,Irish/Gaelic,L2_speakers,1,2012
+IE,Ireland,gle,Irish/Gaelic,L1_speakers,25,2012
+IE,Ireland,gle,Irish/Gaelic,L2_speakers,182,2012
+IE,Ireland,gle,Irish/Gaelic,L3_speakers,39,2012
+IE,Ireland,gle,Irish/Gaelic,L4_speakers,5,2012
+RO,Romania,gle,Irish/Gaelic,L2_speakers,2,2012
+GB,United Kingdom,gle,Irish/Gaelic,L1_speakers,5,2012
+GB,United Kingdom,gle,Irish/Gaelic,L2_speakers,3,2012
 BE,Belgium,ita,Italian,L1_speakers,18,2012
 BE,Belgium,ita,Italian,L2_speakers,12,2012
 BE,Belgium,ita,Italian,L3_speakers,10,2012
@@ -771,9 +771,9 @@ BE,Belgium,ita,Italian,L4_speakers,15,2012
 BG,Bulgaria,ita,Italian,L2_speakers,7,2012
 BG,Bulgaria,ita,Italian,L3_speakers,1,2012
 BG,Bulgaria,ita,Italian,L4_speakers,2,2012
-CZ,Czech Republic,ita,Italian,L2_speakers,2,2012
-CZ,Czech Republic,ita,Italian,L3_speakers,2,2012
-CZ,Czech Republic,ita,Italian,L4_speakers,2,2012
+CZ,Czechia,ita,Italian,L2_speakers,2,2012
+CZ,Czechia,ita,Italian,L3_speakers,2,2012
+CZ,Czechia,ita,Italian,L4_speakers,2,2012
 DK,Denmark,ita,Italian,L1_speakers,1,2012
 DK,Denmark,ita,Italian,L2_speakers,1,2012
 DK,Denmark,ita,Italian,L3_speakers,1,2012
@@ -787,9 +787,9 @@ IE,Ireland,ita,Italian,L1_speakers,1,2012
 IE,Ireland,ita,Italian,L2_speakers,6,2012
 IE,Ireland,ita,Italian,L3_speakers,2,2012
 IE,Ireland,ita,Italian,L4_speakers,2,2012
-EL,Greece,ita,Italian,L2_speakers,6,2012
-EL,Greece,ita,Italian,L3_speakers,16,2012
-EL,Greece,ita,Italian,L4_speakers,12,2012
+GR,Greece,ita,Italian,L2_speakers,6,2012
+GR,Greece,ita,Italian,L3_speakers,16,2012
+GR,Greece,ita,Italian,L4_speakers,12,2012
 ES,Spain,ita,Italian,L1_speakers,1,2012
 ES,Spain,ita,Italian,L2_speakers,3,2012
 ES,Spain,ita,Italian,L3_speakers,15,2012
@@ -848,35 +848,35 @@ FI,Finland,ita,Italian,L3_speakers,2,2012
 FI,Finland,ita,Italian,L4_speakers,4,2012
 SE,Sweden,ita,Italian,L3_speakers,5,2012
 SE,Sweden,ita,Italian,L4_speakers,12,2012
-UK,United Kingdom,ita,Italian,L1_speakers,4,2012
-UK,United Kingdom,ita,Italian,L2_speakers,14,2012
-UK,United Kingdom,ita,Italian,L3_speakers,11,2012
-BE,Belgium,jpn,Japanese,L3_speakers,1,2012
-BE,Belgium,jpn,Japanese,L4_speakers,1,2012
-IE,Ireland,jpn,Japanese,L3_speakers,1,2012
-ES,Spain,jpn,Japanese,L3_speakers,1,2012
-FR,France,jpn,Japanese,L3_speakers,1,2012
-IT,Italy,jpn,Japanese,L3_speakers,1,2012
-CY,Cyprus,jpn,Japanese,L3_speakers,1,2012
-LV,Latvia,jpn,Japanese,L3_speakers,1,2012
-LV,Latvia,jpn,Japanese,L4_speakers,1,2012
-LT,Lithuania,jpn,Japanese,L3_speakers,1,2012
-LU,Luxembourg,jpn,Japanese,L3_speakers,1,2012
-HU,Hungary,jpn,Japanese,L1_speakers,1,2012
-HU,Hungary,jpn,Japanese,L3_speakers,2,2012
-MT,Malta,jpn,Japanese,L3_speakers,2,2012
-PL,Poland,jpn,Japanese,L4_speakers,1,2012
-SK,Slovakia,jpn,Japanese,L4_speakers,1,2012
-FI,Finland,jpn,Japanese,L2_speakers,3,2012
-FI,Finland,jpn,Japanese,L3_speakers,2,2012
-SE,Sweden,jpn,Japanese,L3_speakers,2,2012
-UK,United Kingdom,jpn,Japanese,L1_speakers,3,2012
-UK,United Kingdom,jpn,Japanese,L2_speakers,2,2012
-UK,United Kingdom,jpn,Japanese,L3_speakers,3,2012
-UK,United Kingdom,jpn,Japanese,L4_speakers,2,2012
+GB,United Kingdom,ita,Italian,L1_speakers,4,2012
+GB,United Kingdom,ita,Italian,L2_speakers,14,2012
+GB,United Kingdom,ita,Italian,L3_speakers,11,2012
+BE,Belgium,jap,Japanese,L3_speakers,1,2012
+BE,Belgium,jap,Japanese,L4_speakers,1,2012
+IE,Ireland,jap,Japanese,L3_speakers,1,2012
+ES,Spain,jap,Japanese,L3_speakers,1,2012
+FR,France,jap,Japanese,L3_speakers,1,2012
+IT,Italy,jap,Japanese,L3_speakers,1,2012
+CY,Cyprus,jap,Japanese,L3_speakers,1,2012
+LV,Latvia,jap,Japanese,L3_speakers,1,2012
+LV,Latvia,jap,Japanese,L4_speakers,1,2012
+LT,Lithuania,jap,Japanese,L3_speakers,1,2012
+LU,Luxembourg,jap,Japanese,L3_speakers,1,2012
+HU,Hungary,jap,Japanese,L1_speakers,1,2012
+HU,Hungary,jap,Japanese,L3_speakers,2,2012
+MT,Malta,jap,Japanese,L3_speakers,2,2012
+PL,Poland,jap,Japanese,L4_speakers,1,2012
+SK,Slovakia,jap,Japanese,L4_speakers,1,2012
+FI,Finland,jap,Japanese,L2_speakers,3,2012
+FI,Finland,jap,Japanese,L3_speakers,2,2012
+SE,Sweden,jap,Japanese,L3_speakers,2,2012
+GB,United Kingdom,jap,Japanese,L1_speakers,3,2012
+GB,United Kingdom,jap,Japanese,L2_speakers,2,2012
+GB,United Kingdom,jap,Japanese,L3_speakers,3,2012
+GB,United Kingdom,jap,Japanese,L4_speakers,2,2012
 LV,Latvia,kor,Korean,L1_speakers,1,2012
 PL,Poland,kor,Korean,L1_speakers,1,2012
-UK,United Kingdom,kor,Korean,L1_speakers,3,2012
+GB,United Kingdom,kor,Korean,L1_speakers,3,2012
 DE,Germany,lav,Latvian,L3_speakers,1,2012
 EE,Estonia,lav,Latvian,L1_speakers,3,2012
 EE,Estonia,lav,Latvian,L2_speakers,1,2012
@@ -895,8 +895,8 @@ LT,Lithuania,lav,Latvian,L4_speakers,3,2012
 PL,Poland,lav,Latvian,L1_speakers,2,2012
 SE,Sweden,lav,Latvian,L1_speakers,1,2012
 SE,Sweden,lav,Latvian,L2_speakers,1,2012
-UK,United Kingdom,lav,Latvian,L1_speakers,3,2012
-UK,United Kingdom,lav,Latvian,L2_speakers,2,2012
+GB,United Kingdom,lav,Latvian,L1_speakers,3,2012
+GB,United Kingdom,lav,Latvian,L2_speakers,2,2012
 DE,Germany,lit,Lithuanian,L3_speakers,1,2012
 EE,Estonia,lit,Lithuanian,L1_speakers,1,2012
 EE,Estonia,lit,Lithuanian,L2_speakers,1,2012
@@ -915,8 +915,8 @@ LT,Lithuania,lit,Lithuanian,L3_speakers,16,2012
 LT,Lithuania,lit,Lithuanian,L4_speakers,1,2012
 PL,Poland,lit,Lithuanian,L3_speakers,3,2012
 PL,Poland,lit,Lithuanian,L4_speakers,1,2012
-UK,United Kingdom,lit,Lithuanian,L1_speakers,6,2012
-UK,United Kingdom,lit,Lithuanian,L3_speakers,2,2012
+GB,United Kingdom,lit,Lithuanian,L1_speakers,6,2012
+GB,United Kingdom,lit,Lithuanian,L3_speakers,2,2012
 BE,Belgium,ltz,Luxembourgish,L4_speakers,1,2012
 DE,Germany,ltz,Luxembourgish,L3_speakers,1,2012
 FR,France,ltz,Luxembourgish,L4_speakers,1,2012
@@ -926,21 +926,21 @@ LU,Luxembourg,ltz,Luxembourgish,L3_speakers,36,2012
 LU,Luxembourg,ltz,Luxembourgish,L4_speakers,17,2012
 MT,Malta,ltz,Luxembourgish,L1_speakers,1,2012
 RO,Romania,ltz,Luxembourgish,L4_speakers,2,2012
-UK,United Kingdom,ltz,Luxembourgish,L1_speakers,1,2012
+GB,United Kingdom,ltz,Luxembourgish,L1_speakers,1,2012
 EE,Estonia,mlt,Maltese,L1_speakers,1,2012
 MT,Malta,mlt,Maltese,L1_speakers,484,2012
 MT,Malta,mlt,Maltese,L2_speakers,4,2012
 MT,Malta,mlt,Maltese,L3_speakers,1,2012
 RO,Romania,mlt,Maltese,L1_speakers,2,2012
-UK,United Kingdom,mlt,Maltese,L2_speakers,1,2012
+GB,United Kingdom,mlt,Maltese,L2_speakers,1,2012
 BE,Belgium,pol,Polish,L1_speakers,2,2012
 BE,Belgium,pol,Polish,L4_speakers,2,2012
 BG,Bulgaria,pol,Polish,L1_speakers,1,2012
 BG,Bulgaria,pol,Polish,L4_speakers,1,2012
-CZ,Czech Republic,pol,Polish,L1_speakers,5,2012
-CZ,Czech Republic,pol,Polish,L2_speakers,14,2012
-CZ,Czech Republic,pol,Polish,L3_speakers,5,2012
-CZ,Czech Republic,pol,Polish,L4_speakers,4,2012
+CZ,Czechia,pol,Polish,L1_speakers,5,2012
+CZ,Czechia,pol,Polish,L2_speakers,14,2012
+CZ,Czechia,pol,Polish,L3_speakers,5,2012
+CZ,Czechia,pol,Polish,L4_speakers,4,2012
 DK,Denmark,pol,Polish,L1_speakers,3,2012
 DE,Germany,pol,Polish,L1_speakers,32,2012
 DE,Germany,pol,Polish,L2_speakers,4,2012
@@ -951,7 +951,7 @@ IE,Ireland,pol,Polish,L1_speakers,24,2012
 IE,Ireland,pol,Polish,L2_speakers,3,2012
 IE,Ireland,pol,Polish,L3_speakers,4,2012
 IE,Ireland,pol,Polish,L4_speakers,2,2012
-EL,Greece,pol,Polish,L1_speakers,3,2012
+GR,Greece,pol,Polish,L1_speakers,3,2012
 ES,Spain,pol,Polish,L2_speakers,1,2012
 ES,Spain,pol,Polish,L3_speakers,1,2012
 FR,France,pol,Polish,L1_speakers,5,2012
@@ -988,9 +988,9 @@ FI,Finland,pol,Polish,L1_speakers,3,2012
 SE,Sweden,pol,Polish,L1_speakers,3,2012
 SE,Sweden,pol,Polish,L3_speakers,4,2012
 SE,Sweden,pol,Polish,L4_speakers,2,2012
-UK,United Kingdom,pol,Polish,L1_speakers,21,2012
-UK,United Kingdom,pol,Polish,L2_speakers,2,2012
-UK,United Kingdom,pol,Polish,L4_speakers,2,2012
+GB,United Kingdom,pol,Polish,L1_speakers,21,2012
+GB,United Kingdom,pol,Polish,L2_speakers,2,2012
+GB,United Kingdom,pol,Polish,L4_speakers,2,2012
 BE,Belgium,por,Portuguese,L1_speakers,7,2012
 BE,Belgium,por,Portuguese,L3_speakers,1,2012
 BE,Belgium,por,Portuguese,L4_speakers,1,2012
@@ -1031,10 +1031,10 @@ RO,Romania,por,Portuguese,L2_speakers,2,2012
 SK,Slovakia,por,Portuguese,L3_speakers,1,2012
 FI,Finland,por,Portuguese,L4_speakers,2,2012
 SE,Sweden,por,Portuguese,L4_speakers,1,2012
-UK,United Kingdom,por,Portuguese,L1_speakers,8,2012
-UK,United Kingdom,por,Portuguese,L2_speakers,7,2012
-UK,United Kingdom,por,Portuguese,L3_speakers,3,2012
-UK,United Kingdom,por,Portuguese,L4_speakers,4,2012
+GB,United Kingdom,por,Portuguese,L1_speakers,8,2012
+GB,United Kingdom,por,Portuguese,L2_speakers,7,2012
+GB,United Kingdom,por,Portuguese,L3_speakers,3,2012
+GB,United Kingdom,por,Portuguese,L4_speakers,4,2012
 BE,Belgium,ron,Romanian,L1_speakers,2,2012
 BE,Belgium,ron,Romanian,L4_speakers,2,2012
 BG,Bulgaria,ron,Romanian,L1_speakers,1,2012
@@ -1047,7 +1047,7 @@ DE,Germany,ron,Romanian,L3_speakers,3,2012
 EE,Estonia,ron,Romanian,L1_speakers,3,2012
 IE,Ireland,ron,Romanian,L1_speakers,2,2012
 IE,Ireland,ron,Romanian,L4_speakers,2,2012
-EL,Greece,ron,Romanian,L1_speakers,5,2012
+GR,Greece,ron,Romanian,L1_speakers,5,2012
 ES,Spain,ron,Romanian,L1_speakers,27,2012
 ES,Spain,ron,Romanian,L2_speakers,1,2012
 FR,France,ron,Romanian,L1_speakers,3,2012
@@ -1070,8 +1070,8 @@ RO,Romania,ron,Romanian,L2_speakers,45,2012
 RO,Romania,ron,Romanian,L3_speakers,1,2012
 SI,Slovenia,ron,Romanian,L3_speakers,1,2012
 SE,Sweden,ron,Romanian,L4_speakers,1,2012
-UK,United Kingdom,ron,Romanian,L1_speakers,4,2012
-UK,United Kingdom,ron,Romanian,L2_speakers,1,2012
+GB,United Kingdom,ron,Romanian,L1_speakers,4,2012
+GB,United Kingdom,ron,Romanian,L2_speakers,1,2012
 BE,Belgium,rus,Russian,L1_speakers,4,2012
 BE,Belgium,rus,Russian,L2_speakers,1,2012
 BE,Belgium,rus,Russian,L3_speakers,4,2012
@@ -1080,10 +1080,10 @@ BG,Bulgaria,rus,Russian,L1_speakers,2,2012
 BG,Bulgaria,rus,Russian,L2_speakers,161,2012
 BG,Bulgaria,rus,Russian,L3_speakers,61,2012
 BG,Bulgaria,rus,Russian,L4_speakers,14,2012
-CZ,Czech Republic,rus,Russian,L1_speakers,2,2012
-CZ,Czech Republic,rus,Russian,L2_speakers,45,2012
-CZ,Czech Republic,rus,Russian,L3_speakers,57,2012
-CZ,Czech Republic,rus,Russian,L4_speakers,23,2012
+CZ,Czechia,rus,Russian,L1_speakers,2,2012
+CZ,Czechia,rus,Russian,L2_speakers,45,2012
+CZ,Czechia,rus,Russian,L3_speakers,57,2012
+CZ,Czechia,rus,Russian,L4_speakers,23,2012
 DK,Denmark,rus,Russian,L4_speakers,1,2012
 DE,Germany,rus,Russian,L1_speakers,66,2012
 DE,Germany,rus,Russian,L2_speakers,36,2012
@@ -1096,10 +1096,10 @@ EE,Estonia,rus,Russian,L4_speakers,50,2012
 IE,Ireland,rus,Russian,L1_speakers,1,2012
 IE,Ireland,rus,Russian,L2_speakers,5,2012
 IE,Ireland,rus,Russian,L3_speakers,4,2012
-EL,Greece,rus,Russian,L1_speakers,8,2012
-EL,Greece,rus,Russian,L2_speakers,4,2012
-EL,Greece,rus,Russian,L3_speakers,5,2012
-EL,Greece,rus,Russian,L4_speakers,2,2012
+GR,Greece,rus,Russian,L1_speakers,8,2012
+GR,Greece,rus,Russian,L2_speakers,4,2012
+GR,Greece,rus,Russian,L3_speakers,5,2012
+GR,Greece,rus,Russian,L4_speakers,2,2012
 ES,Spain,rus,Russian,L1_speakers,1,2012
 ES,Spain,rus,Russian,L3_speakers,2,2012
 FR,France,rus,Russian,L1_speakers,1,2012
@@ -1151,20 +1151,24 @@ FI,Finland,rus,Russian,L2_speakers,5,2012
 FI,Finland,rus,Russian,L3_speakers,9,2012
 FI,Finland,rus,Russian,L4_speakers,17,2012
 SE,Sweden,rus,Russian,L4_speakers,2,2012
-UK,United Kingdom,rus,Russian,L1_speakers,3,2012
-UK,United Kingdom,rus,Russian,L2_speakers,5,2012
-UK,United Kingdom,rus,Russian,L3_speakers,12,2012
-UK,United Kingdom,rus,Russian,L4_speakers,5,2012
-MT,Malta,gla,Scottisch Gaelic,L1_speakers,1,2012
-SI,Slovenia,gla,Scottisch Gaelic,L1_speakers,1,2012
-SK,Slovakia,gla,Scottisch Gaelic,L1_speakers,1,2012
-UK,United Kingdom,gla,Scottisch Gaelic,L1_speakers,3,2012
+GB,United Kingdom,rus,Russian,L1_speakers,3,2012
+GB,United Kingdom,rus,Russian,L2_speakers,5,2012
+GB,United Kingdom,rus,Russian,L3_speakers,12,2012
+GB,United Kingdom,rus,Russian,L4_speakers,5,2012
+IE,Ireland,gla,Scottish/Gaelic,L2_speakers,1,2012
+MT,Malta,gla,Scottish/Gaelic,L1_speakers,1,2012
+SI,Slovenia,gla,Scottish/Gaelic,L1_speakers,1,2012
+SK,Slovakia,gla,Scottish/Gaelic,L1_speakers,1,2012
+SE,Sweden,gla,Scottish/Gaelic,L4_speakers,1,2012
+GB,United Kingdom,gla,Scottish/Gaelic,L1_speakers,3,2012
+GB,United Kingdom,gla,Scottish/Gaelic,L2_speakers,1,2012
+GB,United Kingdom,gla,Scottish/Gaelic,L4_speakers,1,2012
 BE,Belgium,slk,Slovak,L1_speakers,1,2012
 BE,Belgium,slk,Slovak,L4_speakers,1,2012
-CZ,Czech Republic,slk,Slovak,L1_speakers,12,2012
-CZ,Czech Republic,slk,Slovak,L2_speakers,105,2012
-CZ,Czech Republic,slk,Slovak,L3_speakers,44,2012
-CZ,Czech Republic,slk,Slovak,L4_speakers,15,2012
+CZ,Czechia,slk,Slovak,L1_speakers,12,2012
+CZ,Czechia,slk,Slovak,L2_speakers,105,2012
+CZ,Czechia,slk,Slovak,L3_speakers,44,2012
+CZ,Czechia,slk,Slovak,L4_speakers,15,2012
 DK,Denmark,slk,Slovak,L1_speakers,1,2012
 IE,Ireland,slk,Slovak,L1_speakers,3,2012
 IE,Ireland,slk,Slovak,L3_speakers,1,2012
@@ -1209,7 +1213,7 @@ SK,Slovakia,slv,Slovenian,L1_speakers,3,2012
 SK,Slovakia,slv,Slovenian,L2_speakers,2,2012
 SK,Slovakia,slv,Slovenian,L3_speakers,1,2012
 FI,Finland,slv,Slovenian,L1_speakers,1,2012
-UK,United Kingdom,slv,Slovenian,L3_speakers,2,2012
+GB,United Kingdom,slv,Slovenian,L3_speakers,2,2012
 BE,Belgium,spa,Spanish,L1_speakers,4,2012
 BE,Belgium,spa,Spanish,L2_speakers,12,2012
 BE,Belgium,spa,Spanish,L3_speakers,12,2012
@@ -1217,9 +1221,9 @@ BE,Belgium,spa,Spanish,L4_speakers,27,2012
 BG,Bulgaria,spa,Spanish,L2_speakers,12,2012
 BG,Bulgaria,spa,Spanish,L3_speakers,7,2012
 BG,Bulgaria,spa,Spanish,L4_speakers,3,2012
-CZ,Czech Republic,spa,Spanish,L2_speakers,2,2012
-CZ,Czech Republic,spa,Spanish,L3_speakers,4,2012
-CZ,Czech Republic,spa,Spanish,L4_speakers,2,2012
+CZ,Czechia,spa,Spanish,L2_speakers,2,2012
+CZ,Czechia,spa,Spanish,L3_speakers,4,2012
+CZ,Czechia,spa,Spanish,L4_speakers,2,2012
 DK,Denmark,spa,Spanish,L1_speakers,2,2012
 DK,Denmark,spa,Spanish,L2_speakers,1,2012
 DK,Denmark,spa,Spanish,L3_speakers,22,2012
@@ -1235,9 +1239,9 @@ IE,Ireland,spa,Spanish,L1_speakers,2,2012
 IE,Ireland,spa,Spanish,L2_speakers,16,2012
 IE,Ireland,spa,Spanish,L3_speakers,18,2012
 IE,Ireland,spa,Spanish,L4_speakers,6,2012
-EL,Greece,spa,Spanish,L2_speakers,2,2012
-EL,Greece,spa,Spanish,L3_speakers,4,2012
-EL,Greece,spa,Spanish,L4_speakers,4,2012
+GR,Greece,spa,Spanish,L2_speakers,2,2012
+GR,Greece,spa,Spanish,L3_speakers,4,2012
+GR,Greece,spa,Spanish,L4_speakers,4,2012
 ES,Spain,spa,Spanish,L1_speakers,819,2012
 ES,Spain,spa,Spanish,L2_speakers,146,2012
 ES,Spain,spa,Spanish,L3_speakers,17,2012
@@ -1300,10 +1304,10 @@ SE,Sweden,spa,Spanish,L1_speakers,11,2012
 SE,Sweden,spa,Spanish,L2_speakers,6,2012
 SE,Sweden,spa,Spanish,L3_speakers,32,2012
 SE,Sweden,spa,Spanish,L4_speakers,8,2012
-UK,United Kingdom,spa,Spanish,L1_speakers,6,2012
-UK,United Kingdom,spa,Spanish,L2_speakers,43,2012
-UK,United Kingdom,spa,Spanish,L3_speakers,20,2012
-UK,United Kingdom,spa,Spanish,L4_speakers,11,2012
+GB,United Kingdom,spa,Spanish,L1_speakers,6,2012
+GB,United Kingdom,spa,Spanish,L2_speakers,43,2012
+GB,United Kingdom,spa,Spanish,L3_speakers,20,2012
+GB,United Kingdom,spa,Spanish,L4_speakers,11,2012
 BE,Belgium,swe,Swedish,L2_speakers,1,2012
 DK,Denmark,swe,Swedish,L1_speakers,3,2012
 DK,Denmark,swe,Swedish,L2_speakers,11,2012
@@ -1315,9 +1319,9 @@ EE,Estonia,swe,Swedish,L2_speakers,1,2012
 EE,Estonia,swe,Swedish,L3_speakers,8,2012
 EE,Estonia,swe,Swedish,L4_speakers,4,2012
 IE,Ireland,swe,Swedish,L3_speakers,2,2012
-EL,Greece,swe,Swedish,L1_speakers,1,2012
-EL,Greece,swe,Swedish,L2_speakers,1,2012
-EL,Greece,swe,Swedish,L3_speakers,1,2012
+GR,Greece,swe,Swedish,L1_speakers,1,2012
+GR,Greece,swe,Swedish,L2_speakers,1,2012
+GR,Greece,swe,Swedish,L3_speakers,1,2012
 ES,Spain,swe,Swedish,L1_speakers,1,2012
 FR,France,swe,Swedish,L4_speakers,1,2012
 IT,Italy,swe,Swedish,L3_speakers,1,2012
@@ -1346,8 +1350,8 @@ SE,Sweden,swe,Swedish,L1_speakers,945,2012
 SE,Sweden,swe,Swedish,L2_speakers,44,2012
 SE,Sweden,swe,Swedish,L3_speakers,8,2012
 SE,Sweden,swe,Swedish,L4_speakers,3,2012
-UK,United Kingdom,swe,Swedish,L1_speakers,1,2012
-UK,United Kingdom,swe,Swedish,L3_speakers,1,2012
+GB,United Kingdom,swe,Swedish,L1_speakers,1,2012
+GB,United Kingdom,swe,Swedish,L3_speakers,1,2012
 BE,Belgium,tur,Turkish,L1_speakers,20,2012
 BE,Belgium,tur,Turkish,L2_speakers,3,2012
 BE,Belgium,tur,Turkish,L4_speakers,1,2012
@@ -1363,10 +1367,10 @@ DE,Germany,tur,Turkish,L2_speakers,5,2012
 DE,Germany,tur,Turkish,L4_speakers,2,2012
 EE,Estonia,tur,Turkish,L1_speakers,1,2012
 EE,Estonia,tur,Turkish,L3_speakers,1,2012
-EL,Greece,tur,Turkish,L1_speakers,1,2012
-EL,Greece,tur,Turkish,L2_speakers,2,2012
-EL,Greece,tur,Turkish,L3_speakers,3,2012
-EL,Greece,tur,Turkish,L4_speakers,1,2012
+GR,Greece,tur,Turkish,L1_speakers,1,2012
+GR,Greece,tur,Turkish,L2_speakers,2,2012
+GR,Greece,tur,Turkish,L3_speakers,3,2012
+GR,Greece,tur,Turkish,L4_speakers,1,2012
 FR,France,tur,Turkish,L1_speakers,4,2012
 FR,France,tur,Turkish,L2_speakers,1,2012
 CY,Cyprus,tur,Turkish,L2_speakers,3,2012
@@ -1384,138 +1388,126 @@ RO,Romania,tur,Turkish,L3_speakers,1,2012
 SI,Slovenia,tur,Turkish,L3_speakers,1,2012
 FI,Finland,tur,Turkish,L1_speakers,1,2012
 SE,Sweden,tur,Turkish,L4_speakers,1,2012
-UK,United Kingdom,tur,Turkish,L1_speakers,1,2012
-UK,United Kingdom,tur,Turkish,L4_speakers,4,2012
+GB,United Kingdom,tur,Turkish,L1_speakers,1,2012
+GB,United Kingdom,tur,Turkish,L4_speakers,4,2012
 DK,Denmark,urd,Urdu,L1_speakers,3,2012
 IE,Ireland,urd,Urdu,L2_speakers,1,2012
 NL,Netherlands,urd,Urdu,L4_speakers,1,2012
-UK,United Kingdom,urd,Urdu,L1_speakers,14,2012
-UK,United Kingdom,urd,Urdu,L2_speakers,13,2012
-UK,United Kingdom,urd,Urdu,L3_speakers,4,2012
-UK,United Kingdom,urd,Urdu,L4_speakers,5,2012
+GB,United Kingdom,urd,Urdu,L1_speakers,14,2012
+GB,United Kingdom,urd,Urdu,L2_speakers,13,2012
+GB,United Kingdom,urd,Urdu,L3_speakers,4,2012
+GB,United Kingdom,urd,Urdu,L4_speakers,5,2012
 EE,Estonia,cym,Welsh,L1_speakers,1,2012
 IE,Ireland,cym,Welsh,L1_speakers,2,2012
 IE,Ireland,cym,Welsh,L2_speakers,1,2012
 LT,Lithuania,cym,Welsh,L1_speakers,1,2012
-UK,United Kingdom,cym,Welsh,L1_speakers,8,2012
-UK,United Kingdom,cym,Welsh,L2_speakers,8,2012
-UK,United Kingdom,cym,Welsh,L3_speakers,3,2012
-IE,Ireland,gla,Scottisch Gaelic,L2_speakers,1,2012
-SE,Sweden,gla,Scottisch Gaelic,L4_speakers,1,2012
-UK,United Kingdom,gla,Scottisch Gaelic,L2_speakers,1,2012
-UK,United Kingdom,gla,Scottisch Gaelic,L4_speakers,1,2012
+GB,United Kingdom,cym,Welsh,L1_speakers,8,2012
+GB,United Kingdom,cym,Welsh,L2_speakers,8,2012
+GB,United Kingdom,cym,Welsh,L3_speakers,3,2012
 BE,Belgium,sqi,Albanian,L1_speakers,1,2024
+BG,Bulgaria,sqi,Albanian,L4_speakers,1,2024
 DK,Denmark,sqi,Albanian,L2_speakers,2,2024
 DK,Denmark,sqi,Albanian,L3_speakers,1,2024
-DK,Denmark,sqi,Albanian,L4_speakers,1,2024
 DE,Germany,sqi,Albanian,L1_speakers,7,2024
 DE,Germany,sqi,Albanian,L2_speakers,1,2024
 EE,Estonia,sqi,Albanian,L1_speakers,1,2024
 EE,Estonia,sqi,Albanian,L3_speakers,1,2024
-EE,Estonia,sqi,Albanian,L4_speakers,1,2024
-EL,Greece,sqi,Albanian,L1_speakers,8,2024
-EL,Greece,sqi,Albanian,L2_speakers,6,2024
-EL,Greece,sqi,Albanian,L3_speakers,1,2024
-EL,Greece,sqi,Albanian,L4_speakers,1,2024
+GR,Greece,sqi,Albanian,L1_speakers,8,2024
+GR,Greece,sqi,Albanian,L2_speakers,6,2024
+GR,Greece,sqi,Albanian,L3_speakers,1,2024
+GR,Greece,sqi,Albanian,L4_speakers,1,2024
 HR,Croatia,sqi,Albanian,L3_speakers,1,2024
-HR,Croatia,sqi,Albanian,L4_speakers,1,2024
 IT,Italy,sqi,Albanian,L1_speakers,1,2024
 IT,Italy,sqi,Albanian,L2_speakers,1,2024
 CY,Cyprus,sqi,Albanian,L3_speakers,5,2024
-CY,Cyprus,sqi,Albanian,L4_speakers,5,2024
+LV,Latvia,sqi,Albanian,L4_speakers,1,2024
 LU,Luxembourg,sqi,Albanian,L1_speakers,2,2024
 LU,Luxembourg,sqi,Albanian,L3_speakers,1,2024
-LU,Luxembourg,sqi,Albanian,L4_speakers,1,2024
 MT,Malta,sqi,Albanian,L3_speakers,1,2024
-MT,Malta,sqi,Albanian,L4_speakers,1,2024
 AT,Austria,sqi,Albanian,L1_speakers,2,2024
 AT,Austria,sqi,Albanian,L2_speakers,1,2024
 AT,Austria,sqi,Albanian,L3_speakers,2,2024
-AT,Austria,sqi,Albanian,L4_speakers,2,2024
 PL,Poland,sqi,Albanian,L3_speakers,1,2024
-PL,Poland,sqi,Albanian,L4_speakers,1,2024
 SI,Slovenia,sqi,Albanian,L1_speakers,6,2024
 SI,Slovenia,sqi,Albanian,L2_speakers,2,2024
 BE,Belgium,ara,Arabic,L1_speakers,11,2024
 BE,Belgium,ara,Arabic,L2_speakers,7,2024
 BE,Belgium,ara,Arabic,L3_speakers,8,2024
-BE,Belgium,ara,Arabic,L4_speakers,8,2024
+BE,Belgium,ara,Arabic,L4_speakers,4,2024
+BG,Bulgaria,ara,Arabic,L4_speakers,1,2024
 DK,Denmark,ara,Arabic,L1_speakers,4,2024
 DK,Denmark,ara,Arabic,L2_speakers,4,2024
 DK,Denmark,ara,Arabic,L3_speakers,5,2024
-DK,Denmark,ara,Arabic,L4_speakers,5,2024
+DK,Denmark,ara,Arabic,L4_speakers,2,2024
 DE,Germany,ara,Arabic,L1_speakers,17,2024
 DE,Germany,ara,Arabic,L2_speakers,8,2024
 DE,Germany,ara,Arabic,L3_speakers,1,2024
-DE,Germany,ara,Arabic,L4_speakers,1,2024
+DE,Germany,ara,Arabic,L4_speakers,2,2024
 IE,Ireland,ara,Arabic,L1_speakers,1,2024
-EL,Greece,ara,Arabic,L1_speakers,1,2024
+IE,Ireland,ara,Arabic,L4_speakers,2,2024
+GR,Greece,ara,Arabic,L1_speakers,1,2024
 ES,Spain,ara,Arabic,L1_speakers,7,2024
 ES,Spain,ara,Arabic,L2_speakers,4,2024
 ES,Spain,ara,Arabic,L3_speakers,2,2024
-ES,Spain,ara,Arabic,L4_speakers,2,2024
+ES,Spain,ara,Arabic,L4_speakers,4,2024
 FR,France,ara,Arabic,L1_speakers,17,2024
 FR,France,ara,Arabic,L2_speakers,17,2024
 FR,France,ara,Arabic,L3_speakers,7,2024
-FR,France,ara,Arabic,L4_speakers,7,2024
+FR,France,ara,Arabic,L4_speakers,1,2024
+HR,Croatia,ara,Arabic,L4_speakers,1,2024
 IT,Italy,ara,Arabic,L1_speakers,2,2024
 CY,Cyprus,ara,Arabic,L2_speakers,2,2024
 CY,Cyprus,ara,Arabic,L3_speakers,3,2024
-CY,Cyprus,ara,Arabic,L4_speakers,3,2024
 LV,Latvia,ara,Arabic,L1_speakers,1,2024
 LV,Latvia,ara,Arabic,L3_speakers,2,2024
-LV,Latvia,ara,Arabic,L4_speakers,2,2024
 LT,Lithuania,ara,Arabic,L3_speakers,2,2024
-LT,Lithuania,ara,Arabic,L4_speakers,2,2024
 LU,Luxembourg,ara,Arabic,L1_speakers,2,2024
 LU,Luxembourg,ara,Arabic,L2_speakers,4,2024
+LU,Luxembourg,ara,Arabic,L4_speakers,1,2024
 MT,Malta,ara,Arabic,L1_speakers,1,2024
 MT,Malta,ara,Arabic,L2_speakers,2,2024
 MT,Malta,ara,Arabic,L3_speakers,1,2024
-MT,Malta,ara,Arabic,L4_speakers,1,2024
+MT,Malta,ara,Arabic,L4_speakers,3,2024
 NL,Netherlands,ara,Arabic,L1_speakers,5,2024
 NL,Netherlands,ara,Arabic,L2_speakers,2,2024
 NL,Netherlands,ara,Arabic,L3_speakers,2,2024
-NL,Netherlands,ara,Arabic,L4_speakers,2,2024
+NL,Netherlands,ara,Arabic,L4_speakers,4,2024
 AT,Austria,ara,Arabic,L1_speakers,1,2024
 AT,Austria,ara,Arabic,L2_speakers,1,2024
 AT,Austria,ara,Arabic,L3_speakers,2,2024
-AT,Austria,ara,Arabic,L4_speakers,2,2024
+AT,Austria,ara,Arabic,L4_speakers,3,2024
 PT,Portugal,ara,Arabic,L2_speakers,1,2024
 FI,Finland,ara,Arabic,L1_speakers,1,2024
 SE,Sweden,ara,Arabic,L1_speakers,7,2024
 SE,Sweden,ara,Arabic,L2_speakers,2,2024
 SE,Sweden,ara,Arabic,L3_speakers,3,2024
-SE,Sweden,ara,Arabic,L4_speakers,3,2024
+SE,Sweden,ara,Arabic,L4_speakers,7,2024
 BE,Belgium,eus,Basque,L3_speakers,1,2024
-BE,Belgium,eus,Basque,L4_speakers,1,2024
 ES,Spain,eus,Basque,L1_speakers,4,2024
 ES,Spain,eus,Basque,L2_speakers,15,2024
 ES,Spain,eus,Basque,L3_speakers,12,2024
-ES,Spain,eus,Basque,L4_speakers,12,2024
+ES,Spain,eus,Basque,L4_speakers,1,2024
 FR,France,eus,Basque,L1_speakers,1,2024
 FR,France,eus,Basque,L2_speakers,1,2024
+FR,France,eus,Basque,L4_speakers,1,2024
 IT,Italy,eus,Basque,L1_speakers,1,2024
 LV,Latvia,eus,Basque,L2_speakers,1,2024
 LU,Luxembourg,eus,Basque,L1_speakers,1,2024
 LU,Luxembourg,eus,Basque,L3_speakers,1,2024
-LU,Luxembourg,eus,Basque,L4_speakers,1,2024
 PL,Poland,eus,Basque,L1_speakers,2,2024
 PT,Portugal,eus,Basque,L1_speakers,1,2024
 BE,Belgium,bul,Bulgarian,L1_speakers,2,2024
 BG,Bulgaria,bul,Bulgarian,L1_speakers,886,2024
 BG,Bulgaria,bul,Bulgarian,L2_speakers,120,2024
 BG,Bulgaria,bul,Bulgarian,L3_speakers,5,2024
-BG,Bulgaria,bul,Bulgarian,L4_speakers,5,2024
-CZ,Czech Republic,bul,Bulgarian,L1_speakers,1,2024
-CZ,Czech Republic,bul,Bulgarian,L3_speakers,1,2024
-CZ,Czech Republic,bul,Bulgarian,L4_speakers,1,2024
+BG,Bulgaria,bul,Bulgarian,L4_speakers,1,2024
+CZ,Czechia,bul,Bulgarian,L1_speakers,1,2024
+CZ,Czechia,bul,Bulgarian,L3_speakers,1,2024
 DE,Germany,bul,Bulgarian,L1_speakers,5,2024
 IE,Ireland,bul,Bulgarian,L1_speakers,2,2024
-EL,Greece,bul,Bulgarian,L1_speakers,2,2024
-EL,Greece,bul,Bulgarian,L2_speakers,1,2024
-EL,Greece,bul,Bulgarian,L3_speakers,1,2024
-EL,Greece,bul,Bulgarian,L4_speakers,1,2024
+GR,Greece,bul,Bulgarian,L1_speakers,2,2024
+GR,Greece,bul,Bulgarian,L2_speakers,1,2024
+GR,Greece,bul,Bulgarian,L3_speakers,1,2024
 ES,Spain,bul,Bulgarian,L1_speakers,2,2024
 HR,Croatia,bul,Bulgarian,L1_speakers,2,2024
 HR,Croatia,bul,Bulgarian,L2_speakers,1,2024
@@ -1526,179 +1518,180 @@ IT,Italy,bul,Bulgarian,L2_speakers,1,2024
 CY,Cyprus,bul,Bulgarian,L1_speakers,2,2024
 CY,Cyprus,bul,Bulgarian,L2_speakers,3,2024
 CY,Cyprus,bul,Bulgarian,L3_speakers,1,2024
-CY,Cyprus,bul,Bulgarian,L4_speakers,1,2024
 LV,Latvia,bul,Bulgarian,L3_speakers,2,2024
-LV,Latvia,bul,Bulgarian,L4_speakers,2,2024
+LV,Latvia,bul,Bulgarian,L4_speakers,4,2024
+LU,Luxembourg,bul,Bulgarian,L4_speakers,1,2024
 MT,Malta,bul,Bulgarian,L1_speakers,1,2024
 MT,Malta,bul,Bulgarian,L2_speakers,1,2024
 NL,Netherlands,bul,Bulgarian,L1_speakers,1,2024
+NL,Netherlands,bul,Bulgarian,L4_speakers,1,2024
 AT,Austria,bul,Bulgarian,L1_speakers,4,2024
 AT,Austria,bul,Bulgarian,L2_speakers,1,2024
 AT,Austria,bul,Bulgarian,L3_speakers,1,2024
-AT,Austria,bul,Bulgarian,L4_speakers,1,2024
 PT,Portugal,bul,Bulgarian,L1_speakers,1,2024
 SI,Slovenia,bul,Bulgarian,L3_speakers,1,2024
-SI,Slovenia,bul,Bulgarian,L4_speakers,1,2024
 SE,Sweden,bul,Bulgarian,L1_speakers,1,2024
 BE,Belgium,cat,Catalan,L3_speakers,2,2024
-BE,Belgium,cat,Catalan,L4_speakers,2,2024
+BG,Bulgaria,cat,Catalan,L4_speakers,1,2024
 ES,Spain,cat,Catalan,L1_speakers,71,2024
 ES,Spain,cat,Catalan,L2_speakers,82,2024
 ES,Spain,cat,Catalan,L3_speakers,18,2024
-ES,Spain,cat,Catalan,L4_speakers,18,2024
+ES,Spain,cat,Catalan,L4_speakers,8,2024
 FR,France,cat,Catalan,L1_speakers,3,2024
 FR,France,cat,Catalan,L2_speakers,2,2024
+FR,France,cat,Catalan,L4_speakers,1,2024
 IT,Italy,cat,Catalan,L2_speakers,8,2024
 IT,Italy,cat,Catalan,L3_speakers,1,2024
 IT,Italy,cat,Catalan,L4_speakers,1,2024
 LV,Latvia,cat,Catalan,L1_speakers,1,2024
+LU,Luxembourg,cat,Catalan,L4_speakers,2,2024
 AT,Austria,cat,Catalan,L3_speakers,1,2024
-AT,Austria,cat,Catalan,L4_speakers,1,2024
 PT,Portugal,cat,Catalan,L1_speakers,1,2024
 PT,Portugal,cat,Catalan,L2_speakers,1,2024
 RO,Romania,cat,Catalan,L2_speakers,1,2024
 BE,Belgium,zho,Chinese,L1_speakers,1,2024
 BE,Belgium,zho,Chinese,L2_speakers,1,2024
-CZ,Czech Republic,zho,Chinese,L1_speakers,4,2024
-CZ,Czech Republic,zho,Chinese,L3_speakers,3,2024
-CZ,Czech Republic,zho,Chinese,L4_speakers,3,2024
+BE,Belgium,zho,Chinese,L4_speakers,2,2024
+CZ,Czechia,zho,Chinese,L1_speakers,4,2024
+CZ,Czechia,zho,Chinese,L3_speakers,3,2024
 DK,Denmark,zho,Chinese,L1_speakers,2,2024
+DK,Denmark,zho,Chinese,L4_speakers,3,2024
 DE,Germany,zho,Chinese,L1_speakers,1,2024
 DE,Germany,zho,Chinese,L2_speakers,2,2024
 DE,Germany,zho,Chinese,L3_speakers,3,2024
-DE,Germany,zho,Chinese,L4_speakers,3,2024
+DE,Germany,zho,Chinese,L4_speakers,6,2024
 EE,Estonia,zho,Chinese,L2_speakers,1,2024
 EE,Estonia,zho,Chinese,L3_speakers,1,2024
-EE,Estonia,zho,Chinese,L4_speakers,1,2024
+EE,Estonia,zho,Chinese,L4_speakers,2,2024
 IE,Ireland,zho,Chinese,L1_speakers,2,2024
 IE,Ireland,zho,Chinese,L2_speakers,4,2024
 IE,Ireland,zho,Chinese,L3_speakers,2,2024
-IE,Ireland,zho,Chinese,L4_speakers,2,2024
-EL,Greece,zho,Chinese,L3_speakers,1,2024
-EL,Greece,zho,Chinese,L4_speakers,1,2024
+IE,Ireland,zho,Chinese,L4_speakers,1,2024
+GR,Greece,zho,Chinese,L3_speakers,1,2024
+GR,Greece,zho,Chinese,L4_speakers,2,2024
 ES,Spain,zho,Chinese,L2_speakers,1,2024
 ES,Spain,zho,Chinese,L3_speakers,3,2024
-ES,Spain,zho,Chinese,L4_speakers,3,2024
+ES,Spain,zho,Chinese,L4_speakers,2,2024
 FR,France,zho,Chinese,L2_speakers,1,2024
 FR,France,zho,Chinese,L3_speakers,1,2024
-FR,France,zho,Chinese,L4_speakers,1,2024
+FR,France,zho,Chinese,L4_speakers,2,2024
 HR,Croatia,zho,Chinese,L2_speakers,1,2024
 HR,Croatia,zho,Chinese,L3_speakers,1,2024
 HR,Croatia,zho,Chinese,L4_speakers,1,2024
 IT,Italy,zho,Chinese,L1_speakers,2,2024
 IT,Italy,zho,Chinese,L2_speakers,3,2024
 IT,Italy,zho,Chinese,L3_speakers,5,2024
-IT,Italy,zho,Chinese,L4_speakers,5,2024
+IT,Italy,zho,Chinese,L4_speakers,8,2024
+CY,Cyprus,zho,Chinese,L4_speakers,1,2024
 LV,Latvia,zho,Chinese,L2_speakers,2,2024
+LT,Lithuania,zho,Chinese,L4_speakers,2,2024
 LU,Luxembourg,zho,Chinese,L1_speakers,1,2024
+LU,Luxembourg,zho,Chinese,L4_speakers,1,2024
+HU,Hungary,zho,Chinese,L4_speakers,2,2024
 MT,Malta,zho,Chinese,L3_speakers,1,2024
-MT,Malta,zho,Chinese,L4_speakers,1,2024
+MT,Malta,zho,Chinese,L4_speakers,2,2024
 NL,Netherlands,zho,Chinese,L2_speakers,1,2024
 NL,Netherlands,zho,Chinese,L3_speakers,4,2024
-NL,Netherlands,zho,Chinese,L4_speakers,4,2024
+NL,Netherlands,zho,Chinese,L4_speakers,3,2024
 AT,Austria,zho,Chinese,L1_speakers,1,2024
 AT,Austria,zho,Chinese,L3_speakers,3,2024
-AT,Austria,zho,Chinese,L4_speakers,3,2024
+AT,Austria,zho,Chinese,L4_speakers,1,2024
+PT,Portugal,zho,Chinese,L4_speakers,1,2024
 RO,Romania,zho,Chinese,L3_speakers,1,2024
-RO,Romania,zho,Chinese,L4_speakers,1,2024
 SI,Slovenia,zho,Chinese,L3_speakers,1,2024
-SI,Slovenia,zho,Chinese,L4_speakers,1,2024
+FI,Finland,zho,Chinese,L4_speakers,3,2024
 SE,Sweden,zho,Chinese,L3_speakers,1,2024
-SE,Sweden,zho,Chinese,L4_speakers,1,2024
+SE,Sweden,zho,Chinese,L4_speakers,3,2024
 BG,Bulgaria,hrv,Croatian,L3_speakers,1,2024
-BG,Bulgaria,hrv,Croatian,L4_speakers,1,2024
-CZ,Czech Republic,hrv,Croatian,L1_speakers,1,2024
-CZ,Czech Republic,hrv,Croatian,L2_speakers,2,2024
-CZ,Czech Republic,hrv,Croatian,L3_speakers,2,2024
-CZ,Czech Republic,hrv,Croatian,L4_speakers,2,2024
+CZ,Czechia,hrv,Croatian,L1_speakers,1,2024
+CZ,Czechia,hrv,Croatian,L2_speakers,2,2024
+CZ,Czechia,hrv,Croatian,L3_speakers,2,2024
+CZ,Czechia,hrv,Croatian,L4_speakers,3,2024
+DK,Denmark,hrv,Croatian,L4_speakers,1,2024
 DE,Germany,hrv,Croatian,L1_speakers,6,2024
 DE,Germany,hrv,Croatian,L2_speakers,2,2024
 DE,Germany,hrv,Croatian,L3_speakers,3,2024
-DE,Germany,hrv,Croatian,L4_speakers,3,2024
+DE,Germany,hrv,Croatian,L4_speakers,2,2024
 IE,Ireland,hrv,Croatian,L1_speakers,5,2024
 FR,France,hrv,Croatian,L2_speakers,1,2024
+FR,France,hrv,Croatian,L4_speakers,2,2024
 HR,Croatia,hrv,Croatian,L1_speakers,919,2024
 HR,Croatia,hrv,Croatian,L2_speakers,36,2024
 HR,Croatia,hrv,Croatian,L3_speakers,6,2024
-HR,Croatia,hrv,Croatian,L4_speakers,6,2024
+HR,Croatia,hrv,Croatian,L4_speakers,5,2024
 IT,Italy,hrv,Croatian,L2_speakers,2,2024
 IT,Italy,hrv,Croatian,L3_speakers,1,2024
-IT,Italy,hrv,Croatian,L4_speakers,1,2024
+IT,Italy,hrv,Croatian,L4_speakers,3,2024
 LU,Luxembourg,hrv,Croatian,L2_speakers,1,2024
 HU,Hungary,hrv,Croatian,L1_speakers,1,2024
 HU,Hungary,hrv,Croatian,L2_speakers,2,2024
 MT,Malta,hrv,Croatian,L3_speakers,1,2024
-MT,Malta,hrv,Croatian,L4_speakers,1,2024
 NL,Netherlands,hrv,Croatian,L2_speakers,1,2024
 AT,Austria,hrv,Croatian,L1_speakers,5,2024
 AT,Austria,hrv,Croatian,L2_speakers,4,2024
 AT,Austria,hrv,Croatian,L3_speakers,3,2024
-AT,Austria,hrv,Croatian,L4_speakers,3,2024
+AT,Austria,hrv,Croatian,L4_speakers,2,2024
 PT,Portugal,hrv,Croatian,L2_speakers,1,2024
 PT,Portugal,hrv,Croatian,L3_speakers,1,2024
-PT,Portugal,hrv,Croatian,L4_speakers,1,2024
 SI,Slovenia,hrv,Croatian,L1_speakers,10,2024
 SI,Slovenia,hrv,Croatian,L2_speakers,207,2024
 SI,Slovenia,hrv,Croatian,L3_speakers,209,2024
-SI,Slovenia,hrv,Croatian,L4_speakers,209,2024
+SI,Slovenia,hrv,Croatian,L4_speakers,131,2024
 SK,Slovakia,hrv,Croatian,L2_speakers,1,2024
 SK,Slovakia,hrv,Croatian,L3_speakers,3,2024
-SK,Slovakia,hrv,Croatian,L4_speakers,3,2024
+SK,Slovakia,hrv,Croatian,L4_speakers,1,2024
 SE,Sweden,hrv,Croatian,L2_speakers,2,2024
 SE,Sweden,hrv,Croatian,L3_speakers,1,2024
 SE,Sweden,hrv,Croatian,L4_speakers,1,2024
 BG,Bulgaria,ces,Czech,L3_speakers,1,2024
-BG,Bulgaria,ces,Czech,L4_speakers,1,2024
-CZ,Czech Republic,ces,Czech,L1_speakers,941,2024
-CZ,Czech Republic,ces,Czech,L2_speakers,25,2024
-CZ,Czech Republic,ces,Czech,L3_speakers,1,2024
-CZ,Czech Republic,ces,Czech,L4_speakers,1,2024
+CZ,Czechia,ces,Czech,L1_speakers,941,2024
+CZ,Czechia,ces,Czech,L2_speakers,25,2024
+CZ,Czechia,ces,Czech,L3_speakers,1,2024
+CZ,Czechia,ces,Czech,L4_speakers,3,2024
 DK,Denmark,ces,Czech,L1_speakers,1,2024
 DE,Germany,ces,Czech,L1_speakers,1,2024
 DE,Germany,ces,Czech,L2_speakers,1,2024
 DE,Germany,ces,Czech,L3_speakers,3,2024
-DE,Germany,ces,Czech,L4_speakers,3,2024
+DE,Germany,ces,Czech,L4_speakers,1,2024
 FR,France,ces,Czech,L1_speakers,1,2024
 HR,Croatia,ces,Czech,L1_speakers,2,2024
 HR,Croatia,ces,Czech,L3_speakers,2,2024
-HR,Croatia,ces,Czech,L4_speakers,2,2024
+HR,Croatia,ces,Czech,L4_speakers,1,2024
 IT,Italy,ces,Czech,L1_speakers,3,2024
 IT,Italy,ces,Czech,L2_speakers,3,2024
 IT,Italy,ces,Czech,L3_speakers,2,2024
-IT,Italy,ces,Czech,L4_speakers,2,2024
+IT,Italy,ces,Czech,L4_speakers,4,2024
 LV,Latvia,ces,Czech,L3_speakers,1,2024
-LV,Latvia,ces,Czech,L4_speakers,1,2024
 LU,Luxembourg,ces,Czech,L2_speakers,1,2024
+LU,Luxembourg,ces,Czech,L4_speakers,1,2024
 NL,Netherlands,ces,Czech,L3_speakers,2,2024
-NL,Netherlands,ces,Czech,L4_speakers,2,2024
+NL,Netherlands,ces,Czech,L4_speakers,1,2024
 AT,Austria,ces,Czech,L1_speakers,6,2024
 AT,Austria,ces,Czech,L2_speakers,2,2024
 AT,Austria,ces,Czech,L3_speakers,6,2024
-AT,Austria,ces,Czech,L4_speakers,6,2024
+AT,Austria,ces,Czech,L4_speakers,2,2024
 PL,Poland,ces,Czech,L2_speakers,1,2024
 PL,Poland,ces,Czech,L3_speakers,2,2024
-PL,Poland,ces,Czech,L4_speakers,2,2024
 PT,Portugal,ces,Czech,L2_speakers,1,2024
 SK,Slovakia,ces,Czech,L1_speakers,10,2024
 SK,Slovakia,ces,Czech,L2_speakers,120,2024
 SK,Slovakia,ces,Czech,L3_speakers,80,2024
-SK,Slovakia,ces,Czech,L4_speakers,80,2024
+SK,Slovakia,ces,Czech,L4_speakers,38,2024
 FI,Finland,ces,Czech,L2_speakers,1,2024
+FI,Finland,ces,Czech,L4_speakers,1,2024
 BE,Belgium,dan,Danish,L3_speakers,2,2024
-BE,Belgium,dan,Danish,L4_speakers,2,2024
 DK,Denmark,dan,Danish,L1_speakers,924,2024
 DK,Denmark,dan,Danish,L2_speakers,30,2024
 DK,Denmark,dan,Danish,L3_speakers,13,2024
-DK,Denmark,dan,Danish,L4_speakers,13,2024
+DK,Denmark,dan,Danish,L4_speakers,4,2024
 DE,Germany,dan,Danish,L1_speakers,3,2024
 DE,Germany,dan,Danish,L2_speakers,2,2024
 DE,Germany,dan,Danish,L3_speakers,5,2024
-DE,Germany,dan,Danish,L4_speakers,5,2024
+DE,Germany,dan,Danish,L4_speakers,4,2024
 EE,Estonia,dan,Danish,L2_speakers,1,2024
+EE,Estonia,dan,Danish,L4_speakers,1,2024
 IE,Ireland,dan,Danish,L3_speakers,2,2024
-IE,Ireland,dan,Danish,L4_speakers,2,2024
-EL,Greece,dan,Danish,L3_speakers,1,2024
-EL,Greece,dan,Danish,L4_speakers,1,2024
+GR,Greece,dan,Danish,L3_speakers,1,2024
 HR,Croatia,dan,Danish,L1_speakers,4,2024
 HR,Croatia,dan,Danish,L2_speakers,2,2024
 HR,Croatia,dan,Danish,L3_speakers,1,2024
@@ -1706,335 +1699,328 @@ HR,Croatia,dan,Danish,L4_speakers,1,2024
 IT,Italy,dan,Danish,L3_speakers,1,2024
 IT,Italy,dan,Danish,L4_speakers,1,2024
 LV,Latvia,dan,Danish,L3_speakers,2,2024
-LV,Latvia,dan,Danish,L4_speakers,2,2024
+LV,Latvia,dan,Danish,L4_speakers,3,2024
 LU,Luxembourg,dan,Danish,L1_speakers,2,2024
 LU,Luxembourg,dan,Danish,L3_speakers,1,2024
 LU,Luxembourg,dan,Danish,L4_speakers,1,2024
 NL,Netherlands,dan,Danish,L3_speakers,1,2024
-NL,Netherlands,dan,Danish,L4_speakers,1,2024
+NL,Netherlands,dan,Danish,L4_speakers,2,2024
 AT,Austria,dan,Danish,L1_speakers,1,2024
 AT,Austria,dan,Danish,L2_speakers,1,2024
+PT,Portugal,dan,Danish,L4_speakers,1,2024
 RO,Romania,dan,Danish,L3_speakers,2,2024
-RO,Romania,dan,Danish,L4_speakers,2,2024
 SK,Slovakia,dan,Danish,L3_speakers,1,2024
-SK,Slovakia,dan,Danish,L4_speakers,1,2024
 FI,Finland,dan,Danish,L3_speakers,2,2024
-FI,Finland,dan,Danish,L4_speakers,2,2024
 SE,Sweden,dan,Danish,L1_speakers,1,2024
 SE,Sweden,dan,Danish,L2_speakers,6,2024
 SE,Sweden,dan,Danish,L3_speakers,50,2024
-SE,Sweden,dan,Danish,L4_speakers,50,2024
+SE,Sweden,dan,Danish,L4_speakers,25,2024
 BE,Belgium,nld,Dutch,L1_speakers,502,2024
 BE,Belgium,nld,Dutch,L2_speakers,88,2024
 BE,Belgium,nld,Dutch,L3_speakers,26,2024
-BE,Belgium,nld,Dutch,L4_speakers,26,2024
+BE,Belgium,nld,Dutch,L4_speakers,17,2024
 BG,Bulgaria,nld,Dutch,L2_speakers,1,2024
 BG,Bulgaria,nld,Dutch,L3_speakers,5,2024
-BG,Bulgaria,nld,Dutch,L4_speakers,5,2024
 DK,Denmark,nld,Dutch,L1_speakers,5,2024
 DK,Denmark,nld,Dutch,L2_speakers,1,2024
 DK,Denmark,nld,Dutch,L3_speakers,3,2024
-DK,Denmark,nld,Dutch,L4_speakers,3,2024
+DK,Denmark,nld,Dutch,L4_speakers,1,2024
 DE,Germany,nld,Dutch,L1_speakers,6,2024
 DE,Germany,nld,Dutch,L2_speakers,1,2024
 DE,Germany,nld,Dutch,L3_speakers,4,2024
-DE,Germany,nld,Dutch,L4_speakers,4,2024
+DE,Germany,nld,Dutch,L4_speakers,8,2024
 EE,Estonia,nld,Dutch,L3_speakers,1,2024
-EE,Estonia,nld,Dutch,L4_speakers,1,2024
 IE,Ireland,nld,Dutch,L1_speakers,1,2024
 IE,Ireland,nld,Dutch,L2_speakers,2,2024
 IE,Ireland,nld,Dutch,L3_speakers,4,2024
-IE,Ireland,nld,Dutch,L4_speakers,4,2024
 ES,Spain,nld,Dutch,L1_speakers,2,2024
 ES,Spain,nld,Dutch,L3_speakers,1,2024
-ES,Spain,nld,Dutch,L4_speakers,1,2024
+HR,Croatia,nld,Dutch,L4_speakers,1,2024
 IT,Italy,nld,Dutch,L3_speakers,2,2024
-IT,Italy,nld,Dutch,L4_speakers,2,2024
+IT,Italy,nld,Dutch,L4_speakers,1,2024
+CY,Cyprus,nld,Dutch,L4_speakers,4,2024
 LV,Latvia,nld,Dutch,L3_speakers,1,2024
-LV,Latvia,nld,Dutch,L4_speakers,1,2024
+LV,Latvia,nld,Dutch,L4_speakers,2,2024
 LU,Luxembourg,nld,Dutch,L1_speakers,5,2024
 LU,Luxembourg,nld,Dutch,L2_speakers,3,2024
 LU,Luxembourg,nld,Dutch,L3_speakers,4,2024
-LU,Luxembourg,nld,Dutch,L4_speakers,4,2024
+LU,Luxembourg,nld,Dutch,L4_speakers,6,2024
 HU,Hungary,nld,Dutch,L2_speakers,3,2024
 HU,Hungary,nld,Dutch,L3_speakers,1,2024
-HU,Hungary,nld,Dutch,L4_speakers,1,2024
+HU,Hungary,nld,Dutch,L4_speakers,2,2024
 MT,Malta,nld,Dutch,L3_speakers,2,2024
-MT,Malta,nld,Dutch,L4_speakers,2,2024
 NL,Netherlands,nld,Dutch,L1_speakers,965,2024
 NL,Netherlands,nld,Dutch,L2_speakers,41,2024
 NL,Netherlands,nld,Dutch,L3_speakers,8,2024
-NL,Netherlands,nld,Dutch,L4_speakers,8,2024
+NL,Netherlands,nld,Dutch,L4_speakers,2,2024
 AT,Austria,nld,Dutch,L1_speakers,1,2024
 AT,Austria,nld,Dutch,L2_speakers,1,2024
 AT,Austria,nld,Dutch,L3_speakers,5,2024
-AT,Austria,nld,Dutch,L4_speakers,5,2024
+AT,Austria,nld,Dutch,L4_speakers,3,2024
+PL,Poland,nld,Dutch,L4_speakers,1,2024
 PT,Portugal,nld,Dutch,L1_speakers,1,2024
 RO,Romania,nld,Dutch,L3_speakers,1,2024
-RO,Romania,nld,Dutch,L4_speakers,1,2024
+SI,Slovenia,nld,Dutch,L4_speakers,1,2024
 FI,Finland,nld,Dutch,L2_speakers,2,2024
 FI,Finland,nld,Dutch,L3_speakers,1,2024
-FI,Finland,nld,Dutch,L4_speakers,1,2024
 SE,Sweden,nld,Dutch,L2_speakers,5,2024
 SE,Sweden,nld,Dutch,L3_speakers,4,2024
-SE,Sweden,nld,Dutch,L4_speakers,4,2024
-BE,Belgium,est,Estonian,L2_speakers,1,2024
-BG,Bulgaria,est,Estonian,L1_speakers,1,2024
-DE,Germany,est,Estonian,L2_speakers,3,2024
-EE,Estonia,est,Estonian,L1_speakers,723,2024
-EE,Estonia,est,Estonian,L2_speakers,117,2024
-EE,Estonia,est,Estonian,L3_speakers,40,2024
-EE,Estonia,est,Estonian,L4_speakers,40,2024
-IE,Ireland,est,Estonian,L1_speakers,1,2024
-HR,Croatia,est,Estonian,L1_speakers,1,2024
-HR,Croatia,est,Estonian,L3_speakers,1,2024
-HR,Croatia,est,Estonian,L4_speakers,1,2024
-LV,Latvia,est,Estonian,L1_speakers,2,2024
-LV,Latvia,est,Estonian,L2_speakers,3,2024
-LV,Latvia,est,Estonian,L3_speakers,3,2024
-LV,Latvia,est,Estonian,L4_speakers,3,2024
-LT,Lithuania,est,Estonian,L3_speakers,1,2024
-LT,Lithuania,est,Estonian,L4_speakers,1,2024
-RO,Romania,est,Estonian,L2_speakers,1,2024
-FI,Finland,est,Estonian,L1_speakers,1,2024
-FI,Finland,est,Estonian,L2_speakers,3,2024
-FI,Finland,est,Estonian,L3_speakers,4,2024
-FI,Finland,est,Estonian,L4_speakers,4,2024
-SE,Sweden,est,Estonian,L1_speakers,1,2024
-SE,Sweden,est,Estonian,L2_speakers,1,2024
+SE,Sweden,nld,Dutch,L4_speakers,3,2024
+BE,Belgium,ekk,Estonian,L2_speakers,1,2024
+BG,Bulgaria,ekk,Estonian,L1_speakers,1,2024
+CZ,Czechia,ekk,Estonian,L4_speakers,1,2024
+DE,Germany,ekk,Estonian,L2_speakers,3,2024
+EE,Estonia,ekk,Estonian,L1_speakers,723,2024
+EE,Estonia,ekk,Estonian,L2_speakers,117,2024
+EE,Estonia,ekk,Estonian,L3_speakers,40,2024
+EE,Estonia,ekk,Estonian,L4_speakers,6,2024
+IE,Ireland,ekk,Estonian,L1_speakers,1,2024
+HR,Croatia,ekk,Estonian,L1_speakers,1,2024
+HR,Croatia,ekk,Estonian,L3_speakers,1,2024
+HR,Croatia,ekk,Estonian,L4_speakers,4,2024
+IT,Italy,ekk,Estonian,L4_speakers,2,2024
+LV,Latvia,ekk,Estonian,L1_speakers,2,2024
+LV,Latvia,ekk,Estonian,L2_speakers,3,2024
+LV,Latvia,ekk,Estonian,L3_speakers,3,2024
+LV,Latvia,ekk,Estonian,L4_speakers,1,2024
+LT,Lithuania,ekk,Estonian,L3_speakers,1,2024
+RO,Romania,ekk,Estonian,L2_speakers,1,2024
+FI,Finland,ekk,Estonian,L1_speakers,1,2024
+FI,Finland,ekk,Estonian,L2_speakers,3,2024
+FI,Finland,ekk,Estonian,L3_speakers,4,2024
+FI,Finland,ekk,Estonian,L4_speakers,3,2024
+SE,Sweden,ekk,Estonian,L1_speakers,1,2024
+SE,Sweden,ekk,Estonian,L2_speakers,1,2024
 BE,Belgium,eng,English,L1_speakers,21,2024
 BE,Belgium,eng,English,L2_speakers,398,2024
 BE,Belgium,eng,English,L3_speakers,163,2024
-BE,Belgium,eng,English,L4_speakers,163,2024
+BE,Belgium,eng,English,L4_speakers,28,2024
 BG,Bulgaria,eng,English,L1_speakers,9,2024
 BG,Bulgaria,eng,English,L2_speakers,247,2024
 BG,Bulgaria,eng,English,L3_speakers,53,2024
-BG,Bulgaria,eng,English,L4_speakers,53,2024
-CZ,Czech Republic,eng,English,L1_speakers,14,2024
-CZ,Czech Republic,eng,English,L2_speakers,331,2024
-CZ,Czech Republic,eng,English,L3_speakers,66,2024
-CZ,Czech Republic,eng,English,L4_speakers,66,2024
+BG,Bulgaria,eng,English,L4_speakers,6,2024
+CZ,Czechia,eng,English,L1_speakers,14,2024
+CZ,Czechia,eng,English,L2_speakers,331,2024
+CZ,Czechia,eng,English,L3_speakers,66,2024
+CZ,Czechia,eng,English,L4_speakers,20,2024
 DK,Denmark,eng,English,L1_speakers,23,2024
 DK,Denmark,eng,English,L2_speakers,795,2024
 DK,Denmark,eng,English,L3_speakers,75,2024
-DK,Denmark,eng,English,L4_speakers,75,2024
+DK,Denmark,eng,English,L4_speakers,5,2024
 DE,Germany,eng,English,L1_speakers,14,2024
 DE,Germany,eng,English,L2_speakers,860,2024
 DE,Germany,eng,English,L3_speakers,131,2024
-DE,Germany,eng,English,L4_speakers,131,2024
+DE,Germany,eng,English,L4_speakers,3,2024
 EE,Estonia,eng,English,L1_speakers,7,2024
 EE,Estonia,eng,English,L2_speakers,382,2024
 EE,Estonia,eng,English,L3_speakers,170,2024
-EE,Estonia,eng,English,L4_speakers,170,2024
+EE,Estonia,eng,English,L4_speakers,30,2024
 IE,Ireland,eng,English,L1_speakers,811,2024
 IE,Ireland,eng,English,L2_speakers,132,2024
 IE,Ireland,eng,English,L3_speakers,13,2024
-IE,Ireland,eng,English,L4_speakers,13,2024
-EL,Greece,eng,English,L1_speakers,5,2024
-EL,Greece,eng,English,L2_speakers,475,2024
-EL,Greece,eng,English,L3_speakers,36,2024
-EL,Greece,eng,English,L4_speakers,36,2024
+IE,Ireland,eng,English,L4_speakers,2,2024
+GR,Greece,eng,English,L1_speakers,5,2024
+GR,Greece,eng,English,L2_speakers,475,2024
+GR,Greece,eng,English,L3_speakers,36,2024
+GR,Greece,eng,English,L4_speakers,3,2024
 ES,Spain,eng,English,L1_speakers,9,2024
 ES,Spain,eng,English,L2_speakers,275,2024
 ES,Spain,eng,English,L3_speakers,101,2024
-ES,Spain,eng,English,L4_speakers,101,2024
+ES,Spain,eng,English,L4_speakers,10,2024
 FR,France,eng,English,L1_speakers,13,2024
 FR,France,eng,English,L2_speakers,332,2024
 FR,France,eng,English,L3_speakers,68,2024
-FR,France,eng,English,L4_speakers,68,2024
+FR,France,eng,English,L4_speakers,3,2024
 HR,Croatia,eng,English,L1_speakers,27,2024
 HR,Croatia,eng,English,L2_speakers,373,2024
 HR,Croatia,eng,English,L3_speakers,42,2024
-HR,Croatia,eng,English,L4_speakers,42,2024
+HR,Croatia,eng,English,L4_speakers,13,2024
 IT,Italy,eng,English,L1_speakers,10,2024
 IT,Italy,eng,English,L2_speakers,318,2024
 IT,Italy,eng,English,L3_speakers,22,2024
-IT,Italy,eng,English,L4_speakers,22,2024
+IT,Italy,eng,English,L4_speakers,2,2024
 CY,Cyprus,eng,English,L1_speakers,29,2024
 CY,Cyprus,eng,English,L2_speakers,356,2024
 CY,Cyprus,eng,English,L3_speakers,14,2024
-CY,Cyprus,eng,English,L4_speakers,14,2024
 LV,Latvia,eng,English,L1_speakers,12,2024
 LV,Latvia,eng,English,L2_speakers,252,2024
 LV,Latvia,eng,English,L3_speakers,244,2024
-LV,Latvia,eng,English,L4_speakers,244,2024
+LV,Latvia,eng,English,L4_speakers,43,2024
 LT,Lithuania,eng,English,L1_speakers,4,2024
 LT,Lithuania,eng,English,L2_speakers,307,2024
 LT,Lithuania,eng,English,L3_speakers,116,2024
-LT,Lithuania,eng,English,L4_speakers,116,2024
+LT,Lithuania,eng,English,L4_speakers,29,2024
 LU,Luxembourg,eng,English,L1_speakers,17,2024
 LU,Luxembourg,eng,English,L2_speakers,106,2024
 LU,Luxembourg,eng,English,L3_speakers,93,2024
-LU,Luxembourg,eng,English,L4_speakers,93,2024
+LU,Luxembourg,eng,English,L4_speakers,145,2024
 HU,Hungary,eng,English,L1_speakers,8,2024
 HU,Hungary,eng,English,L2_speakers,270,2024
 HU,Hungary,eng,English,L3_speakers,35,2024
-HU,Hungary,eng,English,L4_speakers,35,2024
+HU,Hungary,eng,English,L4_speakers,3,2024
 MT,Malta,eng,English,L1_speakers,27,2024
 MT,Malta,eng,English,L2_speakers,409,2024
 MT,Malta,eng,English,L3_speakers,23,2024
-MT,Malta,eng,English,L4_speakers,23,2024
+MT,Malta,eng,English,L4_speakers,5,2024
 NL,Netherlands,eng,English,L1_speakers,13,2024
 NL,Netherlands,eng,English,L2_speakers,837,2024
 NL,Netherlands,eng,English,L3_speakers,120,2024
-NL,Netherlands,eng,English,L4_speakers,120,2024
+NL,Netherlands,eng,English,L4_speakers,11,2024
 AT,Austria,eng,English,L1_speakers,5,2024
 AT,Austria,eng,English,L2_speakers,488,2024
 AT,Austria,eng,English,L3_speakers,51,2024
-AT,Austria,eng,English,L4_speakers,51,2024
+AT,Austria,eng,English,L4_speakers,7,2024
 PL,Poland,eng,English,L1_speakers,27,2024
 PL,Poland,eng,English,L2_speakers,252,2024
 PL,Poland,eng,English,L3_speakers,22,2024
-PL,Poland,eng,English,L4_speakers,22,2024
+PL,Poland,eng,English,L4_speakers,2,2024
 PT,Portugal,eng,English,L1_speakers,2,2024
 PT,Portugal,eng,English,L2_speakers,383,2024
 PT,Portugal,eng,English,L3_speakers,39,2024
-PT,Portugal,eng,English,L4_speakers,39,2024
+PT,Portugal,eng,English,L4_speakers,3,2024
 RO,Romania,eng,English,L1_speakers,16,2024
 RO,Romania,eng,English,L2_speakers,232,2024
 RO,Romania,eng,English,L3_speakers,29,2024
-RO,Romania,eng,English,L4_speakers,29,2024
+RO,Romania,eng,English,L4_speakers,2,2024
 SI,Slovenia,eng,English,L1_speakers,9,2024
 SI,Slovenia,eng,English,L2_speakers,449,2024
 SI,Slovenia,eng,English,L3_speakers,120,2024
-SI,Slovenia,eng,English,L4_speakers,120,2024
+SI,Slovenia,eng,English,L4_speakers,43,2024
 SK,Slovakia,eng,English,L1_speakers,18,2024
 SK,Slovakia,eng,English,L2_speakers,291,2024
 SK,Slovakia,eng,English,L3_speakers,75,2024
-SK,Slovakia,eng,English,L4_speakers,75,2024
+SK,Slovakia,eng,English,L4_speakers,13,2024
 FI,Finland,eng,English,L1_speakers,14,2024
 FI,Finland,eng,English,L2_speakers,700,2024
 FI,Finland,eng,English,L3_speakers,101,2024
-FI,Finland,eng,English,L4_speakers,101,2024
+FI,Finland,eng,English,L4_speakers,9,2024
 SE,Sweden,eng,English,L1_speakers,10,2024
 SE,Sweden,eng,English,L2_speakers,886,2024
 SE,Sweden,eng,English,L3_speakers,70,2024
-SE,Sweden,eng,English,L4_speakers,70,2024
-CZ,Czech Republic,fin,Finnish,L2_speakers,1,2024
+SE,Sweden,eng,English,L4_speakers,7,2024
+CZ,Czechia,fin,Finnish,L2_speakers,1,2024
+CZ,Czechia,fin,Finnish,L4_speakers,1,2024
 DK,Denmark,fin,Finnish,L1_speakers,1,2024
 DK,Denmark,fin,Finnish,L3_speakers,2,2024
-DK,Denmark,fin,Finnish,L4_speakers,2,2024
 DE,Germany,fin,Finnish,L3_speakers,1,2024
-DE,Germany,fin,Finnish,L4_speakers,1,2024
 EE,Estonia,fin,Finnish,L1_speakers,6,2024
 EE,Estonia,fin,Finnish,L2_speakers,37,2024
 EE,Estonia,fin,Finnish,L3_speakers,69,2024
-EE,Estonia,fin,Finnish,L4_speakers,69,2024
+EE,Estonia,fin,Finnish,L4_speakers,76,2024
 FR,France,fin,Finnish,L1_speakers,3,2024
 HR,Croatia,fin,Finnish,L2_speakers,1,2024
 HR,Croatia,fin,Finnish,L3_speakers,1,2024
-HR,Croatia,fin,Finnish,L4_speakers,1,2024
 LV,Latvia,fin,Finnish,L3_speakers,2,2024
-LV,Latvia,fin,Finnish,L4_speakers,2,2024
+LV,Latvia,fin,Finnish,L4_speakers,1,2024
+LT,Lithuania,fin,Finnish,L4_speakers,1,2024
 HU,Hungary,fin,Finnish,L3_speakers,1,2024
-HU,Hungary,fin,Finnish,L4_speakers,1,2024
 FI,Finland,fin,Finnish,L1_speakers,940,2024
 FI,Finland,fin,Finnish,L2_speakers,35,2024
 FI,Finland,fin,Finnish,L3_speakers,7,2024
-FI,Finland,fin,Finnish,L4_speakers,7,2024
+FI,Finland,fin,Finnish,L4_speakers,2,2024
 SE,Sweden,fin,Finnish,L1_speakers,7,2024
 SE,Sweden,fin,Finnish,L2_speakers,7,2024
 SE,Sweden,fin,Finnish,L3_speakers,8,2024
-SE,Sweden,fin,Finnish,L4_speakers,8,2024
+SE,Sweden,fin,Finnish,L4_speakers,1,2024
 BE,Belgium,fra,French,L1_speakers,367,2024
 BE,Belgium,fra,French,L2_speakers,186,2024
 BE,Belgium,fra,French,L3_speakers,240,2024
-BE,Belgium,fra,French,L4_speakers,240,2024
+BE,Belgium,fra,French,L4_speakers,38,2024
 BG,Bulgaria,fra,French,L2_speakers,13,2024
 BG,Bulgaria,fra,French,L3_speakers,17,2024
-BG,Bulgaria,fra,French,L4_speakers,17,2024
-CZ,Czech Republic,fra,French,L1_speakers,3,2024
-CZ,Czech Republic,fra,French,L2_speakers,11,2024
-CZ,Czech Republic,fra,French,L3_speakers,21,2024
-CZ,Czech Republic,fra,French,L4_speakers,21,2024
+BG,Bulgaria,fra,French,L4_speakers,3,2024
+CZ,Czechia,fra,French,L1_speakers,3,2024
+CZ,Czechia,fra,French,L2_speakers,11,2024
+CZ,Czechia,fra,French,L3_speakers,21,2024
+CZ,Czechia,fra,French,L4_speakers,13,2024
 DK,Denmark,fra,French,L1_speakers,1,2024
 DK,Denmark,fra,French,L2_speakers,10,2024
 DK,Denmark,fra,French,L3_speakers,40,2024
-DK,Denmark,fra,French,L4_speakers,40,2024
+DK,Denmark,fra,French,L4_speakers,61,2024
 DE,Germany,fra,French,L1_speakers,6,2024
 DE,Germany,fra,French,L2_speakers,21,2024
 DE,Germany,fra,French,L3_speakers,195,2024
-DE,Germany,fra,French,L4_speakers,195,2024
+DE,Germany,fra,French,L4_speakers,29,2024
 EE,Estonia,fra,French,L3_speakers,9,2024
-EE,Estonia,fra,French,L4_speakers,9,2024
+EE,Estonia,fra,French,L4_speakers,10,2024
 IE,Ireland,fra,French,L1_speakers,5,2024
 IE,Ireland,fra,French,L2_speakers,64,2024
 IE,Ireland,fra,French,L3_speakers,40,2024
-IE,Ireland,fra,French,L4_speakers,40,2024
-EL,Greece,fra,French,L1_speakers,1,2024
-EL,Greece,fra,French,L2_speakers,13,2024
-EL,Greece,fra,French,L3_speakers,42,2024
-EL,Greece,fra,French,L4_speakers,42,2024
+IE,Ireland,fra,French,L4_speakers,15,2024
+GR,Greece,fra,French,L1_speakers,1,2024
+GR,Greece,fra,French,L2_speakers,13,2024
+GR,Greece,fra,French,L3_speakers,42,2024
+GR,Greece,fra,French,L4_speakers,2,2024
 ES,Spain,fra,French,L1_speakers,8,2024
 ES,Spain,fra,French,L2_speakers,32,2024
 ES,Spain,fra,French,L3_speakers,67,2024
-ES,Spain,fra,French,L4_speakers,67,2024
+ES,Spain,fra,French,L4_speakers,23,2024
 FR,France,fra,French,L1_speakers,892,2024
 FR,France,fra,French,L2_speakers,69,2024
 FR,France,fra,French,L3_speakers,4,2024
-FR,France,fra,French,L4_speakers,4,2024
 HR,Croatia,fra,French,L1_speakers,4,2024
 HR,Croatia,fra,French,L2_speakers,9,2024
 HR,Croatia,fra,French,L3_speakers,16,2024
-HR,Croatia,fra,French,L4_speakers,16,2024
+HR,Croatia,fra,French,L4_speakers,13,2024
 IT,Italy,fra,French,L1_speakers,3,2024
 IT,Italy,fra,French,L2_speakers,38,2024
 IT,Italy,fra,French,L3_speakers,51,2024
-IT,Italy,fra,French,L4_speakers,51,2024
+IT,Italy,fra,French,L4_speakers,10,2024
 CY,Cyprus,fra,French,L1_speakers,1,2024
 CY,Cyprus,fra,French,L2_speakers,6,2024
 CY,Cyprus,fra,French,L3_speakers,30,2024
-CY,Cyprus,fra,French,L4_speakers,30,2024
+CY,Cyprus,fra,French,L4_speakers,8,2024
 LV,Latvia,fra,French,L2_speakers,3,2024
 LV,Latvia,fra,French,L3_speakers,14,2024
-LV,Latvia,fra,French,L4_speakers,14,2024
+LV,Latvia,fra,French,L4_speakers,15,2024
 LT,Lithuania,fra,French,L2_speakers,2,2024
 LT,Lithuania,fra,French,L3_speakers,18,2024
-LT,Lithuania,fra,French,L4_speakers,18,2024
+LT,Lithuania,fra,French,L4_speakers,9,2024
 LU,Luxembourg,fra,French,L1_speakers,88,2024
 LU,Luxembourg,fra,French,L2_speakers,197,2024
 LU,Luxembourg,fra,French,L3_speakers,152,2024
-LU,Luxembourg,fra,French,L4_speakers,152,2024
+LU,Luxembourg,fra,French,L4_speakers,40,2024
 HU,Hungary,fra,French,L2_speakers,4,2024
 HU,Hungary,fra,French,L3_speakers,12,2024
-HU,Hungary,fra,French,L4_speakers,12,2024
+HU,Hungary,fra,French,L4_speakers,4,2024
 MT,Malta,fra,French,L1_speakers,2,2024
 MT,Malta,fra,French,L2_speakers,3,2024
 MT,Malta,fra,French,L3_speakers,19,2024
-MT,Malta,fra,French,L4_speakers,19,2024
+MT,Malta,fra,French,L4_speakers,41,2024
 NL,Netherlands,fra,French,L1_speakers,1,2024
 NL,Netherlands,fra,French,L2_speakers,16,2024
 NL,Netherlands,fra,French,L3_speakers,96,2024
-NL,Netherlands,fra,French,L4_speakers,96,2024
+NL,Netherlands,fra,French,L4_speakers,172,2024
 AT,Austria,fra,French,L1_speakers,6,2024
 AT,Austria,fra,French,L2_speakers,8,2024
 AT,Austria,fra,French,L3_speakers,77,2024
-AT,Austria,fra,French,L4_speakers,77,2024
+AT,Austria,fra,French,L4_speakers,11,2024
 PL,Poland,fra,French,L2_speakers,2,2024
 PL,Poland,fra,French,L3_speakers,3,2024
 PL,Poland,fra,French,L4_speakers,3,2024
 PT,Portugal,fra,French,L1_speakers,4,2024
 PT,Portugal,fra,French,L2_speakers,38,2024
 PT,Portugal,fra,French,L3_speakers,75,2024
-PT,Portugal,fra,French,L4_speakers,75,2024
+PT,Portugal,fra,French,L4_speakers,15,2024
 RO,Romania,fra,French,L2_speakers,25,2024
 RO,Romania,fra,French,L3_speakers,36,2024
-RO,Romania,fra,French,L4_speakers,36,2024
+RO,Romania,fra,French,L4_speakers,8,2024
 SI,Slovenia,fra,French,L2_speakers,4,2024
 SI,Slovenia,fra,French,L3_speakers,9,2024
 SI,Slovenia,fra,French,L4_speakers,9,2024
 SK,Slovakia,fra,French,L3_speakers,16,2024
-SK,Slovakia,fra,French,L4_speakers,16,2024
+SK,Slovakia,fra,French,L4_speakers,8,2024
 FI,Finland,fra,French,L2_speakers,4,2024
 FI,Finland,fra,French,L3_speakers,16,2024
-FI,Finland,fra,French,L4_speakers,16,2024
+FI,Finland,fra,French,L4_speakers,20,2024
 SE,Sweden,fra,French,L2_speakers,7,2024
 SE,Sweden,fra,French,L3_speakers,73,2024
-SE,Sweden,fra,French,L4_speakers,73,2024
-CZ,Czech Republic,fry,Frisian,L1_speakers,1,2024
+SE,Sweden,fra,French,L4_speakers,48,2024
+CZ,Czechia,fry,Frisian,L1_speakers,1,2024
 DE,Germany,fry,Frisian,L1_speakers,1,2024
 DE,Germany,fry,Frisian,L3_speakers,1,2024
 DE,Germany,fry,Frisian,L4_speakers,1,2024
+EE,Estonia,fry,Frisian,L4_speakers,1,2024
 HR,Croatia,fry,Frisian,L2_speakers,2,2024
 IT,Italy,fry,Frisian,L1_speakers,1,2024
 NL,Netherlands,fry,Frisian,L1_speakers,14,2024
@@ -2043,398 +2029,406 @@ NL,Netherlands,fry,Frisian,L3_speakers,10,2024
 NL,Netherlands,fry,Frisian,L4_speakers,10,2024
 BE,Belgium,fur,Friulian,L2_speakers,2,2024
 HR,Croatia,fur,Friulian,L2_speakers,2,2024
+HR,Croatia,fur,Friulian,L4_speakers,1,2024
 IT,Italy,fur,Friulian,L1_speakers,1,2024
+LV,Latvia,fur,Friulian,L4_speakers,2,2024
 BE,Belgium,glg,Galician,L3_speakers,1,2024
-BE,Belgium,glg,Galician,L4_speakers,1,2024
 DK,Denmark,glg,Galician,L1_speakers,1,2024
 DE,Germany,glg,Galician,L1_speakers,3,2024
 ES,Spain,glg,Galician,L1_speakers,37,2024
 ES,Spain,glg,Galician,L2_speakers,24,2024
 ES,Spain,glg,Galician,L3_speakers,5,2024
-ES,Spain,glg,Galician,L4_speakers,5,2024
+ES,Spain,glg,Galician,L4_speakers,1,2024
 HR,Croatia,glg,Galician,L3_speakers,3,2024
-HR,Croatia,glg,Galician,L4_speakers,3,2024
 LU,Luxembourg,glg,Galician,L2_speakers,1,2024
 BE,Belgium,ell,Greek,L1_speakers,3,2024
 BE,Belgium,ell,Greek,L2_speakers,1,2024
 BE,Belgium,ell,Greek,L3_speakers,1,2024
-BE,Belgium,ell,Greek,L4_speakers,1,2024
+BE,Belgium,ell,Greek,L4_speakers,2,2024
 BG,Bulgaria,ell,Greek,L2_speakers,9,2024
 BG,Bulgaria,ell,Greek,L3_speakers,5,2024
-BG,Bulgaria,ell,Greek,L4_speakers,5,2024
-CZ,Czech Republic,ell,Greek,L3_speakers,3,2024
-CZ,Czech Republic,ell,Greek,L4_speakers,3,2024
+BG,Bulgaria,ell,Greek,L4_speakers,2,2024
+CZ,Czechia,ell,Greek,L3_speakers,3,2024
+CZ,Czechia,ell,Greek,L4_speakers,2,2024
 DK,Denmark,ell,Greek,L1_speakers,1,2024
 DK,Denmark,ell,Greek,L3_speakers,1,2024
-DK,Denmark,ell,Greek,L4_speakers,1,2024
+DK,Denmark,ell,Greek,L4_speakers,3,2024
 DE,Germany,ell,Greek,L1_speakers,1,2024
 DE,Germany,ell,Greek,L3_speakers,1,2024
-DE,Germany,ell,Greek,L4_speakers,1,2024
-EL,Greece,ell,Greek,L1_speakers,951,2024
-EL,Greece,ell,Greek,L2_speakers,40,2024
-EL,Greece,ell,Greek,L3_speakers,6,2024
-EL,Greece,ell,Greek,L4_speakers,6,2024
+DE,Germany,ell,Greek,L4_speakers,5,2024
+EE,Estonia,ell,Greek,L4_speakers,1,2024
+IE,Ireland,ell,Greek,L4_speakers,1,2024
+GR,Greece,ell,Greek,L1_speakers,951,2024
+GR,Greece,ell,Greek,L2_speakers,40,2024
+GR,Greece,ell,Greek,L3_speakers,6,2024
+GR,Greece,ell,Greek,L4_speakers,1,2024
 ES,Spain,ell,Greek,L1_speakers,1,2024
 HR,Croatia,ell,Greek,L1_speakers,1,2024
 HR,Croatia,ell,Greek,L2_speakers,1,2024
+HR,Croatia,ell,Greek,L4_speakers,1,2024
 IT,Italy,ell,Greek,L1_speakers,1,2024
 IT,Italy,ell,Greek,L3_speakers,1,2024
-IT,Italy,ell,Greek,L4_speakers,1,2024
+IT,Italy,ell,Greek,L4_speakers,3,2024
 CY,Cyprus,ell,Greek,L1_speakers,451,2024
 CY,Cyprus,ell,Greek,L2_speakers,19,2024
 CY,Cyprus,ell,Greek,L3_speakers,6,2024
-CY,Cyprus,ell,Greek,L4_speakers,6,2024
 LV,Latvia,ell,Greek,L3_speakers,2,2024
-LV,Latvia,ell,Greek,L4_speakers,2,2024
 LU,Luxembourg,ell,Greek,L1_speakers,3,2024
 LU,Luxembourg,ell,Greek,L3_speakers,3,2024
-LU,Luxembourg,ell,Greek,L4_speakers,3,2024
 MT,Malta,ell,Greek,L1_speakers,2,2024
+MT,Malta,ell,Greek,L4_speakers,2,2024
 NL,Netherlands,ell,Greek,L3_speakers,1,2024
 NL,Netherlands,ell,Greek,L4_speakers,1,2024
 AT,Austria,ell,Greek,L1_speakers,1,2024
 AT,Austria,ell,Greek,L2_speakers,1,2024
 AT,Austria,ell,Greek,L3_speakers,1,2024
-AT,Austria,ell,Greek,L4_speakers,1,2024
+AT,Austria,ell,Greek,L4_speakers,3,2024
 PL,Poland,ell,Greek,L3_speakers,1,2024
-PL,Poland,ell,Greek,L4_speakers,1,2024
 PT,Portugal,ell,Greek,L3_speakers,1,2024
-PT,Portugal,ell,Greek,L4_speakers,1,2024
 RO,Romania,ell,Greek,L3_speakers,1,2024
 RO,Romania,ell,Greek,L4_speakers,1,2024
 SI,Slovenia,ell,Greek,L3_speakers,1,2024
 SI,Slovenia,ell,Greek,L4_speakers,1,2024
 FI,Finland,ell,Greek,L3_speakers,1,2024
-FI,Finland,ell,Greek,L4_speakers,1,2024
 SE,Sweden,ell,Greek,L3_speakers,2,2024
-SE,Sweden,ell,Greek,L4_speakers,2,2024
+SE,Sweden,ell,Greek,L4_speakers,1,2024
 BE,Belgium,deu,German,L1_speakers,4,2024
 BE,Belgium,deu,German,L2_speakers,23,2024
 BE,Belgium,deu,German,L3_speakers,41,2024
-BE,Belgium,deu,German,L4_speakers,41,2024
+BE,Belgium,deu,German,L4_speakers,113,2024
 BG,Bulgaria,deu,German,L2_speakers,28,2024
 BG,Bulgaria,deu,German,L3_speakers,25,2024
-BG,Bulgaria,deu,German,L4_speakers,25,2024
-CZ,Czech Republic,deu,German,L1_speakers,5,2024
-CZ,Czech Republic,deu,German,L2_speakers,97,2024
-CZ,Czech Republic,deu,German,L3_speakers,70,2024
-CZ,Czech Republic,deu,German,L4_speakers,70,2024
+BG,Bulgaria,deu,German,L4_speakers,3,2024
+CZ,Czechia,deu,German,L1_speakers,5,2024
+CZ,Czechia,deu,German,L2_speakers,97,2024
+CZ,Czechia,deu,German,L3_speakers,70,2024
+CZ,Czechia,deu,German,L4_speakers,27,2024
 DK,Denmark,deu,German,L1_speakers,7,2024
 DK,Denmark,deu,German,L2_speakers,80,2024
 DK,Denmark,deu,German,L3_speakers,342,2024
-DK,Denmark,deu,German,L4_speakers,342,2024
+DK,Denmark,deu,German,L4_speakers,70,2024
 DE,Germany,deu,German,L1_speakers,1340,2024
 DE,Germany,deu,German,L2_speakers,142,2024
 DE,Germany,deu,German,L3_speakers,19,2024
-DE,Germany,deu,German,L4_speakers,19,2024
+DE,Germany,deu,German,L4_speakers,3,2024
 EE,Estonia,deu,German,L2_speakers,15,2024
 EE,Estonia,deu,German,L3_speakers,62,2024
-EE,Estonia,deu,German,L4_speakers,62,2024
+EE,Estonia,deu,German,L4_speakers,59,2024
 IE,Ireland,deu,German,L1_speakers,4,2024
 IE,Ireland,deu,German,L2_speakers,26,2024
 IE,Ireland,deu,German,L3_speakers,30,2024
-IE,Ireland,deu,German,L4_speakers,30,2024
-EL,Greece,deu,German,L1_speakers,2,2024
-EL,Greece,deu,German,L2_speakers,19,2024
-EL,Greece,deu,German,L3_speakers,46,2024
-EL,Greece,deu,German,L4_speakers,46,2024
+IE,Ireland,deu,German,L4_speakers,11,2024
+GR,Greece,deu,German,L1_speakers,2,2024
+GR,Greece,deu,German,L2_speakers,19,2024
+GR,Greece,deu,German,L3_speakers,46,2024
+GR,Greece,deu,German,L4_speakers,8,2024
 ES,Spain,deu,German,L1_speakers,2,2024
 ES,Spain,deu,German,L2_speakers,2,2024
 ES,Spain,deu,German,L3_speakers,14,2024
-ES,Spain,deu,German,L4_speakers,14,2024
+ES,Spain,deu,German,L4_speakers,11,2024
 FR,France,deu,German,L1_speakers,3,2024
 FR,France,deu,German,L2_speakers,21,2024
 FR,France,deu,German,L3_speakers,31,2024
-FR,France,deu,German,L4_speakers,31,2024
+FR,France,deu,German,L4_speakers,8,2024
 HR,Croatia,deu,German,L1_speakers,4,2024
 HR,Croatia,deu,German,L2_speakers,53,2024
 HR,Croatia,deu,German,L3_speakers,84,2024
-HR,Croatia,deu,German,L4_speakers,84,2024
+HR,Croatia,deu,German,L4_speakers,15,2024
 IT,Italy,deu,German,L1_speakers,8,2024
 IT,Italy,deu,German,L2_speakers,14,2024
 IT,Italy,deu,German,L3_speakers,14,2024
-IT,Italy,deu,German,L4_speakers,14,2024
+IT,Italy,deu,German,L4_speakers,5,2024
 CY,Cyprus,deu,German,L1_speakers,1,2024
 CY,Cyprus,deu,German,L2_speakers,3,2024
 CY,Cyprus,deu,German,L3_speakers,24,2024
-CY,Cyprus,deu,German,L4_speakers,24,2024
+CY,Cyprus,deu,German,L4_speakers,6,2024
 LV,Latvia,deu,German,L1_speakers,1,2024
 LV,Latvia,deu,German,L2_speakers,9,2024
 LV,Latvia,deu,German,L3_speakers,91,2024
-LV,Latvia,deu,German,L4_speakers,91,2024
+LV,Latvia,deu,German,L4_speakers,76,2024
 LT,Lithuania,deu,German,L2_speakers,26,2024
 LT,Lithuania,deu,German,L3_speakers,67,2024
-LT,Lithuania,deu,German,L4_speakers,67,2024
+LT,Lithuania,deu,German,L4_speakers,29,2024
 LU,Luxembourg,deu,German,L1_speakers,35,2024
 LU,Luxembourg,deu,German,L2_speakers,112,2024
 LU,Luxembourg,deu,German,L3_speakers,116,2024
-LU,Luxembourg,deu,German,L4_speakers,116,2024
+LU,Luxembourg,deu,German,L4_speakers,70,2024
 HU,Hungary,deu,German,L1_speakers,1,2024
 HU,Hungary,deu,German,L2_speakers,74,2024
 HU,Hungary,deu,German,L3_speakers,55,2024
-HU,Hungary,deu,German,L4_speakers,55,2024
+HU,Hungary,deu,German,L4_speakers,5,2024
 MT,Malta,deu,German,L2_speakers,1,2024
 MT,Malta,deu,German,L3_speakers,10,2024
-MT,Malta,deu,German,L4_speakers,10,2024
+MT,Malta,deu,German,L4_speakers,8,2024
 NL,Netherlands,deu,German,L2_speakers,88,2024
 NL,Netherlands,deu,German,L3_speakers,440,2024
-NL,Netherlands,deu,German,L4_speakers,440,2024
+NL,Netherlands,deu,German,L4_speakers,104,2024
 AT,Austria,deu,German,L1_speakers,849,2024
 AT,Austria,deu,German,L2_speakers,64,2024
 AT,Austria,deu,German,L3_speakers,9,2024
-AT,Austria,deu,German,L4_speakers,9,2024
+AT,Austria,deu,German,L4_speakers,1,2024
 PL,Poland,deu,German,L1_speakers,1,2024
 PL,Poland,deu,German,L2_speakers,28,2024
 PL,Poland,deu,German,L3_speakers,23,2024
-PL,Poland,deu,German,L4_speakers,23,2024
+PL,Poland,deu,German,L4_speakers,3,2024
 PT,Portugal,deu,German,L1_speakers,1,2024
 PT,Portugal,deu,German,L2_speakers,4,2024
 PT,Portugal,deu,German,L3_speakers,5,2024
-PT,Portugal,deu,German,L4_speakers,5,2024
+PT,Portugal,deu,German,L4_speakers,3,2024
 RO,Romania,deu,German,L2_speakers,11,2024
 RO,Romania,deu,German,L3_speakers,12,2024
-RO,Romania,deu,German,L4_speakers,12,2024
+RO,Romania,deu,German,L4_speakers,3,2024
 SI,Slovenia,deu,German,L1_speakers,5,2024
 SI,Slovenia,deu,German,L2_speakers,106,2024
 SI,Slovenia,deu,German,L3_speakers,149,2024
-SI,Slovenia,deu,German,L4_speakers,149,2024
+SI,Slovenia,deu,German,L4_speakers,72,2024
 SK,Slovakia,deu,German,L1_speakers,10,2024
 SK,Slovakia,deu,German,L2_speakers,83,2024
 SK,Slovakia,deu,German,L3_speakers,81,2024
-SK,Slovakia,deu,German,L4_speakers,81,2024
+SK,Slovakia,deu,German,L4_speakers,32,2024
 FI,Finland,deu,German,L1_speakers,4,2024
 FI,Finland,deu,German,L2_speakers,7,2024
 FI,Finland,deu,German,L3_speakers,68,2024
-FI,Finland,deu,German,L4_speakers,68,2024
+FI,Finland,deu,German,L4_speakers,109,2024
 SE,Sweden,deu,German,L1_speakers,7,2024
 SE,Sweden,deu,German,L2_speakers,36,2024
 SE,Sweden,deu,German,L3_speakers,167,2024
-SE,Sweden,deu,German,L4_speakers,167,2024
+SE,Sweden,deu,German,L4_speakers,62,2024
 BE,Belgium,hun,Hungarian,L1_speakers,1,2024
-CZ,Czech Republic,hun,Hungarian,L2_speakers,3,2024
-CZ,Czech Republic,hun,Hungarian,L3_speakers,3,2024
-CZ,Czech Republic,hun,Hungarian,L4_speakers,3,2024
+CZ,Czechia,hun,Hungarian,L2_speakers,3,2024
+CZ,Czechia,hun,Hungarian,L3_speakers,3,2024
+CZ,Czechia,hun,Hungarian,L4_speakers,4,2024
 DK,Denmark,hun,Hungarian,L2_speakers,1,2024
 DK,Denmark,hun,Hungarian,L3_speakers,2,2024
-DK,Denmark,hun,Hungarian,L4_speakers,2,2024
 DE,Germany,hun,Hungarian,L1_speakers,1,2024
+DE,Germany,hun,Hungarian,L4_speakers,2,2024
 EE,Estonia,hun,Hungarian,L1_speakers,1,2024
+EE,Estonia,hun,Hungarian,L4_speakers,1,2024
 IE,Ireland,hun,Hungarian,L1_speakers,5,2024
 ES,Spain,hun,Hungarian,L2_speakers,1,2024
+ES,Spain,hun,Hungarian,L4_speakers,1,2024
 FR,France,hun,Hungarian,L3_speakers,1,2024
 FR,France,hun,Hungarian,L4_speakers,1,2024
+HR,Croatia,hun,Hungarian,L4_speakers,1,2024
+IT,Italy,hun,Hungarian,L4_speakers,2,2024
 HU,Hungary,hun,Hungarian,L1_speakers,991,2024
 HU,Hungary,hun,Hungarian,L2_speakers,4,2024
 HU,Hungary,hun,Hungarian,L3_speakers,3,2024
-HU,Hungary,hun,Hungarian,L4_speakers,3,2024
 MT,Malta,hun,Hungarian,L1_speakers,1,2024
 AT,Austria,hun,Hungarian,L1_speakers,6,2024
 AT,Austria,hun,Hungarian,L2_speakers,5,2024
 AT,Austria,hun,Hungarian,L3_speakers,1,2024
-AT,Austria,hun,Hungarian,L4_speakers,1,2024
 RO,Romania,hun,Hungarian,L1_speakers,63,2024
 RO,Romania,hun,Hungarian,L2_speakers,13,2024
 SI,Slovenia,hun,Hungarian,L1_speakers,1,2024
 SI,Slovenia,hun,Hungarian,L3_speakers,3,2024
-SI,Slovenia,hun,Hungarian,L4_speakers,3,2024
+SI,Slovenia,hun,Hungarian,L4_speakers,2,2024
 SK,Slovakia,hun,Hungarian,L1_speakers,82,2024
 SK,Slovakia,hun,Hungarian,L2_speakers,76,2024
 SK,Slovakia,hun,Hungarian,L3_speakers,15,2024
-SK,Slovakia,hun,Hungarian,L4_speakers,15,2024
+SK,Slovakia,hun,Hungarian,L4_speakers,4,2024
 FI,Finland,hun,Hungarian,L2_speakers,1,2024
 FI,Finland,hun,Hungarian,L3_speakers,1,2024
-FI,Finland,hun,Hungarian,L4_speakers,1,2024
 SE,Sweden,hun,Hungarian,L1_speakers,2,2024
-CZ,Czech Republic,gle,Irish Gaelic,L3_speakers,1,2024
-CZ,Czech Republic,gle,Irish Gaelic,L4_speakers,1,2024
-EE,Estonia,gle,Irish Gaelic,L1_speakers,1,2024
-EE,Estonia,gle,Irish Gaelic,L2_speakers,1,2024
-IE,Ireland,gle,Irish Gaelic,L1_speakers,40,2024
-IE,Ireland,gle,Irish Gaelic,L2_speakers,122,2024
-IE,Ireland,gle,Irish Gaelic,L3_speakers,43,2024
-IE,Ireland,gle,Irish Gaelic,L4_speakers,43,2024
-LU,Luxembourg,gle,Irish Gaelic,L1_speakers,1,2024
-LU,Luxembourg,gle,Irish Gaelic,L3_speakers,1,2024
-LU,Luxembourg,gle,Irish Gaelic,L4_speakers,1,2024
-MT,Malta,gle,Irish Gaelic,L3_speakers,1,2024
-MT,Malta,gle,Irish Gaelic,L4_speakers,1,2024
+CZ,Czechia,gle,Irish/Gaelic,L3_speakers,1,2024
+EE,Estonia,gle,Irish/Gaelic,L1_speakers,1,2024
+EE,Estonia,gle,Irish/Gaelic,L2_speakers,1,2024
+IE,Ireland,gle,Irish/Gaelic,L1_speakers,40,2024
+IE,Ireland,gle,Irish/Gaelic,L2_speakers,122,2024
+IE,Ireland,gle,Irish/Gaelic,L3_speakers,43,2024
+IE,Ireland,gle,Irish/Gaelic,L4_speakers,1,2024
+IT,Italy,gle,Irish/Gaelic,L4_speakers,1,2024
+LU,Luxembourg,gle,Irish/Gaelic,L1_speakers,1,2024
+LU,Luxembourg,gle,Irish/Gaelic,L3_speakers,1,2024
+MT,Malta,gle,Irish/Gaelic,L3_speakers,1,2024
+NL,Netherlands,gle,Irish/Gaelic,L4_speakers,1,2024
 BE,Belgium,ita,Italian,L1_speakers,13,2024
 BE,Belgium,ita,Italian,L2_speakers,21,2024
 BE,Belgium,ita,Italian,L3_speakers,19,2024
-BE,Belgium,ita,Italian,L4_speakers,19,2024
+BE,Belgium,ita,Italian,L4_speakers,14,2024
 BG,Bulgaria,ita,Italian,L2_speakers,3,2024
 BG,Bulgaria,ita,Italian,L3_speakers,7,2024
-BG,Bulgaria,ita,Italian,L4_speakers,7,2024
-CZ,Czech Republic,ita,Italian,L1_speakers,1,2024
-CZ,Czech Republic,ita,Italian,L2_speakers,7,2024
-CZ,Czech Republic,ita,Italian,L3_speakers,3,2024
-CZ,Czech Republic,ita,Italian,L4_speakers,3,2024
+BG,Bulgaria,ita,Italian,L4_speakers,1,2024
+CZ,Czechia,ita,Italian,L1_speakers,1,2024
+CZ,Czechia,ita,Italian,L2_speakers,7,2024
+CZ,Czechia,ita,Italian,L3_speakers,3,2024
+CZ,Czechia,ita,Italian,L4_speakers,6,2024
 DK,Denmark,ita,Italian,L1_speakers,1,2024
 DK,Denmark,ita,Italian,L3_speakers,4,2024
-DK,Denmark,ita,Italian,L4_speakers,4,2024
+DK,Denmark,ita,Italian,L4_speakers,10,2024
 DE,Germany,ita,Italian,L1_speakers,11,2024
 DE,Germany,ita,Italian,L2_speakers,8,2024
 DE,Germany,ita,Italian,L3_speakers,20,2024
-DE,Germany,ita,Italian,L4_speakers,20,2024
+DE,Germany,ita,Italian,L4_speakers,28,2024
 EE,Estonia,ita,Italian,L2_speakers,4,2024
 EE,Estonia,ita,Italian,L3_speakers,4,2024
-EE,Estonia,ita,Italian,L4_speakers,4,2024
+EE,Estonia,ita,Italian,L4_speakers,5,2024
 IE,Ireland,ita,Italian,L1_speakers,2,2024
 IE,Ireland,ita,Italian,L2_speakers,7,2024
 IE,Ireland,ita,Italian,L3_speakers,3,2024
 IE,Ireland,ita,Italian,L4_speakers,3,2024
-EL,Greece,ita,Italian,L1_speakers,1,2024
-EL,Greece,ita,Italian,L2_speakers,4,2024
-EL,Greece,ita,Italian,L3_speakers,16,2024
-EL,Greece,ita,Italian,L4_speakers,16,2024
+GR,Greece,ita,Italian,L1_speakers,1,2024
+GR,Greece,ita,Italian,L2_speakers,4,2024
+GR,Greece,ita,Italian,L3_speakers,16,2024
+GR,Greece,ita,Italian,L4_speakers,9,2024
 ES,Spain,ita,Italian,L1_speakers,3,2024
 ES,Spain,ita,Italian,L2_speakers,7,2024
 ES,Spain,ita,Italian,L3_speakers,17,2024
-ES,Spain,ita,Italian,L4_speakers,17,2024
+ES,Spain,ita,Italian,L4_speakers,16,2024
 FR,France,ita,Italian,L1_speakers,3,2024
 FR,France,ita,Italian,L2_speakers,18,2024
 FR,France,ita,Italian,L3_speakers,18,2024
-FR,France,ita,Italian,L4_speakers,18,2024
+FR,France,ita,Italian,L4_speakers,14,2024
 HR,Croatia,ita,Italian,L1_speakers,2,2024
 HR,Croatia,ita,Italian,L2_speakers,23,2024
 HR,Croatia,ita,Italian,L3_speakers,40,2024
-HR,Croatia,ita,Italian,L4_speakers,40,2024
+HR,Croatia,ita,Italian,L4_speakers,16,2024
 IT,Italy,ita,Italian,L1_speakers,964,2024
 IT,Italy,ita,Italian,L2_speakers,25,2024
 IT,Italy,ita,Italian,L3_speakers,4,2024
-IT,Italy,ita,Italian,L4_speakers,4,2024
 CY,Cyprus,ita,Italian,L3_speakers,9,2024
-CY,Cyprus,ita,Italian,L4_speakers,9,2024
+CY,Cyprus,ita,Italian,L4_speakers,4,2024
 LV,Latvia,ita,Italian,L2_speakers,2,2024
 LV,Latvia,ita,Italian,L3_speakers,2,2024
-LV,Latvia,ita,Italian,L4_speakers,2,2024
+LV,Latvia,ita,Italian,L4_speakers,3,2024
 LT,Lithuania,ita,Italian,L3_speakers,5,2024
-LT,Lithuania,ita,Italian,L4_speakers,5,2024
+LT,Lithuania,ita,Italian,L4_speakers,4,2024
 LU,Luxembourg,ita,Italian,L1_speakers,16,2024
 LU,Luxembourg,ita,Italian,L2_speakers,10,2024
 LU,Luxembourg,ita,Italian,L3_speakers,10,2024
-LU,Luxembourg,ita,Italian,L4_speakers,10,2024
+LU,Luxembourg,ita,Italian,L4_speakers,16,2024
 HU,Hungary,ita,Italian,L2_speakers,5,2024
 HU,Hungary,ita,Italian,L3_speakers,6,2024
 HU,Hungary,ita,Italian,L4_speakers,6,2024
 MT,Malta,ita,Italian,L1_speakers,2,2024
 MT,Malta,ita,Italian,L2_speakers,25,2024
 MT,Malta,ita,Italian,L3_speakers,224,2024
-MT,Malta,ita,Italian,L4_speakers,224,2024
+MT,Malta,ita,Italian,L4_speakers,13,2024
 NL,Netherlands,ita,Italian,L2_speakers,1,2024
 NL,Netherlands,ita,Italian,L3_speakers,3,2024
-NL,Netherlands,ita,Italian,L4_speakers,3,2024
+NL,Netherlands,ita,Italian,L4_speakers,9,2024
 AT,Austria,ita,Italian,L1_speakers,5,2024
 AT,Austria,ita,Italian,L2_speakers,21,2024
 AT,Austria,ita,Italian,L3_speakers,39,2024
-AT,Austria,ita,Italian,L4_speakers,39,2024
+AT,Austria,ita,Italian,L4_speakers,16,2024
 PL,Poland,ita,Italian,L2_speakers,6,2024
 PL,Poland,ita,Italian,L3_speakers,1,2024
-PL,Poland,ita,Italian,L4_speakers,1,2024
+PL,Poland,ita,Italian,L4_speakers,2,2024
 PT,Portugal,ita,Italian,L2_speakers,1,2024
 PT,Portugal,ita,Italian,L3_speakers,1,2024
-PT,Portugal,ita,Italian,L4_speakers,1,2024
+PT,Portugal,ita,Italian,L4_speakers,9,2024
 RO,Romania,ita,Italian,L2_speakers,16,2024
 RO,Romania,ita,Italian,L3_speakers,13,2024
-RO,Romania,ita,Italian,L4_speakers,13,2024
+RO,Romania,ita,Italian,L4_speakers,3,2024
 SI,Slovenia,ita,Italian,L2_speakers,48,2024
 SI,Slovenia,ita,Italian,L3_speakers,47,2024
-SI,Slovenia,ita,Italian,L4_speakers,47,2024
+SI,Slovenia,ita,Italian,L4_speakers,35,2024
 SK,Slovakia,ita,Italian,L1_speakers,1,2024
 SK,Slovakia,ita,Italian,L2_speakers,4,2024
 SK,Slovakia,ita,Italian,L3_speakers,14,2024
-SK,Slovakia,ita,Italian,L4_speakers,14,2024
+SK,Slovakia,ita,Italian,L4_speakers,4,2024
 FI,Finland,ita,Italian,L1_speakers,1,2024
 FI,Finland,ita,Italian,L2_speakers,1,2024
 FI,Finland,ita,Italian,L3_speakers,9,2024
-FI,Finland,ita,Italian,L4_speakers,9,2024
+FI,Finland,ita,Italian,L4_speakers,7,2024
 SE,Sweden,ita,Italian,L1_speakers,2,2024
 SE,Sweden,ita,Italian,L2_speakers,8,2024
 SE,Sweden,ita,Italian,L3_speakers,7,2024
-SE,Sweden,ita,Italian,L4_speakers,7,2024
-BE,Belgium,jpn,Japanese,L3_speakers,1,2024
-BE,Belgium,jpn,Japanese,L4_speakers,1,2024
-BG,Bulgaria,jpn,Japanese,L3_speakers,2,2024
-BG,Bulgaria,jpn,Japanese,L4_speakers,2,2024
-DK,Denmark,jpn,Japanese,L3_speakers,3,2024
-DK,Denmark,jpn,Japanese,L4_speakers,3,2024
-DE,Germany,jpn,Japanese,L3_speakers,2,2024
-DE,Germany,jpn,Japanese,L4_speakers,2,2024
-EE,Estonia,jpn,Japanese,L2_speakers,1,2024
-IE,Ireland,jpn,Japanese,L2_speakers,1,2024
-FR,France,jpn,Japanese,L3_speakers,3,2024
-FR,France,jpn,Japanese,L4_speakers,3,2024
-HR,Croatia,jpn,Japanese,L2_speakers,1,2024
-IT,Italy,jpn,Japanese,L2_speakers,1,2024
-IT,Italy,jpn,Japanese,L3_speakers,1,2024
-IT,Italy,jpn,Japanese,L4_speakers,1,2024
-CY,Cyprus,jpn,Japanese,L1_speakers,1,2024
-LV,Latvia,jpn,Japanese,L1_speakers,2,2024
-LV,Latvia,jpn,Japanese,L3_speakers,1,2024
-LV,Latvia,jpn,Japanese,L4_speakers,1,2024
-LT,Lithuania,jpn,Japanese,L2_speakers,2,2024
-HU,Hungary,jpn,Japanese,L2_speakers,1,2024
-HU,Hungary,jpn,Japanese,L3_speakers,1,2024
-HU,Hungary,jpn,Japanese,L4_speakers,1,2024
-NL,Netherlands,jpn,Japanese,L3_speakers,1,2024
-NL,Netherlands,jpn,Japanese,L4_speakers,1,2024
-AT,Austria,jpn,Japanese,L2_speakers,1,2024
-SK,Slovakia,jpn,Japanese,L3_speakers,1,2024
-SK,Slovakia,jpn,Japanese,L4_speakers,1,2024
-FI,Finland,jpn,Japanese,L3_speakers,1,2024
-FI,Finland,jpn,Japanese,L4_speakers,1,2024
-SE,Sweden,jpn,Japanese,L3_speakers,5,2024
-SE,Sweden,jpn,Japanese,L4_speakers,5,2024
+SE,Sweden,ita,Italian,L4_speakers,9,2024
+BE,Belgium,jap,Japanese,L3_speakers,1,2024
+BE,Belgium,jap,Japanese,L4_speakers,5,2024
+BG,Bulgaria,jap,Japanese,L3_speakers,2,2024
+CZ,Czechia,jap,Japanese,L4_speakers,2,2024
+DK,Denmark,jap,Japanese,L3_speakers,3,2024
+DE,Germany,jap,Japanese,L3_speakers,2,2024
+DE,Germany,jap,Japanese,L4_speakers,2,2024
+EE,Estonia,jap,Japanese,L2_speakers,1,2024
+EE,Estonia,jap,Japanese,L4_speakers,3,2024
+IE,Ireland,jap,Japanese,L2_speakers,1,2024
+IE,Ireland,jap,Japanese,L4_speakers,2,2024
+ES,Spain,jap,Japanese,L4_speakers,2,2024
+FR,France,jap,Japanese,L3_speakers,3,2024
+HR,Croatia,jap,Japanese,L2_speakers,1,2024
+HR,Croatia,jap,Japanese,L4_speakers,2,2024
+IT,Italy,jap,Japanese,L2_speakers,1,2024
+IT,Italy,jap,Japanese,L3_speakers,1,2024
+CY,Cyprus,jap,Japanese,L1_speakers,1,2024
+LV,Latvia,jap,Japanese,L1_speakers,2,2024
+LV,Latvia,jap,Japanese,L3_speakers,1,2024
+LV,Latvia,jap,Japanese,L4_speakers,1,2024
+LT,Lithuania,jap,Japanese,L2_speakers,2,2024
+LT,Lithuania,jap,Japanese,L4_speakers,1,2024
+LU,Luxembourg,jap,Japanese,L4_speakers,1,2024
+HU,Hungary,jap,Japanese,L2_speakers,1,2024
+HU,Hungary,jap,Japanese,L3_speakers,1,2024
+NL,Netherlands,jap,Japanese,L3_speakers,1,2024
+NL,Netherlands,jap,Japanese,L4_speakers,1,2024
+AT,Austria,jap,Japanese,L2_speakers,1,2024
+AT,Austria,jap,Japanese,L4_speakers,1,2024
+RO,Romania,jap,Japanese,L4_speakers,1,2024
+SK,Slovakia,jap,Japanese,L3_speakers,1,2024
+FI,Finland,jap,Japanese,L3_speakers,1,2024
+FI,Finland,jap,Japanese,L4_speakers,9,2024
+SE,Sweden,jap,Japanese,L3_speakers,5,2024
+SE,Sweden,jap,Japanese,L4_speakers,2,2024
 BE,Belgium,kur,Kurdish,L1_speakers,2,2024
 DE,Germany,kur,Kurdish,L1_speakers,4,2024
 DE,Germany,kur,Kurdish,L3_speakers,1,2024
 DE,Germany,kur,Kurdish,L4_speakers,1,2024
 IT,Italy,kur,Kurdish,L3_speakers,3,2024
-IT,Italy,kur,Kurdish,L4_speakers,3,2024
 NL,Netherlands,kur,Kurdish,L1_speakers,2,2024
 AT,Austria,kur,Kurdish,L2_speakers,1,2024
 SE,Sweden,kur,Kurdish,L1_speakers,3,2024
+SE,Sweden,kur,Kurdish,L4_speakers,1,2024
+BE,Belgium,lav,Latvian,L4_speakers,1,2024
 DE,Germany,lav,Latvian,L2_speakers,1,2024
 EE,Estonia,lav,Latvian,L1_speakers,1,2024
 EE,Estonia,lav,Latvian,L2_speakers,1,2024
 EE,Estonia,lav,Latvian,L3_speakers,3,2024
-EE,Estonia,lav,Latvian,L4_speakers,3,2024
+EE,Estonia,lav,Latvian,L4_speakers,2,2024
 IE,Ireland,lav,Latvian,L1_speakers,1,2024
 IE,Ireland,lav,Latvian,L2_speakers,3,2024
 IT,Italy,lav,Latvian,L3_speakers,1,2024
-IT,Italy,lav,Latvian,L4_speakers,1,2024
 LV,Latvia,lav,Latvian,L1_speakers,704,2024
 LV,Latvia,lav,Latvian,L2_speakers,180,2024
 LV,Latvia,lav,Latvian,L3_speakers,37,2024
-LV,Latvia,lav,Latvian,L4_speakers,37,2024
+LV,Latvia,lav,Latvian,L4_speakers,10,2024
 LT,Lithuania,lav,Latvian,L1_speakers,1,2024
 LT,Lithuania,lav,Latvian,L2_speakers,3,2024
 LT,Lithuania,lav,Latvian,L3_speakers,5,2024
-LT,Lithuania,lav,Latvian,L4_speakers,5,2024
+LT,Lithuania,lav,Latvian,L4_speakers,3,2024
+NL,Netherlands,lav,Latvian,L4_speakers,1,2024
 EE,Estonia,lit,Lithuanian,L2_speakers,2,2024
 IE,Ireland,lit,Lithuanian,L1_speakers,13,2024
 IE,Ireland,lit,Lithuanian,L2_speakers,1,2024
+IE,Ireland,lit,Lithuanian,L4_speakers,2,2024
+HR,Croatia,lit,Lithuanian,L4_speakers,1,2024
 LV,Latvia,lit,Lithuanian,L1_speakers,8,2024
 LV,Latvia,lit,Lithuanian,L2_speakers,7,2024
 LV,Latvia,lit,Lithuanian,L3_speakers,11,2024
-LV,Latvia,lit,Lithuanian,L4_speakers,11,2024
+LV,Latvia,lit,Lithuanian,L4_speakers,15,2024
 LT,Lithuania,lit,Lithuanian,L1_speakers,929,2024
 LT,Lithuania,lit,Lithuanian,L2_speakers,46,2024
 LT,Lithuania,lit,Lithuanian,L3_speakers,6,2024
-LT,Lithuania,lit,Lithuanian,L4_speakers,6,2024
+LT,Lithuania,lit,Lithuanian,L4_speakers,2,2024
 LU,Luxembourg,lit,Lithuanian,L1_speakers,2,2024
 AT,Austria,lit,Lithuanian,L1_speakers,1,2024
+AT,Austria,lit,Lithuanian,L4_speakers,1,2024
 PL,Poland,lit,Lithuanian,L2_speakers,2,2024
+FI,Finland,lit,Lithuanian,L4_speakers,1,2024
 BE,Belgium,nds,Low German,L1_speakers,10,2024
 BE,Belgium,nds,Low German,L2_speakers,1,2024
 BE,Belgium,nds,Low German,L3_speakers,2,2024
 BE,Belgium,nds,Low German,L4_speakers,2,2024
-CZ,Czech Republic,nds,Low German,L3_speakers,1,2024
-CZ,Czech Republic,nds,Low German,L4_speakers,1,2024
+CZ,Czechia,nds,Low German,L3_speakers,1,2024
 DE,Germany,nds,Low German,L2_speakers,4,2024
 DE,Germany,nds,Low German,L3_speakers,1,2024
 DE,Germany,nds,Low German,L4_speakers,1,2024
-EL,Greece,nds,Low German,L2_speakers,1,2024
+IE,Ireland,nds,Low German,L4_speakers,2,2024
+GR,Greece,nds,Low German,L2_speakers,1,2024
+GR,Greece,nds,Low German,L4_speakers,1,2024
+ES,Spain,nds,Low German,L4_speakers,1,2024
+FR,France,nds,Low German,L4_speakers,1,2024
 HR,Croatia,nds,Low German,L2_speakers,2,2024
 HR,Croatia,nds,Low German,L3_speakers,1,2024
 HR,Croatia,nds,Low German,L4_speakers,1,2024
@@ -2442,130 +2436,137 @@ IT,Italy,nds,Low German,L1_speakers,1,2024
 IT,Italy,nds,Low German,L2_speakers,1,2024
 CY,Cyprus,nds,Low German,L2_speakers,1,2024
 LT,Lithuania,nds,Low German,L3_speakers,1,2024
-LT,Lithuania,nds,Low German,L4_speakers,1,2024
+LT,Lithuania,nds,Low German,L4_speakers,5,2024
+LU,Luxembourg,nds,Low German,L4_speakers,1,2024
 HU,Hungary,nds,Low German,L2_speakers,5,2024
 HU,Hungary,nds,Low German,L3_speakers,2,2024
-HU,Hungary,nds,Low German,L4_speakers,2,2024
+MT,Malta,nds,Low German,L4_speakers,4,2024
 NL,Netherlands,nds,Low German,L1_speakers,8,2024
 NL,Netherlands,nds,Low German,L2_speakers,1,2024
 NL,Netherlands,nds,Low German,L3_speakers,2,2024
-NL,Netherlands,nds,Low German,L4_speakers,2,2024
+NL,Netherlands,nds,Low German,L4_speakers,3,2024
 AT,Austria,nds,Low German,L2_speakers,1,2024
 SI,Slovenia,nds,Low German,L2_speakers,2,2024
+SI,Slovenia,nds,Low German,L4_speakers,1,2024
 SK,Slovakia,nds,Low German,L2_speakers,1,2024
 SE,Sweden,nds,Low German,L3_speakers,3,2024
-SE,Sweden,nds,Low German,L4_speakers,3,2024
+SE,Sweden,nds,Low German,L4_speakers,2,2024
 BE,Belgium,ltz,Luxembourgish,L1_speakers,1,2024
 BE,Belgium,ltz,Luxembourgish,L2_speakers,1,2024
 DE,Germany,ltz,Luxembourgish,L2_speakers,1,2024
+DE,Germany,ltz,Luxembourgish,L4_speakers,1,2024
 EE,Estonia,ltz,Luxembourgish,L2_speakers,1,2024
 IT,Italy,ltz,Luxembourgish,L1_speakers,1,2024
 LU,Luxembourg,ltz,Luxembourgish,L1_speakers,191,2024
 LU,Luxembourg,ltz,Luxembourgish,L2_speakers,46,2024
 LU,Luxembourg,ltz,Luxembourgish,L3_speakers,52,2024
-LU,Luxembourg,ltz,Luxembourgish,L4_speakers,52,2024
+LU,Luxembourg,ltz,Luxembourgish,L4_speakers,44,2024
 NL,Netherlands,ltz,Luxembourgish,L3_speakers,2,2024
 NL,Netherlands,ltz,Luxembourgish,L4_speakers,2,2024
+SI,Slovenia,ltz,Luxembourgish,L4_speakers,1,2024
 DE,Germany,mlt,Maltese,L1_speakers,2,2024
 EE,Estonia,mlt,Maltese,L2_speakers,1,2024
 IT,Italy,mlt,Maltese,L1_speakers,1,2024
 LV,Latvia,mlt,Maltese,L1_speakers,1,2024
 LU,Luxembourg,mlt,Maltese,L1_speakers,1,2024
 HU,Hungary,mlt,Maltese,L3_speakers,1,2024
-HU,Hungary,mlt,Maltese,L4_speakers,1,2024
 MT,Malta,mlt,Maltese,L1_speakers,466,2024
 MT,Malta,mlt,Maltese,L2_speakers,14,2024
 MT,Malta,mlt,Maltese,L3_speakers,2,2024
-MT,Malta,mlt,Maltese,L4_speakers,2,2024
+MT,Malta,mlt,Maltese,L4_speakers,3,2024
+NL,Netherlands,mlt,Maltese,L4_speakers,2,2024
 EE,Estonia,oci,Occitan,L3_speakers,1,2024
-EE,Estonia,oci,Occitan,L4_speakers,1,2024
 ES,Spain,oci,Occitan,L2_speakers,1,2024
+FR,France,oci,Occitan,L4_speakers,1,2024
 BE,Belgium,pol,Polish,L1_speakers,5,2024
 BE,Belgium,pol,Polish,L2_speakers,6,2024
+BE,Belgium,pol,Polish,L4_speakers,2,2024
 BG,Bulgaria,pol,Polish,L3_speakers,1,2024
-BG,Bulgaria,pol,Polish,L4_speakers,1,2024
-CZ,Czech Republic,pol,Polish,L1_speakers,1,2024
-CZ,Czech Republic,pol,Polish,L2_speakers,10,2024
-CZ,Czech Republic,pol,Polish,L3_speakers,12,2024
-CZ,Czech Republic,pol,Polish,L4_speakers,12,2024
+CZ,Czechia,pol,Polish,L1_speakers,1,2024
+CZ,Czechia,pol,Polish,L2_speakers,10,2024
+CZ,Czechia,pol,Polish,L3_speakers,12,2024
+CZ,Czechia,pol,Polish,L4_speakers,13,2024
 DK,Denmark,pol,Polish,L2_speakers,1,2024
 DE,Germany,pol,Polish,L1_speakers,27,2024
 DE,Germany,pol,Polish,L2_speakers,2,2024
 DE,Germany,pol,Polish,L3_speakers,4,2024
-DE,Germany,pol,Polish,L4_speakers,4,2024
+DE,Germany,pol,Polish,L4_speakers,1,2024
 EE,Estonia,pol,Polish,L2_speakers,2,2024
 EE,Estonia,pol,Polish,L3_speakers,3,2024
 EE,Estonia,pol,Polish,L4_speakers,3,2024
 IE,Ireland,pol,Polish,L1_speakers,27,2024
 IE,Ireland,pol,Polish,L2_speakers,2,2024
 IE,Ireland,pol,Polish,L3_speakers,1,2024
-IE,Ireland,pol,Polish,L4_speakers,1,2024
-EL,Greece,pol,Polish,L1_speakers,2,2024
+GR,Greece,pol,Polish,L1_speakers,2,2024
 ES,Spain,pol,Polish,L1_speakers,1,2024
+ES,Spain,pol,Polish,L4_speakers,1,2024
 FR,France,pol,Polish,L1_speakers,3,2024
 FR,France,pol,Polish,L3_speakers,1,2024
-FR,France,pol,Polish,L4_speakers,1,2024
 IT,Italy,pol,Polish,L1_speakers,2,2024
+IT,Italy,pol,Polish,L4_speakers,1,2024
 CY,Cyprus,pol,Polish,L3_speakers,1,2024
-CY,Cyprus,pol,Polish,L4_speakers,1,2024
 LV,Latvia,pol,Polish,L1_speakers,4,2024
 LV,Latvia,pol,Polish,L2_speakers,4,2024
 LV,Latvia,pol,Polish,L3_speakers,11,2024
-LV,Latvia,pol,Polish,L4_speakers,11,2024
+LV,Latvia,pol,Polish,L4_speakers,9,2024
 LT,Lithuania,pol,Polish,L1_speakers,35,2024
 LT,Lithuania,pol,Polish,L2_speakers,34,2024
 LT,Lithuania,pol,Polish,L3_speakers,57,2024
-LT,Lithuania,pol,Polish,L4_speakers,57,2024
+LT,Lithuania,pol,Polish,L4_speakers,21,2024
 LU,Luxembourg,pol,Polish,L1_speakers,3,2024
 LU,Luxembourg,pol,Polish,L3_speakers,1,2024
 LU,Luxembourg,pol,Polish,L4_speakers,1,2024
 HU,Hungary,pol,Polish,L2_speakers,1,2024
 MT,Malta,pol,Polish,L1_speakers,1,2024
 NL,Netherlands,pol,Polish,L3_speakers,2,2024
-NL,Netherlands,pol,Polish,L4_speakers,2,2024
+NL,Netherlands,pol,Polish,L4_speakers,1,2024
 AT,Austria,pol,Polish,L1_speakers,3,2024
 PL,Poland,pol,Polish,L1_speakers,955,2024
 PL,Poland,pol,Polish,L2_speakers,8,2024
 PT,Portugal,pol,Polish,L1_speakers,1,2024
+SI,Slovenia,pol,Polish,L4_speakers,1,2024
 SK,Slovakia,pol,Polish,L1_speakers,2,2024
 SK,Slovakia,pol,Polish,L2_speakers,3,2024
 SK,Slovakia,pol,Polish,L3_speakers,9,2024
-SK,Slovakia,pol,Polish,L4_speakers,9,2024
+SK,Slovakia,pol,Polish,L4_speakers,5,2024
 FI,Finland,pol,Polish,L1_speakers,1,2024
+FI,Finland,pol,Polish,L4_speakers,3,2024
 SE,Sweden,pol,Polish,L1_speakers,4,2024
 SE,Sweden,pol,Polish,L3_speakers,2,2024
-SE,Sweden,pol,Polish,L4_speakers,2,2024
+SE,Sweden,pol,Polish,L4_speakers,1,2024
 BE,Belgium,por,Portuguese,L1_speakers,5,2024
 BE,Belgium,por,Portuguese,L2_speakers,3,2024
 BE,Belgium,por,Portuguese,L3_speakers,3,2024
 BE,Belgium,por,Portuguese,L4_speakers,3,2024
 BG,Bulgaria,por,Portuguese,L2_speakers,1,2024
-CZ,Czech Republic,por,Portuguese,L3_speakers,1,2024
-CZ,Czech Republic,por,Portuguese,L4_speakers,1,2024
+CZ,Czechia,por,Portuguese,L3_speakers,1,2024
 DK,Denmark,por,Portuguese,L3_speakers,6,2024
-DK,Denmark,por,Portuguese,L4_speakers,6,2024
+DK,Denmark,por,Portuguese,L4_speakers,4,2024
 DE,Germany,por,Portuguese,L2_speakers,1,2024
 DE,Germany,por,Portuguese,L3_speakers,1,2024
-DE,Germany,por,Portuguese,L4_speakers,1,2024
+DE,Germany,por,Portuguese,L4_speakers,2,2024
 EE,Estonia,por,Portuguese,L3_speakers,2,2024
-EE,Estonia,por,Portuguese,L4_speakers,2,2024
 IE,Ireland,por,Portuguese,L1_speakers,7,2024
 IE,Ireland,por,Portuguese,L2_speakers,3,2024
+IE,Ireland,por,Portuguese,L4_speakers,1,2024
 ES,Spain,por,Portuguese,L1_speakers,2,2024
 ES,Spain,por,Portuguese,L2_speakers,7,2024
 ES,Spain,por,Portuguese,L3_speakers,10,2024
-ES,Spain,por,Portuguese,L4_speakers,10,2024
+ES,Spain,por,Portuguese,L4_speakers,11,2024
 FR,France,por,Portuguese,L1_speakers,13,2024
 FR,France,por,Portuguese,L2_speakers,7,2024
 FR,France,por,Portuguese,L3_speakers,3,2024
-FR,France,por,Portuguese,L4_speakers,3,2024
+FR,France,por,Portuguese,L4_speakers,1,2024
+HR,Croatia,por,Portuguese,L4_speakers,1,2024
 IT,Italy,por,Portuguese,L3_speakers,2,2024
-IT,Italy,por,Portuguese,L4_speakers,2,2024
+IT,Italy,por,Portuguese,L4_speakers,1,2024
+LT,Lithuania,por,Portuguese,L4_speakers,2,2024
 LU,Luxembourg,por,Portuguese,L1_speakers,98,2024
 LU,Luxembourg,por,Portuguese,L2_speakers,10,2024
 LU,Luxembourg,por,Portuguese,L3_speakers,2,2024
-LU,Luxembourg,por,Portuguese,L4_speakers,2,2024
+LU,Luxembourg,por,Portuguese,L4_speakers,10,2024
 HU,Hungary,por,Portuguese,L1_speakers,1,2024
+HU,Hungary,por,Portuguese,L4_speakers,1,2024
 MT,Malta,por,Portuguese,L1_speakers,1,2024
 NL,Netherlands,por,Portuguese,L1_speakers,1,2024
 NL,Netherlands,por,Portuguese,L2_speakers,1,2024
@@ -2574,72 +2575,65 @@ NL,Netherlands,por,Portuguese,L4_speakers,3,2024
 AT,Austria,por,Portuguese,L1_speakers,1,2024
 AT,Austria,por,Portuguese,L2_speakers,2,2024
 AT,Austria,por,Portuguese,L3_speakers,4,2024
-AT,Austria,por,Portuguese,L4_speakers,4,2024
 PL,Poland,por,Portuguese,L1_speakers,1,2024
 PT,Portugal,por,Portuguese,L1_speakers,996,2024
 PT,Portugal,por,Portuguese,L2_speakers,9,2024
 PT,Portugal,por,Portuguese,L3_speakers,5,2024
-PT,Portugal,por,Portuguese,L4_speakers,5,2024
+PT,Portugal,por,Portuguese,L4_speakers,1,2024
 RO,Romania,por,Portuguese,L3_speakers,1,2024
-RO,Romania,por,Portuguese,L4_speakers,1,2024
+SI,Slovenia,por,Portuguese,L4_speakers,3,2024
 FI,Finland,por,Portuguese,L2_speakers,1,2024
 SE,Sweden,por,Portuguese,L2_speakers,3,2024
 SE,Sweden,por,Portuguese,L3_speakers,3,2024
-SE,Sweden,por,Portuguese,L4_speakers,3,2024
 BE,Belgium,ron,Romanian,L1_speakers,4,2024
 BE,Belgium,ron,Romanian,L2_speakers,3,2024
 BG,Bulgaria,ron,Romanian,L1_speakers,1,2024
 BG,Bulgaria,ron,Romanian,L2_speakers,1,2024
 BG,Bulgaria,ron,Romanian,L3_speakers,4,2024
-BG,Bulgaria,ron,Romanian,L4_speakers,4,2024
+BG,Bulgaria,ron,Romanian,L4_speakers,2,2024
+CZ,Czechia,ron,Romanian,L4_speakers,1,2024
 DK,Denmark,ron,Romanian,L1_speakers,1,2024
 DK,Denmark,ron,Romanian,L3_speakers,1,2024
-DK,Denmark,ron,Romanian,L4_speakers,1,2024
 DE,Germany,ron,Romanian,L1_speakers,9,2024
 DE,Germany,ron,Romanian,L2_speakers,2,2024
 EE,Estonia,ron,Romanian,L1_speakers,1,2024
+EE,Estonia,ron,Romanian,L4_speakers,1,2024
 IE,Ireland,ron,Romanian,L1_speakers,13,2024
 IE,Ireland,ron,Romanian,L3_speakers,1,2024
-IE,Ireland,ron,Romanian,L4_speakers,1,2024
-EL,Greece,ron,Romanian,L1_speakers,2,2024
-EL,Greece,ron,Romanian,L2_speakers,2,2024
-EL,Greece,ron,Romanian,L3_speakers,2,2024
-EL,Greece,ron,Romanian,L4_speakers,2,2024
+GR,Greece,ron,Romanian,L1_speakers,2,2024
+GR,Greece,ron,Romanian,L2_speakers,2,2024
+GR,Greece,ron,Romanian,L3_speakers,2,2024
 ES,Spain,ron,Romanian,L1_speakers,11,2024
 FR,France,ron,Romanian,L1_speakers,3,2024
 FR,France,ron,Romanian,L3_speakers,1,2024
-FR,France,ron,Romanian,L4_speakers,1,2024
 IT,Italy,ron,Romanian,L1_speakers,7,2024
 CY,Cyprus,ron,Romanian,L1_speakers,6,2024
 CY,Cyprus,ron,Romanian,L3_speakers,3,2024
-CY,Cyprus,ron,Romanian,L4_speakers,3,2024
 LV,Latvia,ron,Romanian,L1_speakers,1,2024
 LU,Luxembourg,ron,Romanian,L1_speakers,6,2024
 HU,Hungary,ron,Romanian,L2_speakers,1,2024
 HU,Hungary,ron,Romanian,L3_speakers,3,2024
-HU,Hungary,ron,Romanian,L4_speakers,3,2024
 MT,Malta,ron,Romanian,L1_speakers,2,2024
+MT,Malta,ron,Romanian,L4_speakers,1,2024
 AT,Austria,ron,Romanian,L1_speakers,1,2024
 AT,Austria,ron,Romanian,L2_speakers,1,2024
 PT,Portugal,ron,Romanian,L1_speakers,1,2024
 RO,Romania,ron,Romanian,L1_speakers,932,2024
 RO,Romania,ron,Romanian,L2_speakers,47,2024
 RO,Romania,ron,Romanian,L3_speakers,3,2024
-RO,Romania,ron,Romanian,L4_speakers,3,2024
 SE,Sweden,ron,Romanian,L2_speakers,2,2024
 BG,Bulgaria,rom,Romany,L1_speakers,44,2024
 BG,Bulgaria,rom,Romany,L2_speakers,5,2024
 BG,Bulgaria,rom,Romany,L3_speakers,4,2024
-BG,Bulgaria,rom,Romany,L4_speakers,4,2024
-CZ,Czech Republic,rom,Romany,L1_speakers,3,2024
-CZ,Czech Republic,rom,Romany,L3_speakers,1,2024
-CZ,Czech Republic,rom,Romany,L4_speakers,1,2024
+CZ,Czechia,rom,Romany,L1_speakers,3,2024
+CZ,Czechia,rom,Romany,L3_speakers,1,2024
 IE,Ireland,rom,Romany,L1_speakers,1,2024
 IE,Ireland,rom,Romany,L2_speakers,1,2024
 ES,Spain,rom,Romany,L1_speakers,1,2024
 HR,Croatia,rom,Romany,L2_speakers,1,2024
 IT,Italy,rom,Romany,L2_speakers,1,2024
 LV,Latvia,rom,Romany,L1_speakers,1,2024
+LV,Latvia,rom,Romany,L4_speakers,2,2024
 HU,Hungary,rom,Romany,L1_speakers,1,2024
 HU,Hungary,rom,Romany,L2_speakers,7,2024
 AT,Austria,rom,Romany,L2_speakers,1,2024
@@ -2649,100 +2643,97 @@ SI,Slovenia,rom,Romany,L1_speakers,1,2024
 SK,Slovakia,rom,Romany,L1_speakers,4,2024
 SK,Slovakia,rom,Romany,L2_speakers,11,2024
 SK,Slovakia,rom,Romany,L3_speakers,8,2024
-SK,Slovakia,rom,Romany,L4_speakers,8,2024
 BE,Belgium,rus,Russian,L1_speakers,9,2024
 BE,Belgium,rus,Russian,L3_speakers,9,2024
-BE,Belgium,rus,Russian,L4_speakers,9,2024
+BE,Belgium,rus,Russian,L4_speakers,3,2024
 BG,Bulgaria,rus,Russian,L1_speakers,3,2024
 BG,Bulgaria,rus,Russian,L2_speakers,105,2024
 BG,Bulgaria,rus,Russian,L3_speakers,22,2024
-BG,Bulgaria,rus,Russian,L4_speakers,22,2024
-CZ,Czech Republic,rus,Russian,L2_speakers,59,2024
-CZ,Czech Republic,rus,Russian,L3_speakers,62,2024
-CZ,Czech Republic,rus,Russian,L4_speakers,62,2024
+BG,Bulgaria,rus,Russian,L4_speakers,15,2024
+CZ,Czechia,rus,Russian,L2_speakers,59,2024
+CZ,Czechia,rus,Russian,L3_speakers,62,2024
+CZ,Czechia,rus,Russian,L4_speakers,23,2024
 DK,Denmark,rus,Russian,L1_speakers,2,2024
 DK,Denmark,rus,Russian,L3_speakers,3,2024
-DK,Denmark,rus,Russian,L4_speakers,3,2024
 DE,Germany,rus,Russian,L1_speakers,14,2024
 DE,Germany,rus,Russian,L2_speakers,16,2024
 DE,Germany,rus,Russian,L3_speakers,24,2024
-DE,Germany,rus,Russian,L4_speakers,24,2024
+DE,Germany,rus,Russian,L4_speakers,10,2024
 EE,Estonia,rus,Russian,L1_speakers,239,2024
 EE,Estonia,rus,Russian,L2_speakers,286,2024
 EE,Estonia,rus,Russian,L3_speakers,165,2024
-EE,Estonia,rus,Russian,L4_speakers,165,2024
+EE,Estonia,rus,Russian,L4_speakers,50,2024
 IE,Ireland,rus,Russian,L1_speakers,3,2024
 IE,Ireland,rus,Russian,L2_speakers,5,2024
 IE,Ireland,rus,Russian,L3_speakers,5,2024
-IE,Ireland,rus,Russian,L4_speakers,5,2024
-EL,Greece,rus,Russian,L1_speakers,4,2024
-EL,Greece,rus,Russian,L2_speakers,8,2024
-EL,Greece,rus,Russian,L3_speakers,7,2024
-EL,Greece,rus,Russian,L4_speakers,7,2024
+GR,Greece,rus,Russian,L1_speakers,4,2024
+GR,Greece,rus,Russian,L2_speakers,8,2024
+GR,Greece,rus,Russian,L3_speakers,7,2024
+GR,Greece,rus,Russian,L4_speakers,2,2024
 ES,Spain,rus,Russian,L2_speakers,1,2024
 ES,Spain,rus,Russian,L3_speakers,1,2024
-ES,Spain,rus,Russian,L4_speakers,1,2024
+ES,Spain,rus,Russian,L4_speakers,2,2024
 FR,France,rus,Russian,L1_speakers,1,2024
 FR,France,rus,Russian,L2_speakers,1,2024
 FR,France,rus,Russian,L3_speakers,1,2024
-FR,France,rus,Russian,L4_speakers,1,2024
+FR,France,rus,Russian,L4_speakers,3,2024
 HR,Croatia,rus,Russian,L1_speakers,1,2024
 HR,Croatia,rus,Russian,L2_speakers,8,2024
 HR,Croatia,rus,Russian,L3_speakers,1,2024
-HR,Croatia,rus,Russian,L4_speakers,1,2024
+HR,Croatia,rus,Russian,L4_speakers,2,2024
 IT,Italy,rus,Russian,L2_speakers,2,2024
 IT,Italy,rus,Russian,L3_speakers,6,2024
-IT,Italy,rus,Russian,L4_speakers,6,2024
+IT,Italy,rus,Russian,L4_speakers,1,2024
 CY,Cyprus,rus,Russian,L1_speakers,6,2024
 CY,Cyprus,rus,Russian,L2_speakers,2,2024
 CY,Cyprus,rus,Russian,L3_speakers,15,2024
-CY,Cyprus,rus,Russian,L4_speakers,15,2024
+CY,Cyprus,rus,Russian,L4_speakers,2,2024
 LV,Latvia,rus,Russian,L1_speakers,248,2024
 LV,Latvia,rus,Russian,L2_speakers,466,2024
 LV,Latvia,rus,Russian,L3_speakers,164,2024
-LV,Latvia,rus,Russian,L4_speakers,164,2024
+LV,Latvia,rus,Russian,L4_speakers,32,2024
 LT,Lithuania,rus,Russian,L1_speakers,40,2024
 LT,Lithuania,rus,Russian,L2_speakers,443,2024
 LT,Lithuania,rus,Russian,L3_speakers,164,2024
-LT,Lithuania,rus,Russian,L4_speakers,164,2024
+LT,Lithuania,rus,Russian,L4_speakers,26,2024
 LU,Luxembourg,rus,Russian,L1_speakers,5,2024
 LU,Luxembourg,rus,Russian,L2_speakers,1,2024
+LU,Luxembourg,rus,Russian,L4_speakers,1,2024
 HU,Hungary,rus,Russian,L2_speakers,7,2024
 HU,Hungary,rus,Russian,L3_speakers,10,2024
-HU,Hungary,rus,Russian,L4_speakers,10,2024
+HU,Hungary,rus,Russian,L4_speakers,3,2024
 MT,Malta,rus,Russian,L1_speakers,3,2024
 MT,Malta,rus,Russian,L3_speakers,2,2024
 MT,Malta,rus,Russian,L4_speakers,2,2024
 NL,Netherlands,rus,Russian,L3_speakers,2,2024
-NL,Netherlands,rus,Russian,L4_speakers,2,2024
+NL,Netherlands,rus,Russian,L4_speakers,1,2024
 AT,Austria,rus,Russian,L2_speakers,1,2024
 AT,Austria,rus,Russian,L3_speakers,3,2024
-AT,Austria,rus,Russian,L4_speakers,3,2024
+AT,Austria,rus,Russian,L4_speakers,8,2024
 PL,Poland,rus,Russian,L1_speakers,1,2024
 PL,Poland,rus,Russian,L2_speakers,34,2024
 PL,Poland,rus,Russian,L3_speakers,14,2024
-PL,Poland,rus,Russian,L4_speakers,14,2024
+PL,Poland,rus,Russian,L4_speakers,3,2024
 PT,Portugal,rus,Russian,L1_speakers,1,2024
 PT,Portugal,rus,Russian,L3_speakers,1,2024
-PT,Portugal,rus,Russian,L4_speakers,1,2024
 RO,Romania,rus,Russian,L1_speakers,1,2024
 RO,Romania,rus,Russian,L2_speakers,3,2024
 RO,Romania,rus,Russian,L3_speakers,3,2024
-RO,Romania,rus,Russian,L4_speakers,3,2024
+RO,Romania,rus,Russian,L4_speakers,1,2024
 SI,Slovenia,rus,Russian,L2_speakers,1,2024
 SI,Slovenia,rus,Russian,L3_speakers,9,2024
-SI,Slovenia,rus,Russian,L4_speakers,9,2024
+SI,Slovenia,rus,Russian,L4_speakers,7,2024
 SK,Slovakia,rus,Russian,L1_speakers,4,2024
 SK,Slovakia,rus,Russian,L2_speakers,54,2024
 SK,Slovakia,rus,Russian,L3_speakers,62,2024
-SK,Slovakia,rus,Russian,L4_speakers,62,2024
+SK,Slovakia,rus,Russian,L4_speakers,26,2024
 FI,Finland,rus,Russian,L1_speakers,3,2024
 FI,Finland,rus,Russian,L2_speakers,7,2024
 FI,Finland,rus,Russian,L3_speakers,10,2024
-FI,Finland,rus,Russian,L4_speakers,10,2024
+FI,Finland,rus,Russian,L4_speakers,23,2024
 SE,Sweden,rus,Russian,L2_speakers,1,2024
 SE,Sweden,rus,Russian,L3_speakers,8,2024
-SE,Sweden,rus,Russian,L4_speakers,8,2024
+SE,Sweden,rus,Russian,L4_speakers,5,2024
 EE,Estonia,sme,Sami,L1_speakers,1,2024
 NL,Netherlands,sme,Sami,L1_speakers,1,2024
 FI,Finland,sme,Sami,L3_speakers,1,2024
@@ -2750,316 +2741,300 @@ FI,Finland,sme,Sami,L4_speakers,1,2024
 SE,Sweden,sme,Sami,L1_speakers,1,2024
 BE,Belgium,srd,Sardinian,L1_speakers,1,2024
 BE,Belgium,srd,Sardinian,L3_speakers,2,2024
-BE,Belgium,srd,Sardinian,L4_speakers,2,2024
+BE,Belgium,srd,Sardinian,L4_speakers,1,2024
 IE,Ireland,srd,Sardinian,L3_speakers,2,2024
-IE,Ireland,srd,Sardinian,L4_speakers,2,2024
 HR,Croatia,srd,Sardinian,L1_speakers,2,2024
 IT,Italy,srd,Sardinian,L2_speakers,19,2024
 IT,Italy,srd,Sardinian,L3_speakers,2,2024
-IT,Italy,srd,Sardinian,L4_speakers,2,2024
 NL,Netherlands,srd,Sardinian,L1_speakers,1,2024
-BG,Bulgaria,srp,Serbian/Bosnian/Montenegrin,L2_speakers,3,2024
-BG,Bulgaria,srp,Serbian/Bosnian/Montenegrin,L3_speakers,1,2024
-BG,Bulgaria,srp,Serbian/Bosnian/Montenegrin,L4_speakers,1,2024
-CZ,Czech Republic,srp,Serbian/Bosnian/Montenegrin,L3_speakers,2,2024
-CZ,Czech Republic,srp,Serbian/Bosnian/Montenegrin,L4_speakers,2,2024
-DK,Denmark,srp,Serbian/Bosnian/Montenegrin,L1_speakers,1,2024
-DK,Denmark,srp,Serbian/Bosnian/Montenegrin,L2_speakers,2,2024
-DE,Germany,srp,Serbian/Bosnian/Montenegrin,L1_speakers,3,2024
-DE,Germany,srp,Serbian/Bosnian/Montenegrin,L2_speakers,2,2024
-DE,Germany,srp,Serbian/Bosnian/Montenegrin,L3_speakers,2,2024
-DE,Germany,srp,Serbian/Bosnian/Montenegrin,L4_speakers,2,2024
-IE,Ireland,srp,Serbian/Bosnian/Montenegrin,L1_speakers,1,2024
-EL,Greece,srp,Serbian/Bosnian/Montenegrin,L3_speakers,2,2024
-EL,Greece,srp,Serbian/Bosnian/Montenegrin,L4_speakers,2,2024
-FR,France,srp,Serbian/Bosnian/Montenegrin,L1_speakers,1,2024
-HR,Croatia,srp,Serbian/Bosnian/Montenegrin,L1_speakers,22,2024
-HR,Croatia,srp,Serbian/Bosnian/Montenegrin,L2_speakers,57,2024
-HR,Croatia,srp,Serbian/Bosnian/Montenegrin,L3_speakers,26,2024
-HR,Croatia,srp,Serbian/Bosnian/Montenegrin,L4_speakers,26,2024
-LV,Latvia,srp,Serbian/Bosnian/Montenegrin,L1_speakers,1,2024
-LU,Luxembourg,srp,Serbian/Bosnian/Montenegrin,L1_speakers,9,2024
-HU,Hungary,srp,Serbian/Bosnian/Montenegrin,L2_speakers,2,2024
-AT,Austria,srp,Serbian/Bosnian/Montenegrin,L1_speakers,8,2024
-AT,Austria,srp,Serbian/Bosnian/Montenegrin,L2_speakers,2,2024
-AT,Austria,srp,Serbian/Bosnian/Montenegrin,L3_speakers,2,2024
-AT,Austria,srp,Serbian/Bosnian/Montenegrin,L4_speakers,2,2024
-RO,Romania,srp,Serbian/Bosnian/Montenegrin,L2_speakers,2,2024
-SI,Slovenia,srp,Serbian/Bosnian/Montenegrin,L1_speakers,34,2024
-SI,Slovenia,srp,Serbian/Bosnian/Montenegrin,L2_speakers,60,2024
-SI,Slovenia,srp,Serbian/Bosnian/Montenegrin,L3_speakers,94,2024
-SI,Slovenia,srp,Serbian/Bosnian/Montenegrin,L4_speakers,94,2024
-FI,Finland,srp,Serbian/Bosnian/Montenegrin,L1_speakers,2,2024
-SE,Sweden,srp,Serbian/Bosnian/Montenegrin,L1_speakers,2,2024
+BG,Bulgaria,hbs,Serbian/Bosnian/Montenegrin,L2_speakers,3,2024
+BG,Bulgaria,hbs,Serbian/Bosnian/Montenegrin,L3_speakers,1,2024
+BG,Bulgaria,hbs,Serbian/Bosnian/Montenegrin,L4_speakers,4,2024
+CZ,Czechia,hbs,Serbian/Bosnian/Montenegrin,L3_speakers,2,2024
+DK,Denmark,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,1,2024
+DK,Denmark,hbs,Serbian/Bosnian/Montenegrin,L2_speakers,2,2024
+DE,Germany,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,3,2024
+DE,Germany,hbs,Serbian/Bosnian/Montenegrin,L2_speakers,2,2024
+DE,Germany,hbs,Serbian/Bosnian/Montenegrin,L3_speakers,2,2024
+EE,Estonia,hbs,Serbian/Bosnian/Montenegrin,L4_speakers,1,2024
+IE,Ireland,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,1,2024
+GR,Greece,hbs,Serbian/Bosnian/Montenegrin,L3_speakers,2,2024
+GR,Greece,hbs,Serbian/Bosnian/Montenegrin,L4_speakers,1,2024
+FR,France,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,1,2024
+HR,Croatia,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,22,2024
+HR,Croatia,hbs,Serbian/Bosnian/Montenegrin,L2_speakers,57,2024
+HR,Croatia,hbs,Serbian/Bosnian/Montenegrin,L3_speakers,26,2024
+HR,Croatia,hbs,Serbian/Bosnian/Montenegrin,L4_speakers,7,2024
+LV,Latvia,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,1,2024
+LU,Luxembourg,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,9,2024
+HU,Hungary,hbs,Serbian/Bosnian/Montenegrin,L2_speakers,2,2024
+MT,Malta,hbs,Serbian/Bosnian/Montenegrin,L4_speakers,2,2024
+AT,Austria,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,8,2024
+AT,Austria,hbs,Serbian/Bosnian/Montenegrin,L2_speakers,2,2024
+AT,Austria,hbs,Serbian/Bosnian/Montenegrin,L3_speakers,2,2024
+RO,Romania,hbs,Serbian/Bosnian/Montenegrin,L2_speakers,2,2024
+SI,Slovenia,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,34,2024
+SI,Slovenia,hbs,Serbian/Bosnian/Montenegrin,L2_speakers,60,2024
+SI,Slovenia,hbs,Serbian/Bosnian/Montenegrin,L3_speakers,94,2024
+SI,Slovenia,hbs,Serbian/Bosnian/Montenegrin,L4_speakers,67,2024
+SK,Slovakia,hbs,Serbian/Bosnian/Montenegrin,L4_speakers,1,2024
+FI,Finland,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,2,2024
+SE,Sweden,hbs,Serbian/Bosnian/Montenegrin,L1_speakers,2,2024
+SE,Sweden,hbs,Serbian/Bosnian/Montenegrin,L4_speakers,2,2024
 BE,Belgium,slk,Slovak,L1_speakers,1,2024
 BE,Belgium,slk,Slovak,L3_speakers,1,2024
-BE,Belgium,slk,Slovak,L4_speakers,1,2024
-CZ,Czech Republic,slk,Slovak,L1_speakers,8,2024
-CZ,Czech Republic,slk,Slovak,L2_speakers,77,2024
-CZ,Czech Republic,slk,Slovak,L3_speakers,55,2024
-CZ,Czech Republic,slk,Slovak,L4_speakers,55,2024
+BG,Bulgaria,slk,Slovak,L4_speakers,1,2024
+CZ,Czechia,slk,Slovak,L1_speakers,8,2024
+CZ,Czechia,slk,Slovak,L2_speakers,77,2024
+CZ,Czechia,slk,Slovak,L3_speakers,55,2024
+CZ,Czechia,slk,Slovak,L4_speakers,29,2024
 DE,Germany,slk,Slovak,L1_speakers,2,2024
 EE,Estonia,slk,Slovak,L1_speakers,1,2024
 IE,Ireland,slk,Slovak,L1_speakers,6,2024
 HR,Croatia,slk,Slovak,L1_speakers,2,2024
 HR,Croatia,slk,Slovak,L2_speakers,7,2024
 HR,Croatia,slk,Slovak,L3_speakers,3,2024
-HR,Croatia,slk,Slovak,L4_speakers,3,2024
+CY,Cyprus,slk,Slovak,L4_speakers,3,2024
 HU,Hungary,slk,Slovak,L2_speakers,1,2024
 HU,Hungary,slk,Slovak,L3_speakers,2,2024
-HU,Hungary,slk,Slovak,L4_speakers,2,2024
 AT,Austria,slk,Slovak,L1_speakers,2,2024
 AT,Austria,slk,Slovak,L2_speakers,3,2024
 AT,Austria,slk,Slovak,L3_speakers,2,2024
-AT,Austria,slk,Slovak,L4_speakers,2,2024
 PL,Poland,slk,Slovak,L3_speakers,1,2024
-PL,Poland,slk,Slovak,L4_speakers,1,2024
 SI,Slovenia,slk,Slovak,L1_speakers,1,2024
+SI,Slovenia,slk,Slovak,L4_speakers,1,2024
 SK,Slovakia,slk,Slovak,L1_speakers,858,2024
 SK,Slovakia,slk,Slovak,L2_speakers,83,2024
 SK,Slovakia,slk,Slovak,L3_speakers,6,2024
-SK,Slovakia,slk,Slovak,L4_speakers,6,2024
-CZ,Czech Republic,slv,Slovenian,L2_speakers,2,2024
+SK,Slovakia,slk,Slovak,L4_speakers,4,2024
+CZ,Czechia,slv,Slovenian,L2_speakers,2,2024
 DE,Germany,slv,Slovenian,L1_speakers,2,2024
 IE,Ireland,slv,Slovenian,L1_speakers,1,2024
 IE,Ireland,slv,Slovenian,L3_speakers,4,2024
-IE,Ireland,slv,Slovenian,L4_speakers,4,2024
 HR,Croatia,slv,Slovenian,L1_speakers,1,2024
 HR,Croatia,slv,Slovenian,L2_speakers,11,2024
 HR,Croatia,slv,Slovenian,L3_speakers,6,2024
-HR,Croatia,slv,Slovenian,L4_speakers,6,2024
+HR,Croatia,slv,Slovenian,L4_speakers,5,2024
 IT,Italy,slv,Slovenian,L1_speakers,3,2024
 IT,Italy,slv,Slovenian,L2_speakers,2,2024
 IT,Italy,slv,Slovenian,L3_speakers,2,2024
-IT,Italy,slv,Slovenian,L4_speakers,2,2024
+IT,Italy,slv,Slovenian,L4_speakers,1,2024
 AT,Austria,slv,Slovenian,L1_speakers,2,2024
 AT,Austria,slv,Slovenian,L2_speakers,3,2024
 AT,Austria,slv,Slovenian,L3_speakers,2,2024
-AT,Austria,slv,Slovenian,L4_speakers,2,2024
+AT,Austria,slv,Slovenian,L4_speakers,1,2024
 SI,Slovenia,slv,Slovenian,L1_speakers,930,2024
 SI,Slovenia,slv,Slovenian,L2_speakers,32,2024
 SI,Slovenia,slv,Slovenian,L3_speakers,9,2024
-SI,Slovenia,slv,Slovenian,L4_speakers,9,2024
+SI,Slovenia,slv,Slovenian,L4_speakers,7,2024
 SK,Slovakia,slv,Slovenian,L1_speakers,3,2024
 BE,Belgium,spa,Spanish,L1_speakers,10,2024
 BE,Belgium,spa,Spanish,L2_speakers,22,2024
 BE,Belgium,spa,Spanish,L3_speakers,20,2024
-BE,Belgium,spa,Spanish,L4_speakers,20,2024
+BE,Belgium,spa,Spanish,L4_speakers,47,2024
 BG,Bulgaria,spa,Spanish,L2_speakers,8,2024
 BG,Bulgaria,spa,Spanish,L3_speakers,13,2024
-BG,Bulgaria,spa,Spanish,L4_speakers,13,2024
-CZ,Czech Republic,spa,Spanish,L2_speakers,5,2024
-CZ,Czech Republic,spa,Spanish,L3_speakers,16,2024
-CZ,Czech Republic,spa,Spanish,L4_speakers,16,2024
+BG,Bulgaria,spa,Spanish,L4_speakers,4,2024
+CZ,Czechia,spa,Spanish,L2_speakers,5,2024
+CZ,Czechia,spa,Spanish,L3_speakers,16,2024
+CZ,Czechia,spa,Spanish,L4_speakers,3,2024
 DK,Denmark,spa,Spanish,L2_speakers,4,2024
 DK,Denmark,spa,Spanish,L3_speakers,46,2024
-DK,Denmark,spa,Spanish,L4_speakers,46,2024
+DK,Denmark,spa,Spanish,L4_speakers,37,2024
 DE,Germany,spa,Spanish,L1_speakers,8,2024
 DE,Germany,spa,Spanish,L2_speakers,16,2024
 DE,Germany,spa,Spanish,L3_speakers,48,2024
-DE,Germany,spa,Spanish,L4_speakers,48,2024
+DE,Germany,spa,Spanish,L4_speakers,51,2024
 EE,Estonia,spa,Spanish,L2_speakers,1,2024
 EE,Estonia,spa,Spanish,L3_speakers,9,2024
 EE,Estonia,spa,Spanish,L4_speakers,9,2024
 IE,Ireland,spa,Spanish,L1_speakers,12,2024
 IE,Ireland,spa,Spanish,L2_speakers,31,2024
 IE,Ireland,spa,Spanish,L3_speakers,19,2024
-IE,Ireland,spa,Spanish,L4_speakers,19,2024
-EL,Greece,spa,Spanish,L2_speakers,3,2024
-EL,Greece,spa,Spanish,L3_speakers,11,2024
-EL,Greece,spa,Spanish,L4_speakers,11,2024
+IE,Ireland,spa,Spanish,L4_speakers,8,2024
+GR,Greece,spa,Spanish,L2_speakers,3,2024
+GR,Greece,spa,Spanish,L3_speakers,11,2024
+GR,Greece,spa,Spanish,L4_speakers,6,2024
 ES,Spain,spa,Spanish,L1_speakers,832,2024
 ES,Spain,spa,Spanish,L2_speakers,120,2024
 ES,Spain,spa,Spanish,L3_speakers,19,2024
-ES,Spain,spa,Spanish,L4_speakers,19,2024
+ES,Spain,spa,Spanish,L4_speakers,2,2024
 FR,France,spa,Spanish,L1_speakers,9,2024
 FR,France,spa,Spanish,L2_speakers,50,2024
 FR,France,spa,Spanish,L3_speakers,69,2024
-FR,France,spa,Spanish,L4_speakers,69,2024
+FR,France,spa,Spanish,L4_speakers,9,2024
 HR,Croatia,spa,Spanish,L2_speakers,3,2024
 HR,Croatia,spa,Spanish,L3_speakers,1,2024
-HR,Croatia,spa,Spanish,L4_speakers,1,2024
+HR,Croatia,spa,Spanish,L4_speakers,7,2024
 IT,Italy,spa,Spanish,L1_speakers,5,2024
 IT,Italy,spa,Spanish,L2_speakers,13,2024
 IT,Italy,spa,Spanish,L3_speakers,35,2024
-IT,Italy,spa,Spanish,L4_speakers,35,2024
+IT,Italy,spa,Spanish,L4_speakers,12,2024
 CY,Cyprus,spa,Spanish,L2_speakers,1,2024
 CY,Cyprus,spa,Spanish,L3_speakers,4,2024
-CY,Cyprus,spa,Spanish,L4_speakers,4,2024
+CY,Cyprus,spa,Spanish,L4_speakers,2,2024
 LV,Latvia,spa,Spanish,L2_speakers,2,2024
 LV,Latvia,spa,Spanish,L3_speakers,5,2024
-LV,Latvia,spa,Spanish,L4_speakers,5,2024
+LV,Latvia,spa,Spanish,L4_speakers,10,2024
 LT,Lithuania,spa,Spanish,L2_speakers,1,2024
 LT,Lithuania,spa,Spanish,L3_speakers,4,2024
-LT,Lithuania,spa,Spanish,L4_speakers,4,2024
+LT,Lithuania,spa,Spanish,L4_speakers,7,2024
 LU,Luxembourg,spa,Spanish,L1_speakers,13,2024
 LU,Luxembourg,spa,Spanish,L2_speakers,8,2024
 LU,Luxembourg,spa,Spanish,L3_speakers,21,2024
-LU,Luxembourg,spa,Spanish,L4_speakers,21,2024
+LU,Luxembourg,spa,Spanish,L4_speakers,33,2024
 HU,Hungary,spa,Spanish,L2_speakers,5,2024
 HU,Hungary,spa,Spanish,L3_speakers,4,2024
-HU,Hungary,spa,Spanish,L4_speakers,4,2024
+HU,Hungary,spa,Spanish,L4_speakers,7,2024
 MT,Malta,spa,Spanish,L2_speakers,2,2024
 MT,Malta,spa,Spanish,L3_speakers,9,2024
-MT,Malta,spa,Spanish,L4_speakers,9,2024
+MT,Malta,spa,Spanish,L4_speakers,10,2024
 NL,Netherlands,spa,Spanish,L1_speakers,2,2024
 NL,Netherlands,spa,Spanish,L2_speakers,13,2024
 NL,Netherlands,spa,Spanish,L3_speakers,39,2024
-NL,Netherlands,spa,Spanish,L4_speakers,39,2024
+NL,Netherlands,spa,Spanish,L4_speakers,42,2024
 AT,Austria,spa,Spanish,L1_speakers,4,2024
 AT,Austria,spa,Spanish,L2_speakers,5,2024
 AT,Austria,spa,Spanish,L3_speakers,27,2024
-AT,Austria,spa,Spanish,L4_speakers,27,2024
+AT,Austria,spa,Spanish,L4_speakers,6,2024
 PL,Poland,spa,Spanish,L2_speakers,5,2024
 PL,Poland,spa,Spanish,L3_speakers,3,2024
-PL,Poland,spa,Spanish,L4_speakers,3,2024
 PT,Portugal,spa,Spanish,L1_speakers,2,2024
 PT,Portugal,spa,Spanish,L2_speakers,32,2024
 PT,Portugal,spa,Spanish,L3_speakers,40,2024
-PT,Portugal,spa,Spanish,L4_speakers,40,2024
+PT,Portugal,spa,Spanish,L4_speakers,13,2024
 RO,Romania,spa,Spanish,L1_speakers,1,2024
 RO,Romania,spa,Spanish,L2_speakers,10,2024
 RO,Romania,spa,Spanish,L3_speakers,12,2024
-RO,Romania,spa,Spanish,L4_speakers,12,2024
+RO,Romania,spa,Spanish,L4_speakers,6,2024
 SI,Slovenia,spa,Spanish,L1_speakers,2,2024
 SI,Slovenia,spa,Spanish,L2_speakers,2,2024
 SI,Slovenia,spa,Spanish,L3_speakers,21,2024
-SI,Slovenia,spa,Spanish,L4_speakers,21,2024
+SI,Slovenia,spa,Spanish,L4_speakers,18,2024
 SK,Slovakia,spa,Spanish,L1_speakers,2,2024
 SK,Slovakia,spa,Spanish,L2_speakers,1,2024
 SK,Slovakia,spa,Spanish,L3_speakers,11,2024
-SK,Slovakia,spa,Spanish,L4_speakers,11,2024
+SK,Slovakia,spa,Spanish,L4_speakers,9,2024
 FI,Finland,spa,Spanish,L2_speakers,2,2024
 FI,Finland,spa,Spanish,L3_speakers,17,2024
-FI,Finland,spa,Spanish,L4_speakers,17,2024
+FI,Finland,spa,Spanish,L4_speakers,23,2024
 SE,Sweden,spa,Spanish,L1_speakers,12,2024
 SE,Sweden,spa,Spanish,L2_speakers,15,2024
 SE,Sweden,spa,Spanish,L3_speakers,54,2024
-SE,Sweden,spa,Spanish,L4_speakers,54,2024
+SE,Sweden,spa,Spanish,L4_speakers,22,2024
 BE,Belgium,swe,Swedish,L2_speakers,1,2024
 BE,Belgium,swe,Swedish,L3_speakers,3,2024
-BE,Belgium,swe,Swedish,L4_speakers,3,2024
 BG,Bulgaria,swe,Swedish,L3_speakers,1,2024
-BG,Bulgaria,swe,Swedish,L4_speakers,1,2024
-CZ,Czech Republic,swe,Swedish,L2_speakers,1,2024
+CZ,Czechia,swe,Swedish,L2_speakers,1,2024
 DK,Denmark,swe,Swedish,L1_speakers,4,2024
 DK,Denmark,swe,Swedish,L2_speakers,3,2024
 DK,Denmark,swe,Swedish,L3_speakers,51,2024
-DK,Denmark,swe,Swedish,L4_speakers,51,2024
+DK,Denmark,swe,Swedish,L4_speakers,82,2024
 DE,Germany,swe,Swedish,L2_speakers,1,2024
 DE,Germany,swe,Swedish,L3_speakers,2,2024
-DE,Germany,swe,Swedish,L4_speakers,2,2024
+DE,Germany,swe,Swedish,L4_speakers,1,2024
 EE,Estonia,swe,Swedish,L2_speakers,2,2024
 EE,Estonia,swe,Swedish,L3_speakers,6,2024
-EE,Estonia,swe,Swedish,L4_speakers,6,2024
+EE,Estonia,swe,Swedish,L4_speakers,7,2024
 IE,Ireland,swe,Swedish,L2_speakers,1,2024
 IE,Ireland,swe,Swedish,L3_speakers,1,2024
-IE,Ireland,swe,Swedish,L4_speakers,1,2024
-EL,Greece,swe,Swedish,L3_speakers,2,2024
-EL,Greece,swe,Swedish,L4_speakers,2,2024
+GR,Greece,swe,Swedish,L3_speakers,2,2024
 ES,Spain,swe,Swedish,L3_speakers,1,2024
-ES,Spain,swe,Swedish,L4_speakers,1,2024
+FR,France,swe,Swedish,L4_speakers,1,2024
 HR,Croatia,swe,Swedish,L1_speakers,1,2024
 HR,Croatia,swe,Swedish,L2_speakers,1,2024
 HR,Croatia,swe,Swedish,L3_speakers,1,2024
-HR,Croatia,swe,Swedish,L4_speakers,1,2024
+HR,Croatia,swe,Swedish,L4_speakers,2,2024
 IT,Italy,swe,Swedish,L1_speakers,1,2024
 CY,Cyprus,swe,Swedish,L2_speakers,1,2024
 CY,Cyprus,swe,Swedish,L3_speakers,2,2024
-CY,Cyprus,swe,Swedish,L4_speakers,2,2024
 LV,Latvia,swe,Swedish,L2_speakers,2,2024
 LV,Latvia,swe,Swedish,L3_speakers,3,2024
-LV,Latvia,swe,Swedish,L4_speakers,3,2024
+LV,Latvia,swe,Swedish,L4_speakers,2,2024
 LT,Lithuania,swe,Swedish,L3_speakers,2,2024
-LT,Lithuania,swe,Swedish,L4_speakers,2,2024
 LU,Luxembourg,swe,Swedish,L3_speakers,3,2024
-LU,Luxembourg,swe,Swedish,L4_speakers,3,2024
+LU,Luxembourg,swe,Swedish,L4_speakers,1,2024
 HU,Hungary,swe,Swedish,L2_speakers,1,2024
 MT,Malta,swe,Swedish,L1_speakers,1,2024
 NL,Netherlands,swe,Swedish,L1_speakers,2,2024
 NL,Netherlands,swe,Swedish,L2_speakers,1,2024
 NL,Netherlands,swe,Swedish,L3_speakers,4,2024
-NL,Netherlands,swe,Swedish,L4_speakers,4,2024
+NL,Netherlands,swe,Swedish,L4_speakers,3,2024
 AT,Austria,swe,Swedish,L1_speakers,1,2024
 AT,Austria,swe,Swedish,L3_speakers,3,2024
-AT,Austria,swe,Swedish,L4_speakers,3,2024
 PT,Portugal,swe,Swedish,L1_speakers,1,2024
 SI,Slovenia,swe,Swedish,L2_speakers,1,2024
+SI,Slovenia,swe,Swedish,L4_speakers,1,2024
 FI,Finland,swe,Swedish,L1_speakers,33,2024
 FI,Finland,swe,Swedish,L2_speakers,88,2024
 FI,Finland,swe,Swedish,L3_speakers,323,2024
-FI,Finland,swe,Swedish,L4_speakers,323,2024
+FI,Finland,swe,Swedish,L4_speakers,73,2024
 SE,Sweden,swe,Swedish,L1_speakers,1000,2024
 SE,Sweden,swe,Swedish,L2_speakers,40,2024
 SE,Sweden,swe,Swedish,L3_speakers,9,2024
-SE,Sweden,swe,Swedish,L4_speakers,9,2024
+SE,Sweden,swe,Swedish,L4_speakers,6,2024
 BE,Belgium,tur,Turkish,L1_speakers,2,2024
 BE,Belgium,tur,Turkish,L3_speakers,3,2024
 BE,Belgium,tur,Turkish,L4_speakers,3,2024
 BG,Bulgaria,tur,Turkish,L1_speakers,87,2024
 BG,Bulgaria,tur,Turkish,L2_speakers,15,2024
 BG,Bulgaria,tur,Turkish,L3_speakers,6,2024
-BG,Bulgaria,tur,Turkish,L4_speakers,6,2024
+CZ,Czechia,tur,Turkish,L4_speakers,2,2024
 DE,Germany,tur,Turkish,L1_speakers,24,2024
 DE,Germany,tur,Turkish,L2_speakers,6,2024
 DE,Germany,tur,Turkish,L3_speakers,6,2024
-DE,Germany,tur,Turkish,L4_speakers,6,2024
+DE,Germany,tur,Turkish,L4_speakers,2,2024
 EE,Estonia,tur,Turkish,L1_speakers,1,2024
 EE,Estonia,tur,Turkish,L2_speakers,1,2024
+EE,Estonia,tur,Turkish,L4_speakers,1,2024
 IE,Ireland,tur,Turkish,L1_speakers,1,2024
-EL,Greece,tur,Turkish,L1_speakers,15,2024
-EL,Greece,tur,Turkish,L2_speakers,8,2024
-EL,Greece,tur,Turkish,L3_speakers,5,2024
-EL,Greece,tur,Turkish,L4_speakers,5,2024
+GR,Greece,tur,Turkish,L1_speakers,15,2024
+GR,Greece,tur,Turkish,L2_speakers,8,2024
+GR,Greece,tur,Turkish,L3_speakers,5,2024
+GR,Greece,tur,Turkish,L4_speakers,1,2024
 FR,France,tur,Turkish,L1_speakers,2,2024
 FR,France,tur,Turkish,L2_speakers,1,2024
 FR,France,tur,Turkish,L3_speakers,2,2024
-FR,France,tur,Turkish,L4_speakers,2,2024
+FR,France,tur,Turkish,L4_speakers,4,2024
 HR,Croatia,tur,Turkish,L1_speakers,1,2024
 HR,Croatia,tur,Turkish,L2_speakers,2,2024
 HR,Croatia,tur,Turkish,L3_speakers,1,2024
 HR,Croatia,tur,Turkish,L4_speakers,1,2024
 IT,Italy,tur,Turkish,L2_speakers,1,2024
 IT,Italy,tur,Turkish,L3_speakers,1,2024
-IT,Italy,tur,Turkish,L4_speakers,1,2024
 CY,Cyprus,tur,Turkish,L2_speakers,1,2024
 CY,Cyprus,tur,Turkish,L3_speakers,4,2024
-CY,Cyprus,tur,Turkish,L4_speakers,4,2024
+CY,Cyprus,tur,Turkish,L4_speakers,2,2024
 LV,Latvia,tur,Turkish,L3_speakers,2,2024
-LV,Latvia,tur,Turkish,L4_speakers,2,2024
+LT,Lithuania,tur,Turkish,L4_speakers,1,2024
 LU,Luxembourg,tur,Turkish,L3_speakers,1,2024
-LU,Luxembourg,tur,Turkish,L4_speakers,1,2024
 HU,Hungary,tur,Turkish,L1_speakers,1,2024
 NL,Netherlands,tur,Turkish,L1_speakers,2,2024
 NL,Netherlands,tur,Turkish,L3_speakers,1,2024
-NL,Netherlands,tur,Turkish,L4_speakers,1,2024
+NL,Netherlands,tur,Turkish,L4_speakers,7,2024
 AT,Austria,tur,Turkish,L1_speakers,17,2024
 AT,Austria,tur,Turkish,L2_speakers,2,2024
 AT,Austria,tur,Turkish,L3_speakers,3,2024
-AT,Austria,tur,Turkish,L4_speakers,3,2024
 RO,Romania,tur,Turkish,L2_speakers,1,2024
 RO,Romania,tur,Turkish,L3_speakers,1,2024
 RO,Romania,tur,Turkish,L4_speakers,1,2024
 SI,Slovenia,tur,Turkish,L2_speakers,1,2024
 SE,Sweden,tur,Turkish,L3_speakers,2,2024
-SE,Sweden,tur,Turkish,L4_speakers,2,2024
 BE,Belgium,ukr,Ukrainian,L1_speakers,1,2024
 BG,Bulgaria,ukr,Ukrainian,L3_speakers,1,2024
-BG,Bulgaria,ukr,Ukrainian,L4_speakers,1,2024
-CZ,Czech Republic,ukr,Ukrainian,L1_speakers,1,2024
-CZ,Czech Republic,ukr,Ukrainian,L2_speakers,1,2024
-CZ,Czech Republic,ukr,Ukrainian,L3_speakers,2,2024
-CZ,Czech Republic,ukr,Ukrainian,L4_speakers,2,2024
+CZ,Czechia,ukr,Ukrainian,L1_speakers,1,2024
+CZ,Czechia,ukr,Ukrainian,L2_speakers,1,2024
+CZ,Czechia,ukr,Ukrainian,L3_speakers,2,2024
+CZ,Czechia,ukr,Ukrainian,L4_speakers,3,2024
 DE,Germany,ukr,Ukrainian,L1_speakers,3,2024
 DE,Germany,ukr,Ukrainian,L3_speakers,2,2024
-DE,Germany,ukr,Ukrainian,L4_speakers,2,2024
+DE,Germany,ukr,Ukrainian,L4_speakers,1,2024
 EE,Estonia,ukr,Ukrainian,L1_speakers,3,2024
 EE,Estonia,ukr,Ukrainian,L2_speakers,6,2024
 EE,Estonia,ukr,Ukrainian,L3_speakers,2,2024
-EE,Estonia,ukr,Ukrainian,L4_speakers,2,2024
+EE,Estonia,ukr,Ukrainian,L4_speakers,7,2024
 IE,Ireland,ukr,Ukrainian,L3_speakers,1,2024
-IE,Ireland,ukr,Ukrainian,L4_speakers,1,2024
-EL,Greece,ukr,Ukrainian,L2_speakers,1,2024
+GR,Greece,ukr,Ukrainian,L2_speakers,1,2024
 ES,Spain,ukr,Ukrainian,L1_speakers,1,2024
 FR,France,ukr,Ukrainian,L1_speakers,1,2024
 FR,France,ukr,Ukrainian,L2_speakers,1,2024
@@ -3068,24 +3043,26 @@ IT,Italy,ukr,Ukrainian,L2_speakers,2,2024
 LV,Latvia,ukr,Ukrainian,L1_speakers,3,2024
 LV,Latvia,ukr,Ukrainian,L2_speakers,8,2024
 LV,Latvia,ukr,Ukrainian,L3_speakers,16,2024
-LV,Latvia,ukr,Ukrainian,L4_speakers,16,2024
+LV,Latvia,ukr,Ukrainian,L4_speakers,15,2024
 LT,Lithuania,ukr,Ukrainian,L2_speakers,2,2024
 LT,Lithuania,ukr,Ukrainian,L3_speakers,2,2024
-LT,Lithuania,ukr,Ukrainian,L4_speakers,2,2024
+LT,Lithuania,ukr,Ukrainian,L4_speakers,7,2024
 AT,Austria,ukr,Ukrainian,L3_speakers,3,2024
-AT,Austria,ukr,Ukrainian,L4_speakers,3,2024
+AT,Austria,ukr,Ukrainian,L4_speakers,2,2024
 PL,Poland,ukr,Ukrainian,L1_speakers,1,2024
 PL,Poland,ukr,Ukrainian,L3_speakers,2,2024
-PL,Poland,ukr,Ukrainian,L4_speakers,2,2024
 PT,Portugal,ukr,Ukrainian,L1_speakers,1,2024
 SI,Slovenia,ukr,Ukrainian,L2_speakers,1,2024
 SI,Slovenia,ukr,Ukrainian,L3_speakers,1,2024
-SI,Slovenia,ukr,Ukrainian,L4_speakers,1,2024
 SK,Slovakia,ukr,Ukrainian,L1_speakers,1,2024
 SK,Slovakia,ukr,Ukrainian,L2_speakers,3,2024
 SK,Slovakia,ukr,Ukrainian,L3_speakers,1,2024
 SK,Slovakia,ukr,Ukrainian,L4_speakers,1,2024
 SE,Sweden,ukr,Ukrainian,L1_speakers,3,2024
+SE,Sweden,ukr,Ukrainian,L4_speakers,3,2024
 BE,Belgium,yid,Yiddish,L1_speakers,1,2024
+BE,Belgium,yid,Yiddish,L4_speakers,2,2024
 DE,Germany,yid,Yiddish,L2_speakers,3,2024
+EE,Estonia,yid,Yiddish,L4_speakers,1,2024
 IE,Ireland,yid,Yiddish,L1_speakers,1,2024
+NL,Netherlands,yid,Yiddish,L4_speakers,1,2024
